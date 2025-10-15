@@ -22,7 +22,7 @@
       "ad": true,
       "show_text": true,
       "day": "all",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 2,
@@ -34,7 +34,7 @@
       "ad": true,
       "show_text": false,
       "day": "monday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "ad": true,
       "show_text": false,
       "day": "Tuesday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 4,
@@ -58,7 +58,7 @@
       "ad": true,
       "show_text": false,
       "day": "wednesday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 5,
@@ -70,7 +70,7 @@
       "ad": true,
       "show_text": false,
       "day": "thursday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
       "ad": true,
       "show_text": false,
       "day": "friday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 7,
@@ -94,7 +94,7 @@
       "ad": true,
       "show_text": false,
       "day": "saturday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": 8,
@@ -106,7 +106,7 @@
       "ad": true,
       "show_text": false,
       "day": "sunday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     }
   ],
   "ad_banner": [
@@ -119,7 +119,7 @@
       "link": "http://example.com/ad1",
       "direct_go": false,
       "day": "all",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": "ad_2",
@@ -130,7 +130,7 @@
       "link": "http://example.com/ad2",
       "direct_go": false,
       "day": "monday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     },
     {
       "id": "ad_3",
@@ -141,14 +141,14 @@
       "link": "http://example.com/ad3",
       "direct_go": false,
       "day": "tuesday,sunday",
-      "end": "31/10/2025"
+      "end": "2025-10-31"
     }
   ],
   "special": {
     "title": "Today's Special",
     "id": "home_specials",
     "day": "all",
-    "end": "31/10/2025"
+    "end": "2025-10-31"
   },
   "categories": [
     {
