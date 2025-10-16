@@ -1,3 +1,4 @@
+
 {
   "info": {
     "version": "1.0.0",
@@ -22,8 +23,7 @@
       "ad": true,
       "show_text": true,
       "day": "all",
-      "end": "2025-10-31"
-    },
+      "end": "2025-10-31"}
    
   ],
   "ad_banner": [
@@ -37,7 +37,7 @@
       "direct_go": false,
       "day": "all",
       "end": "2025-10-31"
-    },
+    }
    
   ],
   "special": {
