@@ -150,7 +150,7 @@
     }
   ],
   "special": {
-    "title": "Today's Special",
+    "title": "Recommendation",
     "id": "home_specials",
     "day": "all",
     "end": "31/10/2025"
@@ -167,7 +167,7 @@
       "name": "Tapas",
       "id": "tapas",
       "food": true,
-      "open_in": "00:01-00:00",
+      "open_in": "00:00-00:00",
       "icon_id": "https://i.postimg.cc/RZ95kz75/guacamole.gif"
     },
     {
@@ -701,7 +701,7 @@
     "id": "ibiza_breakfast_013"
   },
   {
-    "thumbnail": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2019/02/IAM_7355w.jpg",
+    "thumbnail": "https://i.postimg.cc/L6ZVhDKB/IAM-7355w.jpg",
     "photos": [
       ""
     ],
@@ -4672,6 +4672,284 @@
       "add_on": "",
       "id": "hh16_drink_135"
     },
+  {
+    "thumbnail": "https://i.postimg.cc/G2dcTq5y/espresso-shot-crema-in-white-cup-on-wood-table-wrexham-bean.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Espresso",
+    "description": [
+      "A strong, concentrated coffee brew, perfect for a powerful kick-start to your day.",
+      "**เอสเปรสโซ่:** กาแฟเข้มข้น ช็อตเดียวที่สมบูรณ์แบบเพื่อเริ่มต้นวันของคุณอย่างมีพลัง",
+      "**အက်စ်ပရက်ဆို:** အားကောင်းပြီး အာရုံစူးစိုက်မှုရှိသော ကော်ဖီဖျော်ရည်။ တစ်နေ့တာကို အားကောင်းစွာ စတင်ရန် အကောင်းဆုံးဖြစ်သည်။",
+      "**Espresso:** Ein starker, konzentrierter Kaffeeaufguss, perfekt für einen kraftvollen Start in den Tag.",
+      "**浓缩咖啡 (Espresso):** 一种浓郁、醇厚的咖啡萃取，是开启您活力一天的完美选择。",
+      "**Эспрессо:** Крепкий, концентрированный кофейный напиток, идеально подходит для мощного старта дня.",
+      "**אספרסו:** תמצית קפה חזקה ומרוכזת, מושלמת לפתיחת יום אנרגטית.",
+      "**Espresso:** Un concentrado de café fuerte, perfecto para un comienzo potente de tu día.",
+      "**에스프레소:** 진하고 농축된 커피 추출액으로, 하루를 힘차게 시작하기에 완벽합니다."
+    ],
+    "ingredients": [
+      "Coffee"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hot",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_001"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/9MmhQz4h/the-history-of-americano-gospecialtycoffee-1024x538.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Americano",
+    "description": [
+      "Espresso shots diluted with hot water, offering a lighter yet bold coffee flavor.",
+      "**อเมริกาโน่:** ช็อตเอสเปรสโซ่เจือจางด้วยน้ำร้อน รสชาติกาแฟที่เข้มข้นแต่เบาลง",
+      "**အမေရိကန်နို:** ရေနွေးဖြင့် ဖျော်ထားသော အက်စ်ပရက်ဆိုအရည်၊ ပေါ့ပါးသော်လည်း ရဲရင့်သော ကော်ဖီအရသာကို ပေးပါသည်။",
+      "**Americano:** Espresso-Shots mit heißem Wasser verdünnt, für einen leichteren, aber dennoch kräftigen Kaffeegeschmack.",
+      "**美式咖啡 (Americano):** 浓缩咖啡用热水稀释，口感更轻盈，同时保持浓郁的咖啡风味。",
+      "**Американо:** Эспрессо, разбавленный горячей водой, обеспечивает более легкий, но насыщенный кофейный вкус.",
+      "**אמריקנו:** שוט אספרסו מדולל במים חמים, מציע טעם קפה קליל אך מודגש.",
+      "**Americano:** Shots de espresso diluidos con agua caliente, ofreciendo un sabor a café más ligero pero audaz.",
+      "**아메리카노:** 뜨거운 물로 희석한 에스프레소 샷으로, 가볍지만 진한 커피 풍미를 선사합니다."
+    ],
+    "ingredients": [
+      "Coffee",
+      "Water"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hoticed",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_002"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/t4FQdFW0/cafe-latte1-recipe-resized.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Latte (Hot / Iced)",
+    "description": [
+      "Espresso with steamed or chilled milk and a thin layer of fine foam. Smooth and creamy.",
+      "**ลาเต้ (ร้อน/เย็น):** เอสเปรสโซ่กับนมร้อนหรือนมเย็นที่มีฟองนมบางๆ เนียนนุ่มและละมุนลิ้น",
+      "**လက်တေး (အပူ/အအေး):** နို့ပူ သို့မဟုတ် အေးနှင့် ပါးလွှာသော နို့မြှုပ်အလွှာတို့ ရောထားသည့် အက်စ်ပရက်ဆို။ ချောမွေ့ပြီး နို့အရသာကြွယ်ဝပါသည်။",
+      "**Latte (Heiß / Eiskalt):** Espresso mit aufgeschäumter oder gekühlter Milch und einer dünnen Schicht feinem Schaum. Geschmeidig und cremig.",
+      "**拿铁 (Latte) (热/冰):** 浓缩咖啡搭配蒸煮或冰镇牛奶和一层薄薄的奶泡。口感顺滑香浓。",
+      "**Латте (Горячий / Ледяной):** Эспрессо со взбитым горячим или холодным молоком и тонким слоем пены. Нежный и сливочный.",
+      "**לאטה (חם / קר):** אספרסו עם חלב מאודה או קר ושכבה דקה של קצף עדין. חלק וקרמי.",
+      "**Latte (Caliente / Helado):** Espresso con leche vaporizada o fría y una fina capa de espuma. Suave y cremoso.",
+      "**라떼 (핫/아이스):** 스팀 또는 차가운 우유와 얇은 거품층을 곁들인 에스프레소. 부드럽고 크리미합니다."
+    ],
+    "ingredients": [
+      "Coffee",
+      "Milk"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hoticed",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_003"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/L5jwkpgS/sasgyb.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Cappuccino (Hot / Iced)",
+    "description": [
+      "Espresso with equal parts milk and thick, velvety foam. Available hot or iced.",
+      "**คาปูชิโน่ (ร้อน/เย็น):** เอสเปรสโซ่กับนมและฟองนมหนานุ่มในสัดส่วนที่เท่ากัน มีทั้งแบบร้อนและเย็น",
+      "**ကက်ပူချီနို (အပူ/အအေး):** နို့နှင့် နို့မြှုပ်များ တူညီသော အချိုးဖြင့် ရောထားသည့် အက်စ်ပရက်ဆို။ အပူ သို့မဟုတ် အအေး ရရှိနိုင်ပါသည်။",
+      "**Cappuccino (Heiß / Eiskalt):** Espresso mit gleichen Teilen Milch und dickem, samtigem Schaum. Heiß oder eisgekühlt erhältlich.",
+      "**卡布奇诺 (Cappuccino) (热/冰):** 浓缩咖啡与等量的牛奶和厚厚的丝滑奶泡。提供热饮或冰饮。",
+      "**Капучино (Горячий / Ледяной):** Эспрессо с равными частями молока и густой, бархатистой пены. Доступен в горячем или ледяном виде.",
+      "**קפוצ'ינו (חם / קר):** אספרסו עם חלב וקצף קטיפתי ועבה בחלקים שווים. זמין חם או קר.",
+      "**Capuchino (Caliente / Helado):** Espresso con partes iguales de leche y espuma espesa y aterciopelada. Disponible caliente o helado.",
+      "**카푸치노 (핫/아이스):** 에스프레소와 동일한 비율의 우유, 두껍고 벨벳 같은 거품. 따뜻하게 또는 차갑게 즐기세요."
+    ],
+    "ingredients": [
+      "Coffee",
+      "Milk"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hoticed",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_004"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/d3F4YTDF/flat-white-d8ada0f.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Flat White (Hot)",
+    "description": [
+      "Espresso with velvety steamed milk, topped with a very thin layer of microfoam. Extra creamy and strong.",
+      "**แฟลตไวท์ (ร้อน):** เอสเปรสโซ่กับนมร้อนเนื้อเนียนละเอียด พร้อมไมโครโฟมบางๆ ด้านบน เข้มข้นและนุ่มนวลเป็นพิเศษ",
+      "**ဖလက်ဝှိုက် (အပူ):** အလွန်ပါးလွှာသော မိုက်ခရိုအမြှုပ်အလွှာဖြင့် ဖုံးအုပ်ထားသော နို့ပူအိအိနှင့် အက်စ်ပရက်ဆို။ အထူးသဖြင့် နို့အရသာကြွယ်ဝပြီး ခိုင်မာပါသည်။",
+      "**Flat White (Heiß):** Espresso mit samtig aufgeschäumter Milch, bedeckt mit einer sehr dünnen Schicht Mikroschaum. Besonders cremig und kräftig.",
+      "**馥芮白 (Flat White) (热):** 浓缩咖啡搭配丝滑的蒸煮牛奶，顶部覆盖一层极薄的微奶泡。格外香浓醇厚。",
+      "**Флэт Уайт (Горячий):** Эспрессо с бархатистым взбитым молоком, покрытым очень тонким слоем микропены. Очень сливочный и крепкий.",
+      "**פלאט ווייט (חם):** אספרסו עם חלב מאודה קטיפתי, עם שכבה דקה מאוד של מיקרו-קצף מעל. קרמי וחזק במיוחד.",
+      "**Flat White (Caliente):** Espresso con leche vaporizada aterciopelada, cubierto con una capa muy fina de microespuma. Extra cremoso y fuerte.",
+      "**플랫 화이트 (핫):** 부드러운 스팀 우유와 아주 얇은 마이크로 폼으로 덮인 에스프레소. 유난히 크리미하고 진합니다."
+    ],
+    "ingredients": [
+      "Coffee",
+      "Milk"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hot",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_005"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/nLvmtSmC/hot-chocolate-78843-16x9.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Chocolate (Hot / Iced)",
+    "description": [
+      "Rich, creamy chocolate mixed with your choice of milk. A comforting classic.",
+      "**ช็อกโกแลต (ร้อน/เย็น):** ช็อกโกแลตเข้มข้น หอมมัน ผสมกับนมที่คุณเลือก เครื่องดื่มคลาสสิกที่ดื่มแล้วรู้สึกสบาย",
+      "**ချောကလက် (အပူ/အအေး):** သင်နှစ်သက်သော နို့ဖြင့် ရောစပ်ထားသော ချိုမြိန်ပြီး နို့အရသာကြွယ်ဝသော ချောကလက်။ နှစ်သိမ့်မှုပေးသော ဂန္ထဝင်အဖျော်ယမကာ။",
+      "**Schokolade (Heiß / Eiskalt):** Reichhaltige, cremige Schokolade, gemischt mit Milch Ihrer Wahl. Ein wohltuender Klassiker.",
+      "**巧克力 (Hot/Iced):** 浓郁、香滑的巧克力与您选择的牛奶混合。一款令人舒适的经典饮品。",
+      "**Шоколад (Горячий / Ледяной):** Насыщенный, сливочный шоколад, смешанный с молоком на ваш выбор. Уютная классика.",
+      "**שוקולד (חם / קר):** שוקולד עשיר וקרמי מעורבב עם חלב לבחירתך. קלאסיקה מנחמת.",
+      "**Chocolate (Caliente / Helado):** Rico y cremoso chocolate mezclado con la leche de su elección. Un clásico reconfortante.",
+      "**초콜릿 (핫/아이스):** 취향에 맞는 우유와 섞은 진하고 크리미한 초콜릿. 편안함을 주는 클래식 메뉴입니다."
+    ],
+    "ingredients": [
+      "Chocolate",
+      "Milk"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "coffee",
+    "types": "hoticed",
+    "add_on": "extrascoffee",
+    "id": "ibiza_coffee_006"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/SRXNmjPP/green-tea-scaled.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Green Tea",
+    "description": [
+      "Light and refreshing classic green tea, known for its mild, earthy flavor.",
+      "**ชาเขียว:** ชาเขียวคลาสสิกที่ให้ความรู้สึกเบาและสดชื่น มีรสชาติอ่อนๆ และกลิ่นหอมของดิน",
+      "**လက်ဖက်စိမ်း:** ပေါ့ပါးလန်းဆန်းသော ဂန္ထဝင်လက်ဖက်စိမ်း၊ သိမ်မွေ့သော မြေဆီလွှာအရသာအတွက် လူသိများသည်။",
+      "**Grüner Tee:** Leichter und erfrischender klassischer grüner Tee, bekannt für seinen milden, erdigen Geschmack.",
+      "**绿茶 (Green Tea):** 清淡爽口的经典绿茶，以其温和、带泥土气息的清新风味而闻名。",
+      "**Зеленый Чай:** Легкий и освежающий классический зеленый чай, известный своим мягким, землистым вкусом.",
+      "**תה ירוק:** תה ירוק קלאסי קליל ומרענן, ידוע בטעמו העדין והאדמתי.",
+      "**Té Verde:** Té verde clásico, ligero y refrescante, conocido por su sabor suave y terroso.",
+      "**녹차:** 순하고 흙내음이 나는 맛으로 알려진, 가볍고 상쾌한 클래식 녹차."
+    ],
+    "ingredients": [
+      "Green Tea"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "tea",
+    "types": "hot",
+    "add_on": "extrascoffee",
+    "id": "ibiza_tea_001"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/y8h61Mf3/Products-Signature-English-Breakfast-Horizontal-sz-1024x1024.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "English Breakfast Tea",
+    "description": [
+      "A traditional, robust black tea blend, perfect for a hearty start to the day.",
+      "**ชาอังกฤษ:** ชาดำผสมแบบดั้งเดิมที่เข้มข้น เหมาะสำหรับการเริ่มต้นวันใหม่อย่างเต็มที่",
+      "**အင်္ဂလိပ်နံနက်စာ လက်ဖက်ရည်:** ရိုးရာ၊ ခိုင်ခံ့သော လက်ဖက်ခြောက်နက် ရောစပ်မှု။ တစ်နေ့တာကို အားကောင်းစွာ စတင်ရန် အကောင်းဆုံးဖြစ်သည်။",
+      "**English Breakfast Tee:** Eine traditionelle, kräftige Schwarzteemischung, perfekt für einen herzhaften Start in den Tag.",
+      "**英式早餐茶 (English Breakfast Tea):** 一种传统、浓郁的红茶混合茶，是丰盛开启一天的完美选择。",
+      "**Чай «Английский завтрак»:** Традиционная, крепкая смесь черного чая, идеально подходящая для плотного начала дня.",
+      "**תה ארוחת בוקר אנגלי:** תערובת תה שחור מסורתית וחזקה, מושלמת לפתיחת יום משביעה.",
+      "**Té Negro Desayuno Inglés:** Una mezcla tradicional y robusta de té negro, perfecta para un buen comienzo del día.",
+      "**잉글리시 블랙퍼스트 티:** 전통적인 강한 홍차 블렌드로, 든든하게 하루를 시작하기에 완벽합니다."
+    ],
+    "ingredients": [
+      "Black Tea"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "tea",
+    "types": "hot",
+    "add_on": "extrascoffee",
+    "id": "ibiza_tea_002"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/0jJxLFMr/Thai-Lemon-Iced-Tea-Recipe.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Lemon Iced Tea",
+    "description": [
+      "Crisp and refreshing black tea infused with lemon, served chilled over ice.",
+      "**ชามะนาวเย็น:** ชาดำที่สดชื่นและมีรสเปรี้ยวของมะนาว เสิร์ฟเย็นพร้อมน้ำแข็ง",
+      "**သံပုရာ ရေခဲလက်ဖက်ရည်:** သံပုရာရည်ဖြင့် ဖျော်စပ်ထားသော ကြည်လင်လန်းဆန်းသည့် လက်ဖက်ရည်နက်။ ရေခဲပေါ်တွင် အအေးခံပြီး ကျွေးပါသည်။",
+      "**Zitronen-Eistee:** Knackiger und erfrischender Schwarztee mit Zitrone, gekühlt über Eis serviert.",
+      "**柠檬冰红茶 (Lemon Iced Tea):** 清爽怡人的红茶，注入柠檬风味，加冰冷饮。",
+      "**Лимонный Чай со Льдом:** Бодрящий черный чай с лимоном, подается охлажденным со льдом.",
+      "**תה לימון קר:** תה שחור פריך ומרענן עם לימון, מוגש קר על קרח.",
+      "**Té Helado de Limón:** Té negro fresco y refrescante con infusión de limón, servido frío con hielo.",
+      "**레몬 아이스티:** 레몬을 넣어 상큼하고 청량한 홍차를 얼음 위에 차갑게 제공합니다."
+    ],
+    "ingredients": [
+      "Black Tea",
+      "Lemon"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "tea",
+    "types": "iced",
+    "add_on": "extrascoffee",
+    "id": "ibiza_tea_003"
+  },
+  {
+    "thumbnail": "https://i.postimg.cc/43LYZCdt/thai-tea-boba-feature.jpg",
+    "photos": [
+      ""
+    ],
+    "title": "Thai Iced Tea",
+    "description": [
+      "A distinctively sweet and creamy blend of strong brewed Ceylon tea, milk, and sugar.",
+      "**ชาไทยเย็น:** ชาซีลอนชงเข้มข้น ผสมนมและน้ำตาล หอมหวานมันเป็นเอกลักษณ์",
+      "**ထိုင်းရေခဲ လက်ဖက်ရည်:** ခိုင်မာသော စေလွန်လက်ဖက်ခြောက်၊ နို့နှင့် သကြားတို့၏ ထူးခြားချိုမြိန်ပြီး နို့အရသာကြွယ်ဝသော ရောစပ်မှု။",
+      "**Thailändischer Eistee:** Eine unverwechselbar süße und cremige Mischung aus stark gebrühtem Ceylon-Tee, Milch und Zucker.",
+      "**泰式冰奶茶 (Thai Iced Tea):** 由浓郁的锡兰红茶、牛奶和糖混合而成，口感独特，香甜且奶味十足。",
+      "**Тайский Чай со Льдом:** Неповторимо сладкая и сливочная смесь крепко заваренного цейлонского чая, молока и сахара.",
+      "**תה תאילנדי קר:** תערובת מתוקה וקרמית במיוחד של תה ציילון חזק, חלב וסוכר.",
+      "**Té Helado Tailandés:** Una mezcla distintivamente dulce y cremosa de té de Ceilán fuerte, leche y azúcar.",
+      "**타이 아이스 티:** 진하게 우려낸 실론티와 우유, 설탕을 섞어 만든 독특하게 달콤하고 크리미한 블렌드."
+    ],
+    "ingredients": [
+      "Black Tea",
+      "Milk",
+      "Sugar"
+    ],
+    "price": 0,
+    "food": false,
+    "category": "tea",
+    "types": "iced",
+    "add_on": "extrascoffee",
+    "id": "ibiza_tea_004"
+  },
     {
       "thumbnail": "",
       "photos": [
