@@ -160,14 +160,14 @@
       "name": "Breakfast",
       "id": "breakfast",
       "food": true,
-      "open_in": "00:01-00:00",
+      "open_in": "00:00-00:00",
       "icon_id": "https://i.postimg.cc/QtSHTbjP/english-breakfast.gif"
     },
     {
       "name": "Tapas",
       "id": "tapas",
       "food": true,
-      "open_in": "00:00-00:00",
+      "open_in": "00:01-00:00",
       "icon_id": "https://i.postimg.cc/RZ95kz75/guacamole.gif"
     },
     {
