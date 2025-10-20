@@ -1,0 +1,13 @@
+{
+  "restaurants": [
+       {
+      "username": "",
+      "name": "La Paella Española",
+      "logo": "https://example.com/logos/la-paella.jpg",
+      "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
+      "cuisine": "spanish",
+      "restaurant": true
+    }
+    
+  ]
+}
