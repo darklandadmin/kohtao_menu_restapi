@@ -1,8 +1,8 @@
 {
   "restaurants": [
        {
-      "username": "",
-      "name": "La Paella Española",
+      "username": "ibiza.beach.club",
+      "name": "Ibiza beach club ",
       "logo": "https://example.com/logos/la-paella.jpg",
       "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
       "cuisine": "spanish",
