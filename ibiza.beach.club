@@ -1259,7 +1259,7 @@
          "price":190,
          "food":true,
          "category":"",
-         "types":"gluttenfree",
+         "types":"glutenfree",
          "add_on":"",
          "id":"r1_food_13_1"
       },
