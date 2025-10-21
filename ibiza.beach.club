@@ -873,6 +873,33 @@
       "add_on": "",
       "id": "r1_food_3"
     },
+{
+  "thumbnail": "https://i.postimg.cc/L66kgK1d/vege-trotilla.png",
+  "photos": [],
+  "title": "Tortilla - No Meat",
+  "description": [
+    "Classic Spanish confit potato omelette with onions. This dish is removed Chorizo sausage.",
+    "ไข่เจียวมันฝรั่งสเปนแบบคลาสสิกปรุงแบบคอนฟีกับหัวหอม. จานนี้ไม่มีโชริโซ.",
+    "ဂန္တဝင် စပိန် ကွန်ဖီ အာလူးအုမ္မလက် ကြက်သွန်နီဖြင့် ရောချက်ထားသည်။ ဤဟင်းတွင် ချိုရီဇို မပါဝင်ပါ။",
+    "Klassisches spanisches konfiertes Kartoffel-Omelett mit Zwiebeln. Dieses Gericht enthält kein Chorizo.",
+    "经典西班牙油封土豆洋葱煎蛋卷。此菜不含香肠。",
+    "Классический испанский картофельный омлет конфи с луком. В этом блюде нет чоризо.",
+    "חביתת טורטיה תפוחי אדמה קלאסית קונפי עם בצל. מנה זו ללא צ'וריסו.",
+    "Tortilla de Patatas clásica española confitada con cebolla. Este plato no contiene chorizo.",
+    "클래식 스페인식 양파 콩피 감자 오믈렛. 이 요리에는 초리조가 포함되지 않음."
+  ],
+  "ingredients": [
+    "Potatoes",
+    "Onions",
+    "Eggs"
+  ],
+  "price": 180,
+  "food": true,
+  "category": "",
+  "types": "vegetarian",
+  "add_on": "",
+  "id": "r1_food_3_1"
+},
     {
       "thumbnail": "https://i.postimg.cc/kXhWNzJh/tapas-4.jpg",
       "photos": [],
@@ -1126,6 +1153,33 @@
       "add_on": "",
       "id": "r1_food_12"
     },
+{
+  "thumbnail": "https://i.postimg.cc/X7HfwHfD/vege-broken-egg.png",
+  "photos": [],
+  "title": "Broken Eggs - no Meat",
+  "description": [
+    "Spanish 'huevos rotos' with potato cream, crispy potato chips, without 'chistorra' (chorizo), topped with fried egg.",
+    "‘ฮูเอโวส โรตอส’ (ไข่แตก) สไตล์สเปน พร้อมครีมมันฝรั่ง, มันฝรั่งทอดกรอบ, ไม่มี ‘ชิสตอร์รา’ (โชริโซ), และไข่ดาว.",
+    "စပိန် ‘ဟူအီဗော့စ် ရိုတို့စ်’ (ကြက်ဥပြိုကွဲခြင်း) အာလူးခရင်မ်၊ ကြွပ်ရွသော အာလူးချစ်ပ်များ၊ ‘ချစ်စတော့ရာ’ (ချိုရီဇို) မပါဘဲ၊ ကြော်ထားသော ဥဖြင့် အုပ်ထားသည်။",
+    "Spanische ‘Huevos Rotos’ (gebrochene Eier) mit Kartoffelcreme, knusprigen Kartoffelchips, ohne ‘Chistorra’ (Chorizo), belegt mit Spiegelei.",
+    "西班牙“破蛋”，搭配土豆泥、香脆薯片，不含“奇斯托拉”（香肠），上铺煎蛋。",
+    "Испанские ‘huevos rotos’ (битые яйца) с картофельным кремом, хрустящими картофельными чипсами, без ‘чисторра’ (чоризо), сверху жареное яйцо.",
+    "‘הואבוס רוטוס’ ספרדי (ביצים שבורות) עם קרם תפוחי אדמה, צ’יפס תפוחי אדמה פריך, ללא ‘צ’יסטורה’ (צ’וריסו), ומעל ביצת עין.",
+    "Huevos Rotos españoles con crema de patatas, patatas fritas crujientes, sin ‘chistorra’ (chorizo), y huevo frito.",
+    "스페인식 ‘우에보스 로토스’, 감자 크림, 바삭한 감자 칩, ‘치스토라’(초리조) 없이, 프라이드 에그를 올린."
+  ],
+  "ingredients": [
+    "Potato cream",
+    "Potato chips",
+    "Fried egg"
+  ],
+  "price": 175,
+  "food": true,
+  "category": "",
+  "types": "vegetarian",
+  "add_on": "",
+  "id": "r1_food_12_1"
+},
     {
       "thumbnail": "https://i.postimg.cc/c1VMnPF1/tapas-13.jpg",
       "photos": [],
@@ -1155,6 +1209,34 @@
       "add_on": "",
       "id": "r1_food_13"
     },
+{
+  "thumbnail": "https://i.postimg.cc/NfJ61J6z/gluten-free-taco.png",
+  "photos": [],
+  "title": "Tacos",
+  "description": [
+    "pulled pork, grilled fish, or grilled shrimp tacos. Served with mango salsa, chipotle mayo, pickle onion, and avocado. (2 pcs)",
+    "ทาโก้หมูฉีก, ปลาย่าง, หรือกุ้งย่าง. เสิร์ฟพร้อมซัลซามะม่วง, ชิโปเติลมายองเนส, หอมแดงดอง, และอะโวคาโด. (2 ชิ้น)",
+    "ဆွဲထားသော ဝက်သား၊ ကင်ထားသော ငါး၊ သို့မဟုတ် ကင်ထားသော ပုစွန် တာကိုများ။ သရက်သီး ဆလ်ဆာ၊ ချီပိုတလေ မာယို၊ သံပရာချဉ်ထားသော ကြက်သွန်နီ နှင့် ထောပတ်သီးတို့ဖြင့် ကျွေးသည်။ (၂ လုံး)",
+    "Pulled Pork, gegrillter Fisch oder gegrillte Garnelen-Tacos. Serviert mit Mango-Salsa, Chipotle-Mayo, eingelegten Zwiebeln und Avocado. (2 Stück)",
+    "手撕猪肉、烤鱼或烤虾塔可。搭配芒果莎莎酱、奇波特蛋黄酱、腌洋葱和牛油果。(2块)",
+    "Тако с рваной свининой, жареной рыбой или жареными креветками. Подается с сальсой из манго, чипотле майо, маринованным луком и авокадо. (2 шт.)",
+    "טאקוס בשר חזיר מפורק, דג בגריל או שרימפס בגריל. מוגש עם סלסת מנגו, מיונז צ'יפוטלה, בצל כבוש ואבוקדו. (2 יח')",
+    "Tacos de cerdo deshebrado, pescado a la parrilla o camarones a la parrilla. Servidos con salsa de mango, mayonesa chipotle, cebolla encurtida y aguacate. (2 uds)",
+    "풀드 포크, 구운 생선, 또는 구운 새우 타코. 망고 살사, 치폴레 마요네즈, 절인 양파, 아보카도를 곁들인. (2개입)"
+  ],
+  "ingredients": [
+    "Mango salsa",
+    "Chipotle mayo",
+    "Pickle onion",
+    "Avocado"
+  ],
+  "price": 190,
+  "food": true,
+  "category": "",
+  "types": "gluttenfree",
+  "add_on": "",
+  "id": "r1_food_13_1"
+}
     {
       "thumbnail": "https://i.postimg.cc/HWf4yF6m/tapas-14.jpg",
       "photos": [],
