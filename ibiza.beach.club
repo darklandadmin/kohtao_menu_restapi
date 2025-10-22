@@ -868,7 +868,7 @@
          ],
          "price":180,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_3"
@@ -897,7 +897,7 @@
          ],
          "price":180,
          "food":true,
-         "category":"",
+         "category":"glutenfree",
          "types":"vegetarian",
          "add_on":"",
          "id":"r1_food_3_1"
@@ -927,7 +927,7 @@
          ],
          "price":150,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"vegetarian",
          "add_on":"",
          "id":"r1_food_4"
@@ -959,7 +959,7 @@
          ],
          "price":260,
          "food":true,
-         "category":"tapas,home_specials",
+         "category":"tapas,home_specials,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_5"
@@ -988,7 +988,7 @@
          ],
          "price":150,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"vegetarian",
          "add_on":"",
          "id":"r1_food_6"
@@ -1018,7 +1018,7 @@
          ],
          "price":180,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_7"
@@ -1110,7 +1110,7 @@
          ],
          "price":250,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"vegan",
          "add_on":"",
          "id":"r1_food_10"
@@ -1138,7 +1138,7 @@
          ],
          "price":320,
          "food":true,
-         "category":"tapas",
+         "category":"tapas,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_11"
@@ -1168,7 +1168,7 @@
          ],
          "price":175,
          "food":true,
-         "category":"tapas,home_specials",
+         "category":"tapas,home_specials,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_12"
@@ -1479,7 +1479,7 @@
          ],
          "price":370,
          "food":true,
-         "category":"salad",
+         "category":"salad,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_20"
@@ -1511,7 +1511,7 @@
          ],
          "price":260,
          "food":true,
-         "category":"salad",
+         "category":"salad,glutenfree",
          "types":"vegetarian",
          "add_on":"",
          "id":"r1_food_21"
@@ -1546,7 +1546,7 @@
          ],
          "price":175,
          "food":true,
-         "category":"salad",
+         "category":"salad,glutenfree",
          "types":"vegan",
          "add_on":"",
          "id":"r1_food_22"
@@ -1812,7 +1812,7 @@
          ],
          "price":495,
          "food":true,
-         "category":"paella,home_specials",
+         "category":"paella,home_specials,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_30"
@@ -1847,7 +1847,7 @@
          ],
          "price":495,
          "food":true,
-         "category":"paella",
+         "category":"paella,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_31"
@@ -1883,7 +1883,7 @@
          ],
          "price":595,
          "food":true,
-         "category":"paella,home_specials",
+         "category":"paella,home_specials,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_32"
@@ -1915,7 +1915,7 @@
          ],
          "price":395,
          "food":true,
-         "category":"paella",
+         "category":"paella,glutenfree",
          "types":"vegetarian",
          "add_on":"",
          "id":"r1_food_33"
@@ -1944,7 +1944,7 @@
          ],
          "price":850,
          "food":true,
-         "category":"meat,home_specials",
+         "category":"meat,home_specials,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_34"
@@ -1973,7 +1973,7 @@
          ],
          "price":550,
          "food":true,
-         "category":"meat",
+         "category":"meat,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_35"
@@ -2005,7 +2005,7 @@
          ],
          "price":550,
          "food":true,
-         "category":"meat",
+         "category":"meat,glutenfree",
          "types":"meat",
          "add_on":"",
          "id":"r1_food_36"
@@ -2033,7 +2033,7 @@
          ],
          "price":550,
          "food":true,
-         "category":"fish",
+         "category":"fish,glutenfree",
          "types":"seafood",
          "add_on":"",
          "id":"r1_food_37"
