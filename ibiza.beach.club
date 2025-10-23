@@ -12,7 +12,7 @@
   "photoRatio": "4:3",
   "showAddToCartButton": true,
   "showIngredients": true,
-  "showDescription": false,
+  "showDescription": true,
   "showName": true,
   "showPrice": true,
   "showMyLanguageDescription": true},
