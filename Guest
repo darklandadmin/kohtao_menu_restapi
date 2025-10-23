@@ -8,11 +8,11 @@
 },
  "rstsetting":{
         "themeColor":"green",
-  "photoRatio": "4:3",
+  "photoRatio": "16:9",
   "showAddToCartButton": true,
   "showIngredients": true,
   "showDescription": false,
-  "showName": true,
+  "showName": false,
   "showPrice": true,
   "showMyLanguageDescription": true},
    "slide":[
