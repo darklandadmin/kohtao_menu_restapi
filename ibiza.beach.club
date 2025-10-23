@@ -154,6 +154,7 @@
          "open_in":"07:00-11:00",
          "icon_id":"https://i.postimg.cc/QtSHTbjP/english-breakfast.gif"
       },
+
       {
          "name":"Tapas",
          "id":"tapas",
@@ -200,7 +201,7 @@
          "name":"Fish",
          "id":"fish",
          "food":true,
-         "open_in":"07:00-23:00",
+         "open_in":"17:00-23:00",
          "icon_id":"https://i.postimg.cc/CxJt9nMH/clown-fish.gif"
       },
       {
@@ -209,6 +210,13 @@
          "food":true,
          "open_in":"17:00-23:00",
          "icon_id":"https://i.postimg.cc/sxRwM3Dj/cake.gif"
+      },
+ {
+         "name":"Gluten Free",
+         "id":"glutenfree",
+         "food":true,
+         "open_in":"17:00-23:00",
+         "icon_id":"https://img.icons8.com/?size=100&id=KqEx6qlsTLtK&format=png&color=000000"
       },
       {
          "name":"Happy Hour",
