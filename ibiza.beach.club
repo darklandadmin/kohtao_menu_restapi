@@ -204,7 +204,7 @@
          "name":"Fish",
          "id":"fish",
          "food":true,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/CxJt9nMH/clown-fish.gif"
       },
       {
@@ -232,126 +232,126 @@
          "name":"Beers Cans",
          "id":"beers_cans",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/gJk6NJkc/beer-can.gif"
       },
       {
          "name":"Draft Beers",
          "id":"draft_beers",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/76YTm6YZ/beer-mug.gif"
       },
       {
          "name":"Classic Cocktails",
          "id":"classic_cocktails",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/FF6JVNMW/cocktail.gif"
       },
       {
          "name":"Signature Cocktails",
          "id":"signature_cocktails",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/LXbhD3bY/alcohol.gif"
       },
       {
          "name":"Spanish Cocktails",
          "id":"spanish_cocktails",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/DZMm6PMc/spanish-flag.gif"
       },
       {
          "name":"GinRaw Cocktails",
          "id":"ginraw_cocktails",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/BZjC0Y4S/cocktail-1.gif"
       },
       {
          "name":"Gin Tonic",
          "id":"gin_tonic",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://i.postimg.cc/h4X0Bycg/gin-tonic.gif"
       },
       {
          "name":"Vodka",
          "id":"vodka",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=GPMbml9y4l51&format=png&color=000000"
       },
       {
          "name":"Rum",
          "id":"rum",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=7S3fN4BaIGWA&format=png&color=000000"
       },
       {
          "name":"Whiskey",
          "id":"whiskey",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=65042&format=png&color=000000"
       },
       {
          "name":"Brandy",
          "id":"brandy",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=nhCAwzIhZ04r&format=png&color=000000"
       },
       {
          "name":"Shooters",
          "id":"shooters",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=zYG84TzNvYc3&format=png&color=000000"
       },
       {
          "name":"liqueurs",
          "id":"liqueurs",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=BFqUcrWjVOle&format=png&color=000000"
       },
       {
          "name":"Wine by Glass",
          "id":"wine_glass",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=12885&format=png&color=000000"
       },
       {
          "name":"Specials",
          "id":"specials",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":""
       },
       {
          "name":"Mocktails",
          "id":"mocktails",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":""
       },
       {
          "name":"fruit_shakes",
          "id":"fruit_shakes",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=OczYkJqFgLPC&format=png&color=000000"
       },
       {
          "name":"juices",
          "id":"juices",
          "food":false,
-         "open_in":"00:01-00:00",
+         "open_in":"07:00-23:00",
          "icon_id":"https://img.icons8.com/?size=100&id=QW7StMxccQhC&format=png&color=000000"
       }
    ],
