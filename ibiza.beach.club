@@ -8,7 +8,7 @@
     "page_link":"https://kohtaomenu-online.vercel.app/page/ibiza.beach.club.html"
 },
  "rstsetting":{
-        "themeColor":"",
+        "themeColor":"blue",
   "photoRatio": "4:3",
   "showAddToCartButton": true,
   "showIngredients": true,
