@@ -934,8 +934,14 @@
     },
     {
       "thumbnail": "https://i.postimg.cc/9QRZLb06/tapas-5.jpg",
-      "photos": [],
       "title": "Garlic Gambas",
+      "price": 260,
+      "food": true,
+      "category": "tapas,home_specials,glutenfree",
+      "types": "seafood",
+      "add_on": "garlic_gambas",
+      "id": "r1_food_5",
+      "photos": [],
       "description": [
         "Spanish style shrimps sauteed in olive oil and garlic with cayenne pepper, flambeed with white wine. Topped with crispy garlic and fresh parsley.",
         "กุ้งสไตล์สเปนผัดในน้ำมันมะกอกและกระเทียมกับพริกคาเยน ลนไฟด้วยไวน์ขาว ท็อปด้วยกระเทียมกรอบและผักชีฝรั่งสด.",
@@ -954,13 +960,7 @@
         "Cayenne pepper",
         "White wine",
         "Parsley"
-      ],
-      "price": 260,
-      "food": true,
-      "category": "tapas,home_specials,glutenfree",
-      "types": "seafood",
-      "add_on": "",
-      "id": "r1_food_5"
+      ]
     },
     {
       "thumbnail": "https://i.postimg.cc/6p2nMcT6/tapas-6.jpg",
@@ -5544,6 +5544,76 @@
       "name": "Salad",
       "type": "sauce_side",
       "price": 0
+    },
+    {
+      "name": "Crusty bread",
+      "type": "garlic_gambas",
+      "price": 35
+    },
+ {
+      "name": "Red wine sauce",
+      "type": "extra_adding",
+      "price": 30
+    },
+    {
+      "name": "Black peper sauce",
+      "type": "extra_adding",
+      "price": 30
+    },
+    {
+      "name": "Chimichuri",
+      "type": "extra_adding",
+      "price": 30
+    },
+    {
+      "name": "Honey mustard sauce",
+      "type": "extra_adding",
+      "price": 30
+    },
+    {
+      "name": "Truffle sauce",
+      "type": "extra_adding",
+      "price": 30
+    },
+ {
+      "name": "Aioli sauce",
+      "type": "extra_adding",
+      "price": 20
+    },
+ {
+      "name": "Black Mayo",
+      "type": "extra_adding",
+      "price": 30
+    },
+ {
+      "name": "Brava sauce",
+      "type": "extra_adding",
+      "price": 30
+    },
+    {
+      "name": "Grilled Vegetable",
+      "type": "extra_adding",
+      "price": 70
+    },
+    {
+      "name": "Mash Potato",
+      "type": "extra_adding",
+      "price": 80
+    },
+    {
+      "name": "Fried Potato",
+      "type": "extra_adding",
+      "price": 80
+    },
+    {
+      "name": "Salad",
+      "type": "extra_adding",
+      "price": 0
+    },
+    {
+      "name": "Crusty bread",
+      "type": "extra_adding",
+      "price": 35
     }
   ]
 }
