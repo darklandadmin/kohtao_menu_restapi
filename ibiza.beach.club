@@ -112,6 +112,18 @@
       "show_text": false,
       "day": "sunday",
       "end": "2025-10-31"
+    },
+ {
+      "id": 9,
+      "thumbnail": "https://i.postimg.cc/dQmT0dBQ/your-waiter-poster.jpg",
+      "title": "Your Waiter",
+      "desc": "easy-to-use digital QR menus",
+      "link": "https://kohtaomenu-online.vercel.app/",
+      "direct_go": false,
+      "ad": true,
+      "show_text": true,
+      "day": "all",
+      "end": "2025-12-31"
     }
   ],
   "ad_banner": [
