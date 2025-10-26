@@ -2733,7 +2733,7 @@
       "add_on": "",
       "id": "m2_drink_34",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coconut Cream",
         "Pineapple Juice"
@@ -2749,7 +2749,7 @@
       "add_on": "",
       "id": "m3_drink_35",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mint",
         "Lime",
@@ -2767,7 +2767,7 @@
       "add_on": "",
       "id": "m4_drink_36",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Strawberry",
         "Mint",
@@ -2786,7 +2786,7 @@
       "add_on": "",
       "id": "m5_drink_37",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Passionfruit",
         "Mint",
@@ -2805,7 +2805,7 @@
       "add_on": "",
       "id": "m6_drink_38",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mango",
         "Mint",
@@ -2824,7 +2824,7 @@
       "add_on": "",
       "id": "m7_drink_39",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mixed Berries",
         "Mint",
@@ -2843,7 +2843,7 @@
       "add_on": "",
       "id": "m8_drink_40",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Fruit Juice",
         "Soda"
@@ -2859,7 +2859,7 @@
       "add_on": "",
       "id": "m9_drink_41",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Varied Fruits",
         "Soda"
@@ -3241,7 +3241,7 @@
       "add_on": "",
       "id": "sh1_drink_63",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Vodka",
         "Fruit Liqueur"
@@ -3257,7 +3257,7 @@
       "add_on": "",
       "id": "sh2_drink_64",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Tequila"
       ]
@@ -3272,7 +3272,7 @@
       "add_on": "",
       "id": "sh3_drink_65",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mezcal"
       ]
@@ -3287,7 +3287,7 @@
       "add_on": "",
       "id": "sh4_drink_66",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Herbal Liqueur"
       ]
@@ -3302,7 +3302,7 @@
       "add_on": "",
       "id": "sh5_drink_67",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coffee Liqueur",
         "Baileys",
@@ -3319,7 +3319,7 @@
       "add_on": "",
       "id": "sh6_drink_68",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Jaegermeister",
         "Energy Drink"
@@ -3335,7 +3335,7 @@
       "add_on": "",
       "id": "sh7_drink_69",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Sambuca"
       ]
@@ -3350,7 +3350,7 @@
       "add_on": "",
       "id": "sh8_drink_70",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Tequila"
       ]
@@ -3365,7 +3365,7 @@
       "add_on": "",
       "id": "w2_drink_71",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey",
         "Fruit Liqueur"
@@ -3381,7 +3381,7 @@
       "add_on": "",
       "id": "w3_drink_72",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3396,7 +3396,7 @@
       "add_on": "",
       "id": "w4_drink_73",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3411,7 +3411,7 @@
       "add_on": "",
       "id": "w5_drink_74",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3426,7 +3426,7 @@
       "add_on": "",
       "id": "w6_drink_75",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey"
       ]
@@ -3441,7 +3441,7 @@
       "add_on": "",
       "id": "w7_drink_76",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey"
       ]
@@ -3456,7 +3456,7 @@
       "add_on": "",
       "id": "w8_drink_77",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3471,7 +3471,7 @@
       "add_on": "",
       "id": "w9_drink_78",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Bourbon"
       ]
@@ -3486,7 +3486,7 @@
       "add_on": "",
       "id": "w10_drink_79",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3501,7 +3501,7 @@
       "add_on": "",
       "id": "w11_drink_80",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3516,7 +3516,7 @@
       "add_on": "",
       "id": "w12_drink_81",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3531,7 +3531,7 @@
       "add_on": "",
       "id": "w13_drink_82",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whisky"
       ]
@@ -3546,7 +3546,7 @@
       "add_on": "",
       "id": "w14_drink_83",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey"
       ]
@@ -3561,7 +3561,7 @@
       "add_on": "",
       "id": "w15_drink_84",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey"
       ]
@@ -3576,7 +3576,7 @@
       "add_on": "",
       "id": "l1_drink_85",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Rum",
         "Coconut Liqueur"
@@ -3592,7 +3592,7 @@
       "add_on": "",
       "id": "l2_drink_86",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Whiskey",
         "Cream"
@@ -3608,7 +3608,7 @@
       "add_on": "",
       "id": "l3_drink_87",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Orange Liqueur"
       ]
@@ -3623,7 +3623,7 @@
       "add_on": "",
       "id": "l4_drink_88",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Hazelnut Liqueur"
       ]
@@ -3638,7 +3638,7 @@
       "add_on": "",
       "id": "l5_drink_89",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coffee Liqueur",
         "Rum"
@@ -3654,7 +3654,7 @@
       "add_on": "",
       "id": "l6_drink_90",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Scotch",
         "Honey",
@@ -3671,7 +3671,7 @@
       "add_on": "",
       "id": "l7_drink_91",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Cherry Liqueur"
       ]
@@ -3686,7 +3686,7 @@
       "add_on": "",
       "id": "l8_drink_92",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coffee Liqueur",
         "Baileys",
@@ -3703,7 +3703,7 @@
       "add_on": "",
       "id": "l9_drink_93",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Almond Liqueur"
       ]
@@ -3718,7 +3718,7 @@
       "add_on": "",
       "id": "l10_drink_94",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Orange Liqueur"
       ]
@@ -3733,7 +3733,7 @@
       "add_on": "",
       "id": "l11_drink_95",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coffee Liqueur"
       ]
@@ -3748,7 +3748,7 @@
       "add_on": "",
       "id": "sd1_drink_96",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3761,7 +3761,7 @@
       "add_on": "",
       "id": "sd2_drink_97",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3774,7 +3774,7 @@
       "add_on": "",
       "id": "sd3_drink_98",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3787,7 +3787,7 @@
       "add_on": "",
       "id": "sd4_drink_99",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3800,7 +3800,7 @@
       "add_on": "",
       "id": "sd5_drink_100",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3813,7 +3813,7 @@
       "add_on": "",
       "id": "sd6_drink_101",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3826,7 +3826,7 @@
       "add_on": "",
       "id": "sd7_drink_102",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3839,7 +3839,7 @@
       "add_on": "",
       "id": "sd8_drink_103",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3852,7 +3852,7 @@
       "add_on": "",
       "id": "sd9_drink_104",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": []
     },
     {
@@ -3865,7 +3865,7 @@
       "add_on": "",
       "id": "fs1_drink_105",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Banana",
         "Syrup",
@@ -3882,7 +3882,7 @@
       "add_on": "",
       "id": "fs2_drink_106",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mango",
         "Syrup"
@@ -3898,7 +3898,7 @@
       "add_on": "",
       "id": "fs3_drink_107",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Pineapple",
         "Syrup"
@@ -3914,7 +3914,7 @@
       "add_on": "",
       "id": "fs4_drink_108",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coconut Milk",
         "Syrup"
@@ -3930,7 +3930,7 @@
       "add_on": "",
       "id": "fs5_drink_109",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Passionfruit"
       ]
@@ -3945,7 +3945,7 @@
       "add_on": "",
       "id": "fs6_drink_110",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mixed Berries"
       ]
@@ -3960,7 +3960,7 @@
       "add_on": "",
       "id": "fs7_drink_111",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Tropical Fruits"
       ]
@@ -3975,7 +3975,7 @@
       "add_on": "",
       "id": "fs8_drink_112",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Watermelon"
       ]
@@ -3990,7 +3990,7 @@
       "add_on": "",
       "id": "fs9_drink_113",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Coconut Water",
         "Ice"
@@ -4006,7 +4006,7 @@
       "add_on": "",
       "id": "fs10_drink_114",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mixed Fruits"
       ]
@@ -4021,7 +4021,7 @@
       "add_on": "",
       "id": "fj1_drink_115",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Apple"
       ]
@@ -4036,7 +4036,7 @@
       "add_on": "",
       "id": "fj2_drink_116",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Pineapple"
       ]
@@ -4051,7 +4051,7 @@
       "add_on": "",
       "id": "fj3_drink_117",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Orange"
       ]
@@ -4066,7 +4066,7 @@
       "add_on": "",
       "id": "fj4_drink_118",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Cranberry"
       ]
@@ -4081,7 +4081,7 @@
       "add_on": "",
       "id": "fj5_drink_119",
       "photos": [],
-      "description": {},
+      "description": [""],
       "ingredients": [
         "Mango"
       ]
@@ -4375,7 +4375,7 @@
     {
       "thumbnail": "https://i.postimg.cc/G2dcTq5y/espresso-shot-crema-in-white-cup-on-wood-table-wrexham-bean.jpg",
       "photos": [
-        ""
+        
       ],
       "title": "Espresso",
       "description": [
@@ -4402,7 +4402,7 @@
     {
       "thumbnail": "https://i.postimg.cc/9MmhQz4h/the-history-of-americano-gospecialtycoffee-1024x538.jpg",
       "photos": [
-        ""
+         
       ],
       "title": "Americano",
       "description": [
@@ -4430,7 +4430,7 @@
     {
       "thumbnail": "https://i.postimg.cc/t4FQdFW0/cafe-latte1-recipe-resized.jpg",
       "photos": [
-        ""
+        
       ],
       "title": "Latte (Hot / Iced)",
       "description": [
@@ -4458,7 +4458,7 @@
     {
       "thumbnail": "https://i.postimg.cc/L5jwkpgS/sasgyb.jpg",
       "photos": [
-        ""
+        
       ],
       "title": "Cappuccino (Hot / Iced)",
       "description": [
@@ -4486,7 +4486,7 @@
     {
       "thumbnail": "https://i.postimg.cc/d3F4YTDF/flat-white-d8ada0f.jpg",
       "photos": [
-        ""
+        
       ],
       "title": "Flat White (Hot)",
       "description": [
@@ -4514,7 +4514,7 @@
     {
       "thumbnail": "https://i.postimg.cc/nLvmtSmC/hot-chocolate-78843-16x9.jpg",
       "photos": [
-        ""
+         
       ],
       "title": "Chocolate (Hot / Iced)",
       "description": [
@@ -4542,7 +4542,7 @@
     {
       "thumbnail": "https://i.postimg.cc/SRXNmjPP/green-tea-scaled.jpg",
       "photos": [
-        ""
+       
       ],
       "title": "Green Tea",
       "description": [
@@ -4569,7 +4569,7 @@
     {
       "thumbnail": "https://i.postimg.cc/y8h61Mf3/Products-Signature-English-Breakfast-Horizontal-sz-1024x1024.jpg",
       "photos": [
-        ""
+        
       ],
       "title": "English Breakfast Tea",
       "description": [
@@ -4596,7 +4596,7 @@
     {
       "thumbnail": "https://i.postimg.cc/0jJxLFMr/Thai-Lemon-Iced-Tea-Recipe.jpg",
       "photos": [
-        ""
+       
       ],
       "title": "Lemon Iced Tea",
       "description": [
@@ -4624,7 +4624,7 @@
     {
       "thumbnail": "https://i.postimg.cc/43LYZCdt/thai-tea-boba-feature.jpg",
       "photos": [
-        ""
+       
       ],
       "title": "Thai Iced Tea",
       "description": [
