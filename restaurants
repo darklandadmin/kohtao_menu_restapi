@@ -3,14 +3,14 @@
        {
       "username": "ibiza.beach.club",
       "name": "Ibiza beach club ",
-      "logo": "https://example.com/logos/la-paella.jpg",
+      "logo": "https://i.postimg.cc/59FK4M29/ibiza_white.webp",
       "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
       "cuisine": "spanish",
       "restaurant": true
     },  {
-      "username": "Guest",
-      "name": "Guest",
-      "logo": "https://example.com/logos/la-paella.jpg",
+      "username": "breeze.koh.tao",
+      "name": "Breeze",
+      "logo": "https://i.postimg.cc/158Fh9mC/breeze_white.png",
       "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
       "cuisine": "thai",
       "restaurant": true
