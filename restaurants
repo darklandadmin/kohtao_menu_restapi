@@ -1,5 +1,13 @@
 {
   "restaurants": [
+ {
+      "username": "demo",
+      "name": "🟠YourWaiter Restaurant ",
+      "logo": "https://i.postimg.cc/59FK4M29/ibiza_white.webp",
+      "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
+      "cuisine": "To Try Testing♥️",
+      "restaurant": true
+    },
        {
       "username": "ibiza.beach.club",
       "name": "Ibiza beach club ",
