@@ -17,20 +17,7 @@
         "showMyLanguageDescription": true
     },
     "slide": [],
-    "ad_banner": [
-        {
-            "id": "home_3",
-            "tag": "banner",
-            "thumbnail": "https://i.postimg.cc/CMZzrvVc/ads.gif",
-            "title": "📲 Instant QR Menu Setup",
-            "desc": "Modernize your restaurant in minutes! Get a custom QR code menu that customers can scan and browse instantly. No apps, no waiting—just a seamless dining experience for only 1000 THB.",
-            "link": "https://www.facebook.com/kaungmyat2318/",
-            "direct_go": true,
-            "day": "all",
-            "start": "2025-02-01",
-            "end": "2025-12-10"
-        }
-    ],
+    "ad_banner": [],
     "special": {
         "title": "Recommendation",
         "id": "recommendation_menu",
@@ -59,106 +46,104 @@
             "open_in": "00:00-23:59",
             "icon_id": "https://i.postimg.cc/VvbB3dtd/cold-drink.gif"
         },
-        [
-            {
-                "id": "AperoClock",
-                "name": "Apero Clock",
-                "icon_id": "aperitif_01",
-                "open_in": "16:00-23:00",
-                "food": true
-            },
-            {
-                "id": "AddsOn",
-                "name": "Adds On",
-                "icon_id": "side_dish_02",
-                "open_in": "11:00-23:00",
-                "food": true
-            },
-            {
-                "id": "HitTheRawJack",
-                "name": "Hit The Raw Jack",
-                "icon_id": "raw_bar_03",
-                "open_in": "17:00-22:00",
-                "food": true
-            },
-            {
-                "id": "ThePearlsOfHuaHin",
-                "name": "The Pearls of Hua Hin",
-                "icon_id": "caviar_04",
-                "open_in": "18:00-23:00",
-                "food": true
-            },
-            {
-                "id": "TheSignatureIndulgence",
-                "name": "Signature Indulgence",
-                "icon_id": "luxury_05",
-                "open_in": "17:00-23:00",
-                "food": true
-            },
-            {
-                "id": "FromTheSmokedHouseStarter",
-                "name": "Smoked House Starters",
-                "icon_id": "smoked_06",
-                "open_in": "16:00-22:00",
-                "food": true
-            },
-            {
-                "id": "SteakhouseSignature",
-                "name": "Steakhouse Signature",
-                "icon_id": "steak_07",
-                "open_in": "17:00-23:00",
-                "food": true
-            },
-            {
-                "id": "SteakhouseExclusive",
-                "name": "Steakhouse Exclusive",
-                "icon_id": "wagyu_08",
-                "open_in": "17:00-23:00",
-                "food": true
-            },
-            {
-                "id": "FromTheSmokedHouseMain",
-                "name": "Smoked House Mains",
-                "icon_id": "ribs_09",
-                "open_in": "17:00-23:00",
-                "food": true
-            },
-            {
-                "id": "FishAndSalad",
-                "name": "Fish & Salad",
-                "icon_id": "seafood_salad_10",
-                "open_in": "11:00-22:00",
-                "food": true
-            },
-            {
-                "id": "FunkyVeganCorner",
-                "name": "Funky Vegan Corner",
-                "icon_id": "vegan_11",
-                "open_in": "11:00-22:00",
-                "food": true
-            },
-            {
-                "id": "SignatureGarnishes",
-                "name": "Signature Garnishes",
-                "icon_id": "side_12",
-                "open_in": "11:00-23:00",
-                "food": true
-            },
-            {
-                "id": "SignatureSauces",
-                "name": "Signature Sauces",
-                "icon_id": "sauce_13",
-                "open_in": "11:00-23:00",
-                "food": true
-            },
-            {
-                "id": "SweetEndings",
-                "name": "Sweet Endings",
-                "icon_id": "dessert_14",
-                "open_in": "12:00-23:00",
-                "food": true
-            }
-        ]
+        {
+            "id": "AperoClock",
+            "name": "Apero Clock",
+            "icon_id": "aperitif_01",
+            "open_in": "16:00-23:00",
+            "food": true
+        },
+        {
+            "id": "AddsOn",
+            "name": "Adds On",
+            "icon_id": "side_dish_02",
+            "open_in": "11:00-23:00",
+            "food": true
+        },
+        {
+            "id": "HitTheRawJack",
+            "name": "Hit The Raw Jack",
+            "icon_id": "raw_bar_03",
+            "open_in": "17:00-22:00",
+            "food": true
+        },
+        {
+            "id": "ThePearlsOfHuaHin",
+            "name": "The Pearls of Hua Hin",
+            "icon_id": "caviar_04",
+            "open_in": "18:00-23:00",
+            "food": true
+        },
+        {
+            "id": "TheSignatureIndulgence",
+            "name": "Signature Indulgence",
+            "icon_id": "luxury_05",
+            "open_in": "17:00-23:00",
+            "food": true
+        },
+        {
+            "id": "FromTheSmokedHouseStarter",
+            "name": "Smoked House Starters",
+            "icon_id": "smoked_06",
+            "open_in": "16:00-22:00",
+            "food": true
+        },
+        {
+            "id": "SteakhouseSignature",
+            "name": "Steakhouse Signature",
+            "icon_id": "steak_07",
+            "open_in": "17:00-23:00",
+            "food": true
+        },
+        {
+            "id": "SteakhouseExclusive",
+            "name": "Steakhouse Exclusive",
+            "icon_id": "wagyu_08",
+            "open_in": "17:00-23:00",
+            "food": true
+        },
+        {
+            "id": "FromTheSmokedHouseMain",
+            "name": "Smoked House Mains",
+            "icon_id": "ribs_09",
+            "open_in": "17:00-23:00",
+            "food": true
+        },
+        {
+            "id": "FishAndSalad",
+            "name": "Fish & Salad",
+            "icon_id": "seafood_salad_10",
+            "open_in": "11:00-22:00",
+            "food": true
+        },
+        {
+            "id": "FunkyVeganCorner",
+            "name": "Funky Vegan Corner",
+            "icon_id": "vegan_11",
+            "open_in": "11:00-22:00",
+            "food": true
+        },
+        {
+            "id": "SignatureGarnishes",
+            "name": "Signature Garnishes",
+            "icon_id": "side_12",
+            "open_in": "11:00-23:00",
+            "food": true
+        },
+        {
+            "id": "SignatureSauces",
+            "name": "Signature Sauces",
+            "icon_id": "sauce_13",
+            "open_in": "11:00-23:00",
+            "food": true
+        },
+        {
+            "id": "SweetEndings",
+            "name": "Sweet Endings",
+            "icon_id": "dessert_14",
+            "open_in": "12:00-23:00",
+            "food": true
+        }
     ],
     "lists": [
         {
