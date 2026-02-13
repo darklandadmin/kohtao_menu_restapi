@@ -47,7 +47,7 @@
         },
         {
             "name": "All Food",
-            "id": "food_menu",
+            "id": "all_food",
             "food": true,
             "open_in": "00:00-23:59",
             "icon_id": "https://i.postimg.cc/g2pQHW9c/quesadilla.gif"
@@ -59,76 +59,106 @@
             "open_in": "00:00-23:59",
             "icon_id": "https://i.postimg.cc/VvbB3dtd/cold-drink.gif"
         },
-        {
-            "id": "MorningFuel",
-            "title": "Morning Fuel",
-            "icon_id": "breakfast_02",
-            "open_in": "06:00-11:00",
-            "food": true
-        },
-        {
-            "id": "BakeryFresh",
-            "title": "Bakery Fresh",
-            "icon_id": "bread_09",
-            "open_in": "05:00-19:00",
-            "food": true
-        },
-        {
-            "id": "SipAndChill",
-            "title": "Sip & Chill",
-            "icon_id": "beverage_07",
-            "open_in": "00:00-23:59",
-            "food": true
-        },
-        {
-            "id": "QuickBites",
-            "title": "Quick Bites",
-            "icon_id": "fastfood_03",
-            "open_in": "00:00-23:59",
-            "food": true
-        },
-        {
-            "id": "MainCourses",
-            "title": "Main Courses",
-            "icon_id": "dinner_05",
-            "open_in": "11:00-23:00",
-            "food": true
-        },
-        {
-            "id": "HealthyGreens",
-            "title": "Healthy Greens",
-            "icon_id": "salad_04",
-            "open_in": "10:00-22:00",
-            "food": true
-        },
-        {
-            "id": "OceanCatch",
-            "title": "Ocean Catch",
-            "icon_id": "seafood_06",
-            "open_in": "12:00-22:00",
-            "food": true
-        },
-        {
-            "id": "GlobalFlavors",
-            "title": "Global Flavors",
-            "icon_id": "world_10",
-            "open_in": "11:00-23:00",
-            "food": true
-        },
-        {
-            "id": "StreetStyle",
-            "title": "Street Style",
-            "icon_id": "street_08",
-            "open_in": "16:00-02:00",
-            "food": true
-        },
-        {
-            "id": "SweetEndings",
-            "title": "Sweet Endings",
-            "icon_id": "sweet_01",
-            "open_in": "00:00-23:59",
-            "food": true
-        }
+        [
+            {
+                "id": "AperoClock",
+                "name": "Apero Clock",
+                "icon_id": "aperitif_01",
+                "open_in": "16:00-23:00",
+                "food": true
+            },
+            {
+                "id": "AddsOn",
+                "name": "Adds On",
+                "icon_id": "side_dish_02",
+                "open_in": "11:00-23:00",
+                "food": true
+            },
+            {
+                "id": "HitTheRawJack",
+                "name": "Hit The Raw Jack",
+                "icon_id": "raw_bar_03",
+                "open_in": "17:00-22:00",
+                "food": true
+            },
+            {
+                "id": "ThePearlsOfHuaHin",
+                "name": "The Pearls of Hua Hin",
+                "icon_id": "caviar_04",
+                "open_in": "18:00-23:00",
+                "food": true
+            },
+            {
+                "id": "TheSignatureIndulgence",
+                "name": "Signature Indulgence",
+                "icon_id": "luxury_05",
+                "open_in": "17:00-23:00",
+                "food": true
+            },
+            {
+                "id": "FromTheSmokedHouseStarter",
+                "name": "Smoked House Starters",
+                "icon_id": "smoked_06",
+                "open_in": "16:00-22:00",
+                "food": true
+            },
+            {
+                "id": "SteakhouseSignature",
+                "name": "Steakhouse Signature",
+                "icon_id": "steak_07",
+                "open_in": "17:00-23:00",
+                "food": true
+            },
+            {
+                "id": "SteakhouseExclusive",
+                "name": "Steakhouse Exclusive",
+                "icon_id": "wagyu_08",
+                "open_in": "17:00-23:00",
+                "food": true
+            },
+            {
+                "id": "FromTheSmokedHouseMain",
+                "name": "Smoked House Mains",
+                "icon_id": "ribs_09",
+                "open_in": "17:00-23:00",
+                "food": true
+            },
+            {
+                "id": "FishAndSalad",
+                "name": "Fish & Salad",
+                "icon_id": "seafood_salad_10",
+                "open_in": "11:00-22:00",
+                "food": true
+            },
+            {
+                "id": "FunkyVeganCorner",
+                "name": "Funky Vegan Corner",
+                "icon_id": "vegan_11",
+                "open_in": "11:00-22:00",
+                "food": true
+            },
+            {
+                "id": "SignatureGarnishes",
+                "name": "Signature Garnishes",
+                "icon_id": "side_12",
+                "open_in": "11:00-23:00",
+                "food": true
+            },
+            {
+                "id": "SignatureSauces",
+                "name": "Signature Sauces",
+                "icon_id": "sauce_13",
+                "open_in": "11:00-23:00",
+                "food": true
+            },
+            {
+                "id": "SweetEndings",
+                "name": "Sweet Endings",
+                "icon_id": "dessert_14",
+                "open_in": "12:00-23:00",
+                "food": true
+            }
+        ]
     ],
     "lists": [
         {
@@ -153,7 +183,7 @@
                 "100 ग्राम कलात्मक चारक्यूटरी या पनीर, विशेष रूप से एक व्यक्ति के लिए उपयुक्त।",
                 "100 جرام من اللحوم الباردة أو الأجبان الحرفية، مخصصة لشخص واحد بعناية."
             ],
-            "category": "AperoClock",
+            "category": "all_foo,all_menu,AperoClock",
             "types": "meat",
             "ingredients": [
                 "artisanal cheese",
@@ -187,7 +217,7 @@
                 "200 ग्राम चारक्यूटरी और पनीर, दो लोगों के साझा करने के लिए उपयुक्त।",
                 "ثنائي من اللحوم الباردة والأجبان بوزن 200 جرام، مثالي للمشاركة بين شخصين."
             ],
-            "category": "AperoClock",
+            "category": "all_foo,all_menu,AperoClock",
             "types": "meat",
             "ingredients": [
                 "cured meats",
@@ -221,7 +251,7 @@
                 "300 ग्राम चारक्यूटरी और पनीर, दो या तीन लोगों के लिए एक सुरुचिपूर्ण स्टार्टर।",
                 "فرقة من اللحوم الباردة والأجبان بوزن 300 جرام، مقبلات أنيقة لثلاثة أشخاص."
             ],
-            "category": "AperoClock",
+            "category": "all_foo,all_menu,AperoClock",
             "types": "meat",
             "ingredients": [
                 "assorted cold cuts",
@@ -255,7 +285,7 @@
                 "समूहों या भव्य आनंद के लिए 500 ग्राम प्रीमियम चारक्यूटरी और पनीर।",
                 "مهرجان من اللحوم والأجبان الفاخرة بوزن 500 جرام، للمجموعات أو الاستمتاع اللامحدود."
             ],
-            "category": "AperoClock",
+            "category": "all_foo,all_menu,AperoClock",
             "types": "meat",
             "ingredients": [
                 "full artisanal selection",
@@ -289,7 +319,7 @@
                 "भूमध्यसागरीय और थाई स्वाद के मिश्रण के साथ जड़ी-बूटियों में मैरीनेट किए गए जैतून।",
                 "زيتون كالاماتا وهالكيديكي متبل بمزيج الأعشاب الخاص بلمسة تايلاندية."
             ],
-            "category": "AddsOn",
+            "category": "all_foo,all_menu,AddsOn",
             "types": "vegan",
             "ingredients": [
                 "kalamata olives",
@@ -323,7 +353,7 @@
                 "अंडमान समुद्री नमक और स्मोक्ड पेपरिका के साथ बैंगनी और नारंगी शकरकंद चिप्स।",
                 "رقائق البطاطا الحلوة الأرجوانية والبرتقالية مع ملح بحر أندامان والبابريكا المدخنة."
             ],
-            "category": "AddsOn",
+            "category": "all_foo,all_menu,AddsOn",
             "types": "vegan",
             "ingredients": [
                 "organic sweet potato",
@@ -356,7 +386,7 @@
                 "खीरा, लहसुन और नींबू के स्वाद के साथ मलाईदार जैविक दही।",
                 "زبادي عضوي كريمي ممزوج مع الخيار، الثوم، ولمسة منعشة من الليمون."
             ],
-            "category": "AddsOn",
+            "category": "all_foo,all_menu,AddsOn",
             "types": "vegetarian",
             "ingredients": [
                 "organic yogurt",
@@ -391,7 +421,7 @@
                 "मसालों और काफिर लाइम के स्वाद के साथ मलाईदार जैविक एवोकैโด।",
                 "أفوكادو عضوي كريمي ممزوج مع التوابل ونفحة من ليمون الكافير."
             ],
-            "category": "AddsOn",
+            "category": "all_foo,all_menu,AddsOn",
             "types": "vegan",
             "ingredients": [
                 "organic avocado",
@@ -425,7 +455,7 @@
                 "साचा इंची तेल, थाई हर्ब पेस्टो और काफिर लाइम जेस्ट के साथ थाई वाग्यू बीफ।",
                 "كارباتشيو أو تارتار لحم الواغيو التاياندي مع زيت الساشا إنشي وبستو الأعشاب."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "meat",
             "ingredients": [
                 "thai wagyu",
@@ -459,7 +489,7 @@
                 "साचा इंची तेल और थाई हर्ब पेस्टो के साथ थाई वाग्यू बीफ का मुख्य व्यंजन।",
                 "وجبة رئيسية من تارتار لحم الواغيو التايلاندي مع زيت الساشا إنشي وبستو الأعشاب."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "meat",
             "ingredients": [
                 "thai wagyu",
@@ -493,7 +523,7 @@
                 "बाल्सामिक कैवियार, थाई पेकोरिनो और इतालवी पेस्टो के साथ थाई वाग्यू बीफ।",
                 "تارتار لحم الواغيو التايلاندي مع كافيار البلسميك، جبن بيكورينو، والبستو الإيطالي."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "meat",
             "ingredients": [
                 "thai wagyu",
@@ -527,7 +557,7 @@
                 "बाल्सामिक कैवियार और थाई पेकोरिनो के साथ थाई वाग्यू बीफ का मुख्य व्यंजन।",
                 "وجبة رئيسية من تارتار الواغيو مع كافيار البلسميك وجبن بيكورينو المحلي."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "meat",
             "ingredients": [
                 "thai wagyu",
@@ -561,7 +591,7 @@
                 "आम, एवोकैडो और काफिर लाइम के साथ ताज़ा सूरत थानी बारामुंडी टार्टारे।",
                 "تارتار سمك الباراموندي الطازج مع المانجو، الأفوكادو، وليمون الكافير."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "seafood",
             "ingredients": [
                 "surat thani barramundi",
@@ -595,7 +625,7 @@
                 "उष्णकटिबंधीय आम और एवोकैडो के साथ ताज़ा बारामुंडी टार्टारे का मुख्य व्यंजन।",
                 "وجبة رئيسية من تارتار الباراموندي الطازج مع المانجو الاستوائي والأفوكادو."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "seafood",
             "ingredients": [
                 "surat thani barramundi",
@@ -629,7 +659,7 @@
                 "थाई हर्ब पेस्टो, मैंगो जेल और जैविक चेरी टमाटर के साथ स्वादिष्ट बारामुंडी ग्रैव्लैक्स।",
                 "جرافلاكس الباراموندي الرقيق مع بستو الأعشاب، جل المانجو، وطماطم كرزية عضوية."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "seafood",
             "ingredients": [
                 "barramundi gravlax",
@@ -663,7 +693,7 @@
                 "थाई जड़ी-बूटियों और साचा इंची तेल के साथ बारामुंडी ग्रैव्लैक्स का मुख्य व्यंजन।",
                 "وجبة رئيسية من جرافلاكس الباراموندي مع الأعشاب التايلاندية وزيت الساشا إنشي."
             ],
-            "category": "HitTheRawJack",
+            "category": "all_foo,all_menu,HitTheRawJack",
             "types": "seafood",
             "ingredients": [
                 "barramundi gravlax",
@@ -696,7 +726,7 @@
                 "हुआ हिन का 15 ग्राम गहरा और तीव्र स्वाद वाला कैवियार, खमीर ब्रेड के साथ।",
                 "15 جرام من الكافيار الداكن والقوي من هوا هين، يقدم مع خبز العجين المخمر."
             ],
-            "category": "ThePearlsOfHuaHin",
+            "category": "all_foo,all_menu,ThePearlsOfHuaHin",
             "types": "seafood",
             "ingredients": [
                 "hua hin caviar",
@@ -728,7 +758,7 @@
                 "हुआ हिन का 15 ग्राम ग्रे टोन वाला कैवियार जिसमें हल्का नटी स्वाद है।",
                 "15 جرام من الكافيار الرمادي مع نكهات المكسرات الرقيقة من هوا هين."
             ],
-            "category": "ThePearlsOfHuaHin",
+            "category": "all_foo,all_menu,ThePearlsOfHuaHin",
             "types": "seafood",
             "ingredients": [
                 "hua hin caviar",
@@ -760,7 +790,7 @@
                 "हुआ हิน का 15 ग्राम हल्का सुनहरा कैवियार जिसमें शानदार मक्खन जैसा स्वाद है।",
                 "15 جرام من الكافيار الذهبي الفاتح مع لمسة زبدية فاخرة من هوا هين."
             ],
-            "category": "ThePearlsOfHuaHin",
+            "category": "all_foo,all_menu,ThePearlsOfHuaHin",
             "types": "seafood",
             "ingredients": [
                 "hua hin caviar",
@@ -792,7 +822,7 @@
                 "तीन विशिष्ट कैवियार किस्मों का एक असाधारण स्वाद (3 x 15 ग्राम)।",
                 "تذوق استثنائي لثلاثة أنواع فريدة من الكافيار (3 × 15 جرام)."
             ],
-            "category": "ThePearlsOfHuaHin",
+            "category": "all_foo,all_menu,ThePearlsOfHuaHin",
             "types": "seafood",
             "ingredients": [
                 "traditional",
@@ -825,7 +855,7 @@
                 "इमली वाइन, मैंगो चटनी और प्याज जैम के साथ घरेलू बत्तख का जिगर (फ़ोई ग्रास)।",
                 "فوا جرا منزلي مع نبيذ التمر الهندي، يقدم مع تشاتني المانجو ومربى البصل."
             ],
-            "category": "TheSignatureIndulgence",
+            "category": "all_foo,all_menu,TheSignatureIndulgence",
             "types": "meat",
             "ingredients": [
                 "duck liver",
@@ -860,7 +890,7 @@
                 "साचा इंची तेल और बाल्सामिक कैवियार के साथ साप्ताहिक विशेष कट।",
                 "شريحة الأسبوع المختارة مع زيت الساشا إنشي وكافيار البلسميك."
             ],
-            "category": "TheSignatureIndulgence",
+            "category": "all_foo,all_menu,TheSignatureIndulgence",
             "types": "meat",
             "ingredients": [
                 "seasonal selection",
@@ -893,7 +923,7 @@
                 "ट्रफल, चेरी टमाटर और घर के बने तुलसी पेस्टो के साथ मलाईदार स्ट्राचियाटेला।",
                 "ستراتشياتيلا الكمأة الكريمية، طماطم كرزية، وبستو الريحان المنزلي."
             ],
-            "category": "TheSignatureIndulgence",
+            "category": "all_foo,all_menu,TheSignatureIndulgence",
             "types": "vegetarian",
             "ingredients": [
                 "truffle stracciatella",
@@ -928,7 +958,7 @@
                 "साचा इंची तेल और थाई अचार के साथ धीरे-धीरे स्मोक्ड डक फिलेट।",
                 "فيليه البط المدخن ببطء مع زيت الساشا إنشي والمخللات التايلاندية."
             ],
-            "category": "FromTheSmokedHouseStarter",
+            "category": "all_foo,all_menu,FromTheSmokedHouseStarter",
             "types": "meat",
             "ingredients": [
                 "smoked duck",
@@ -962,7 +992,7 @@
                 "थाई पेस्टो और मैंगो जेल के साथ धीरे से स्मोक्ด बारामुंडी।",
                 "سمك الباراموندي المدخن بلطف مع البستو التايلاندي وجل المانجو."
             ],
-            "category": "FromTheSmokedHouseStarter",
+            "category": "all_foo,all_menu,FromTheSmokedHouseStarter",
             "types": "seafood",
             "ingredients": [
                 "smoked barramundi",
@@ -996,7 +1026,7 @@
                 "धीरे-धीरे स्मोक्ड और मलाईदार अस्थि मज्जा (बोन मैरो), खमीर ब्रेड के साथ।",
                 "نخاع العظم المدخن ببطء، يقدم مع خبز العجين المخمر."
             ],
-            "category": "FromTheSmokedHouseStarter",
+            "category": "all_foo,all_menu,FromTheSmokedHouseStarter",
             "types": "meat",
             "ingredients": [
                 "beef bone marrow",
@@ -1029,7 +1059,7 @@
                 "थाई पेस्टो और मिर्च के साथ मैरीनेट किया हुआ तीव्र स्वाद वाला स्कर्ट स्टेक।",
                 "ستيك سكرت بنكهة غنية، متبل بالبستو التايلاندي ولمسة من الفلفل الحار."
             ],
-            "category": "SteakhouseSignature",
+            "category": "all_foo,all_menu,SteakhouseSignature",
             "types": "meat",
             "ingredients": [
                 "thai beef",
@@ -1062,7 +1092,7 @@
                 "हार्मनी कैरामेलयुक्त प्याज जैम के साथ समृद्ध और रसीला हैंगर स्टेक।",
                 "ستيك هانجر بقوام طري وغني، مع مربى البصل المكرمل من هيرموني."
             ],
-            "category": "SteakhouseSignature",
+            "category": "all_foo,all_menu,SteakhouseSignature",
             "types": "meat",
             "ingredients": [
                 "thai beef",
@@ -1094,7 +1124,7 @@
                 "साफ और सीधा गोमांस स्वाद वाला दुबला और परिष्कृत रमस्टेक।",
                 "رومستيك، قطعة قليلة الدهون ومنعشة بنكهة لحم صافية."
             ],
-            "category": "SteakhouseSignature",
+            "category": "all_foo,all_menu,SteakhouseSignature",
             "types": "meat",
             "ingredients": [
                 "thai beef"
@@ -1125,7 +1155,7 @@
                 "सुरुचिपूर्ण गोमांस स्वाद के साथ असाधारण रूप से नरम टेंडरलोइन।",
                 "فيليه تندرلوين، قوام فائق الطراوة بنكهة أنيقة وراقية."
             ],
-            "category": "SteakhouseExclusive",
+            "category": "all_foo,all_menu,SteakhouseExclusive",
             "types": "meat",
             "ingredients": [
                 "dry-aged beef"
@@ -1156,7 +1186,7 @@
                 "अल्ट्रा-सॉफ्ट और मक्खन जैसा स्वाद वाला असाधारण थाई वाग्यू जाबुटोन।",
                 "واغيو زابوتون تايلاندي، رخامية استثنائية وقوام زبدي غني."
             ],
-            "category": "SteakhouseExclusive",
+            "category": "all_foo,all_menu,SteakhouseExclusive",
             "types": "meat",
             "ingredients": [
                 "thai wagyu"
@@ -1187,7 +1217,7 @@
                 "गहराई और समृद्धि के लिए ड्राई-एज्ड विशेष थाई वाग्यू कट।",
                 "تشكيلة من قطع الواغيو التايلاندي المعتقة لتجربة نكهة عميقة ومركزة."
             ],
-            "category": "SteakhouseExclusive",
+            "category": "all_foo,all_menu,SteakhouseExclusive",
             "types": "meat",
             "ingredients": [
                 "dry-aged wagyu"
@@ -1218,7 +1248,7 @@
                 "एक परिष्कृत और रसीले स्वाद के लिए धीरे से स्मोक्ड डक फिलेट।",
                 "فيليه البط المدخن والمشوح بلطف للحصول على قوام طري ولذيذ."
             ],
-            "category": "FromTheSmokedHouseMain",
+            "category": "all_foo,all_menu,FromTheSmokedHouseMain",
             "types": "meat",
             "ingredients": [
                 "smoked duck"
@@ -1249,7 +1279,7 @@
                 "हनी मैंगो स्पाइसी बारबेक्यू सॉस के साथ स्मोक्ड पोर्क रिब्स।",
                 "أضلع الخنزير المدخنة ببطء والمغلفة بصلصة باربكيو بالعسل والمانجو."
             ],
-            "category": "FromTheSmokedHouseMain",
+            "category": "all_foo,all_menu,FromTheSmokedHouseMain",
             "types": "meat",
             "ingredients": [
                 "pork ribs",
@@ -1281,7 +1311,7 @@
                 "गहरे धुएँ के स्वाद के साथ धीमी आंच पर स्मोक्ड बीफ रिब्स।",
                 "أضلع البقر المدخنة ببطء للحصول على نكهة غنية وعميقة برائحة الحطب."
             ],
-            "category": "FromTheSmokedHouseMain",
+            "category": "all_foo,all_menu,FromTheSmokedHouseMain",
             "types": "meat",
             "ingredients": [
                 "beef ribs"
@@ -1312,7 +1342,7 @@
                 "जैविक मक्खन और भुने हुए लहसुन के साथ सूरत थानी बारामुंडी फिलेट।",
                 "سمك الباراموندي المشوح بالزبدة العضوية مع الثوم المشوي."
             ],
-            "category": "FishAndSalad",
+            "category": "all_foo,all_menu,FishAndSalad",
             "types": "seafood",
             "ingredients": [
                 "barramundi",
@@ -1346,7 +1376,7 @@
                 "थाई हर्ब पेस्टो और रैटاتوي के साथ नरम बारामुंडी।",
                 "سمك الباراموندي المتبل بالبستو والمطهو ببطء مع الراتاتوي."
             ],
-            "category": "FishAndSalad",
+            "category": "all_foo,all_menu,FishAndSalad",
             "types": "seafood",
             "ingredients": [
                 "barramundi",
@@ -1379,7 +1409,7 @@
                 "आम, एवोकैโด और थाई ट्रफल स्ट्राचियाटेला के साथ जैविक सलाद।",
                 "خضروات عضوية مع المانجو، الأفوكادو، وستراتشياتيلا الكمأة."
             ],
-            "category": "FishAndSalad",
+            "category": "all_foo,all_menu,FishAndSalad",
             "types": "vegetarian",
             "ingredients": [
                 "organic greens",
@@ -1413,7 +1443,7 @@
                 "शेफ की पसंद के अनुसार जैविक साग और मौसमी सब्जियां।",
                 "خضروات عضوية وموسمية مختارة حسب إبداع الشيف."
             ],
-            "category": "FishAndSalad",
+            "category": "all_foo,all_menu,FishAndSalad",
             "types": "vegetarian",
             "ingredients": [
                 "organic greens",
@@ -1446,7 +1476,7 @@
                 "थाई ट्रफल बुराटा, जैविक साग और तुलसी पेस्टो के साथ।",
                 "جبنة بوراتا بالكمأة مع الخضروات العضوية وبستو الريحان."
             ],
-            "category": "FishAndSalad",
+            "category": "all_foo,all_menu,FishAndSalad",
             "types": "vegetarian",
             "ingredients": [
                 "truffle burrata",
@@ -1480,7 +1510,7 @@
                 "बारीक कटी हुई सब्जियों, जड़ी-बूटियों और साचा इंची तेल का मिश्रण।",
                 "تارتار الخضروات العضوية المفرومة مع الأعشاب وزيت الساشا إنشي."
             ],
-            "category": "FunkyVeganCorner",
+            "category": "all_foo,all_menu,FunkyVeganCorner",
             "types": "vegan",
             "ingredients": [
                 "organic vegetables",
@@ -1514,7 +1544,7 @@
                 "जैविक शकरकंद चिप्स, चेरी टमाटर और गुआक-बॉम्ब के साथ।",
                 "وعاء ناتشو البطاطا الحلوة مع الطماطم الكرزية وجواك-بومب."
             ],
-            "category": "FunkyVeganCorner",
+            "category": "all_foo,all_menu,FunkyVeganCorner",
             "types": "vegan",
             "ingredients": [
                 "sweet potato chips",
@@ -1548,7 +1578,7 @@
                 "जैविक सब्जियों और तुलसी पेस्टो के साथ ताज़ा ठंडा सूप।",
                 "جاسباتشو عضوي منعش محضر من الخضروات وبستو الريحان."
             ],
-            "category": "FunkyVeganCorner",
+            "category": "all_foo,all_menu,FunkyVeganCorner",
             "types": "vegan",
             "ingredients": [
                 "organic vegetables",
@@ -1581,7 +1611,7 @@
                 "अंडमान समुद्री नमक के साथ थाई वाग्यू गोमांस वसा में दो बार तली हुई चिप्स।",
                 "بطاطس مقلية مرتين في دهن الواغيو التايلاندي مع ملح بحر أندامان."
             ],
-            "category": "SignatureGarnishes",
+            "category": "all_foo,all_menu,SignatureGarnishes",
             "types": "meat",
             "ingredients": [
                 "potatoes",
@@ -1614,7 +1644,7 @@
                 "मक्खन और लहसुन के साथ तैयार थाई भिंडी।",
                 "بامية على الطريقة الفرنسية مع الزبدة والثوم."
             ],
-            "category": "SignatureGarnishes",
+            "category": "all_foo,all_menu,SignatureGarnishes",
             "types": "vegetarian",
             "ingredients": [
                 "okra",
@@ -1647,7 +1677,7 @@
                 "कुरकुरी जैविक सब्जियों का एक ताज़ा मिश्रण।",
                 "سلطة خضروات عضوية متنوعة ومنعشة."
             ],
-            "category": "SignatureGarnishes",
+            "category": "all_foo,all_menu,SignatureGarnishes",
             "types": "vegan",
             "ingredients": [
                 "organic greens",
@@ -1679,7 +1709,7 @@
                 "मलाईदार उबले हुए आलू और पिघला हुआ पनीर।",
                 "بطاطس مهروسة كريمية ممزوجة بالجبن الغني."
             ],
-            "category": "SignatureGarnishes",
+            "category": "all_foo,all_menu,SignatureGarnishes",
             "types": "vegetarian",
             "ingredients": [
                 "potatoes",
@@ -1712,7 +1742,7 @@
                 "ताजी जैविक सब्जियों का समृद्ध और स्वादिष्ट मिश्रण।",
                 "راتاتوي الخضروات العضوية المطبوخة ببطء."
             ],
-            "category": "SignatureGarnishes",
+            "category": "all_foo,all_menu,SignatureGarnishes",
             "types": "vegan",
             "ingredients": [
                 "organic vegetables",
@@ -1745,7 +1775,7 @@
                 "ताजी जड़ी-बूटियों और साइट्रस के साथ थाई चिमीचुरी सॉस।",
                 "تشيميتشوري بلمسة تايلاندية مع الأعشاب الطازجة والحمضيات."
             ],
-            "category": "SignatureSauces",
+            "category": "all_foo,all_menu,SignatureSauces",
             "types": "vegan",
             "ingredients": [
                 "herbs",
@@ -1778,7 +1808,7 @@
                 "हनी और मैंगो के साथ क्लासिक बारबेक्यू सॉस का एक नया संस्करण।",
                 "صلصة باربكيو بالعسل والمانجو مع لمسة حارة."
             ],
-            "category": "SignatureSauces",
+            "category": "all_foo,all_menu,SignatureSauces",
             "types": "vegan",
             "ingredients": [
                 "mango",
@@ -1811,7 +1841,7 @@
                 "पिघला हुआ सबसे अच्छा पनीर।",
                 "صلصة الجبن الغنية المحضرة من أفضل أنواع الأجبان لدينا."
             ],
-            "category": "SignatureSauces",
+            "category": "all_foo,all_menu,SignatureSauces",
             "types": "vegetarian",
             "ingredients": [
                 "specialty cheese",
@@ -1843,7 +1873,7 @@
                 "चिआंग माई मिर्च और थाई जड़ी-बूटियों के साथ तीखा सॉस।",
                 "نـام جيم جـاو بنسخة هيرموني مع فلفل تشيانغ ماي."
             ],
-            "category": "SignatureSauces",
+            "category": "all_foo,all_menu,SignatureSauces",
             "types": "vegan",
             "ingredients": [
                 "chiang mai chili",
@@ -1876,7 +1906,7 @@
                 "थाई वाइब्स के साथ लहसुन पार्सले मक्खन।",
                 "زبدة كافيه دي تاو، مزيج رائع من الزبدة بالثوم والبقدونس بنكهة تايلاندية."
             ],
-            "category": "SignatureSauces",
+            "category": "all_foo,all_menu,SignatureSauces",
             "types": "vegetarian",
             "ingredients": [
                 "butter",
@@ -1910,7 +1940,7 @@
                 "कुरकुरे तीखा बेस और मेरिंग्यू के साथ मौसमी फलों का पाई।",
                 "فطيرة الموسم المقرمشة مع كمبوت الفواكه والميرنغ الخفيف."
             ],
-            "category": "SweetEndings",
+            "category": "all_foo,all_menu,SweetEndings",
             "types": "vegetarian",
             "ingredients": [
                 "seasonal fruit",
@@ -1943,7 +1973,7 @@
                 "खाओ याई वेनिला और कारमेल क्रस्ट के साथ रेशमी वेनिला कस्टर्ड।",
                 "كريم بروليه بفانيليا خاو ياي، مع طبقة كراميل مقرمشة."
             ],
-            "category": "SweetEndings",
+            "category": "all_foo,all_menu,SweetEndings",
             "types": "vegetarian",
             "ingredients": [
                 "khao yai vanilla",
@@ -1976,7 +2006,7 @@
                 "चुम्फोन कोको के साथ नाजुक पन्ना कोट्टा।",
                 "باناکوتا رقيقة غنية بـكاكاو تشومفون الفاخر."
             ],
-            "category": "SweetEndings",
+            "category": "all_foo,all_menu,SweetEndings",
             "types": "vegetarian",
             "ingredients": [
                 "chumphon cacao",
@@ -2009,7 +2039,7 @@
                 "चॉकलेट की तीन बनावट: कोको स्पंज, डार्क गणाचे और चमकदार चमक।",
                 "هوس الغابة السوداء: ثلاث قوامات من الشوكولاتة الفاخرة."
             ],
-            "category": "SweetEndings",
+            "category": "all_foo,all_menu,SweetEndings",
             "types": "vegetarian",
             "ingredients": [
                 "dark chocolate",
