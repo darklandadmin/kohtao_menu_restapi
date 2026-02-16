@@ -22,6 +22,14 @@
       "about":[ "Authentic Spanish cuisine with traditional paella and tapas"],
       "cuisine": "thai",
       "restaurant": true
+    },
+  {
+      "username": "harmony",
+      "name": "Harmony Koh tao",
+      "logo": "https://i.postimg.cc/mkVFmGWZ/Harmony-Bistro-Logo.png",
+      "about":[ "A Culinary Experience Like No Other"],
+      "cuisine": "Culinary Experience",
+      "restaurant": true
     }
     
   ]
