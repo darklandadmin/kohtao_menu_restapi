@@ -30,6 +30,14 @@
       "about":[ "A Culinary Experience Like No Other"],
       "cuisine": "Culinary Experience",
       "restaurant": true
+    },
+  {
+      "username": "krua.siam",
+      "name": "Krua Siam",
+      "logo": "https://i.postimg.cc/x1KB7Q3G/KRUA_SIAM.png",
+      "about":[ "Thai Food"],
+      "cuisine": "Thai",
+      "restaurant": true
     }
     
   ]
