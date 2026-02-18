@@ -38,6 +38,14 @@
       "about":[ "Thai Food"],
       "cuisine": "Thai",
       "restaurant": true
+    },
+ {
+      "username": "karaweik",
+      "name": "Karaweik",
+      "logo": "https://i.postimg.cc/9MNKCWMw/karaweik_log.jpg",
+      "about":[ "Burmese Food Restaurant"],
+      "cuisine": "Burmese",
+      "restaurant": true
     }
     
   ]
