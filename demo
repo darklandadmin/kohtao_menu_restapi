@@ -1,13 +1,13 @@
 {
   "info": {
     "version": "1.0.0",
-    "name": "YourWaiter Test",
+    "name": "YourWaiter",
     "logo": "https://i.postimg.cc/yd7j7PFL/demo_logo_dark.png",
     "night_logo": "https://i.postimg.cc/9McbcpGx/demo_logo_light.png",
     "page_link": ""
   },
   "rstsetting": {
-    "themeColor": "green",
+    "themeColor": "brown",
     "photoRatio": "4:3",
     "showAddToCartButton": true,
     "showIngredients": true,
