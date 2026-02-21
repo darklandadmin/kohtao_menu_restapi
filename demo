@@ -16,7 +16,21 @@
     "showPrice": true,
     "showMyLanguageDescription": true
   },
-  "slide": [],
+  "slide": [
+    {
+      "id": "slide1",
+      "thumbnail": "",
+      "title": "Hello",
+      "desc": "Welcome to urwaiter",
+      "link": "",
+      "direct_go": true,
+      "ad": true,
+      "show_text": true,
+      "day": "all",
+      "start": "2026-02-20",
+      "end": "2026-02-28"
+    }
+  ],
   "ad_banner": [
     {
       "id": "home_3",
