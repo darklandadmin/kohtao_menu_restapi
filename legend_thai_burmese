@@ -1,0 +1,1334 @@
+{
+    "info": {
+        "version": "1.0.0",
+        "name": "Legend Thai and Burmese Food",
+        "logo": "",
+        "night_logo": "",
+        "page_link": ""
+    },
+    "rstsetting": {
+        "themeColor": "blue",
+        "photoRatio": "4:3",
+        "showAddToCartButton": true,
+        "showIngredients": true,
+        "showDescription": true,
+        "showName": true,
+        "showPrice": true,
+        "showMyLanguageDescription": true
+    },
+    "slide": [],
+    "ad_banner": [],
+    "special": {
+        "title": "Recommendation",
+        "id": "Starter",
+        "day": "all",
+        "end": "2026-12-31"
+    },
+    "categories": [
+        {
+            "name": "All Menu",
+            "id": "all_menu",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/gjRt3MNJ/calendar.gif"
+        },
+        {
+            "name": "All Food",
+            "id": "food_menu",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/g2pQHW9c/quesadilla.gif"
+        },
+        {
+            "name": "Starter",
+            "id": "Starter",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "Curry",
+            "id": "Curry",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "Desserts",
+            "id": "Desserts",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "Thai Food",
+            "id": "Thai_Food",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "Salad",
+            "id": "Salad",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "Soup",
+            "id": "Soup",
+            "food": true,
+            "open_in": "00:00-23:59",
+            "icon_id": ""
+        },
+        {
+            "name": "All Drinks",
+            "id": "drink_menu",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/VvbB3dtd/cold-drink.gif"
+        },
+        {
+            "name": "Soft Drinks",
+            "id": "Soft_drinks",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/gJk6NJkc/beer-can.gif"
+        },
+        {
+            "name": "Smoothies",
+            "id": "Smoothies",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/VvbB3dtd/cold-drink.gif"
+        },
+        {
+            "name": "Juice",
+            "id": "Juice",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/VvbB3dtd/cold-drink.gif"
+        },
+        {
+            "name": "Beer",
+            "id": "Beer",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/gJk6NJkc/beer-can.gif"
+        },
+        {
+            "name": "House Wine",
+            "id": "House_Wine",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/15Ymxmkp/wine.png"
+        },
+        {
+            "name": "Soju",
+            "id": "Soju",
+            "food": false,
+            "open_in": "00:00-23:59",
+            "icon_id": "https://i.postimg.cc/gJk6NJkc/beer-can.gif"
+        }
+    ],
+    "lists": [
+        {
+            "id": "001",
+            "title": "Deep Fried Prawn",
+            "description": [
+                "Crispy, golden-brown battered prawns, a classic and popular appetizer."
+            ],
+            "ingredients": [
+                "Prawn",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 140,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "002",
+            "title": "Chicken Wings",
+            "description": [
+                "Deep-fried chicken wings, likely seasoned, a simple and satisfying finger food."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "003",
+            "title": "Chicken Nuggets",
+            "description": [
+                "Bite-sized pieces of breaded and fried chicken, a familiar and kid-friendly option."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "004",
+            "title": "Deep Fried Pork Ribe",
+            "description": [
+                "Deep-fried pork ribs, offering a crunchy exterior and tender, flavorful meat. (Note: \"Ribe\" is likely a typo for \"Ribs\")."
+            ],
+            "ingredients": [
+                "Pork",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "005",
+            "title": "Samosa",
+            "description": [
+                "Fried or baked pastry with a savory filling, such as spiced potatoes and peas. A South Asian classic."
+            ],
+            "ingredients": [
+                "Potato",
+                "Pea",
+                "Spices",
+                "Wrapper"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "006",
+            "title": "Spring Roll",
+            "description": [
+                "A fried roll filled with shredded vegetables and sometimes meat, served with a sweet chili sauce."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Wrapper",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "007",
+            "title": "Prawn Crackers",
+            "description": [
+                "Light, airy, and crispy shrimp-flavored crackers, a common snack."
+            ],
+            "ingredients": [
+                "Prawn",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "008",
+            "title": "Noname",
+            "description": [
+                "A mysterious item with no name, leaving its contents to the imagination."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "009",
+            "title": "French Fries",
+            "description": [
+                "Classic deep-fried potato sticks, a universally loved side."
+            ],
+            "ingredients": [
+                "Potato",
+                "Oil",
+                "Salt"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 30,
+            "category": "food_menu,all_menu,Starter"
+        },
+        {
+            "id": "010",
+            "title": "Prawn Curry (Sweet Or Spicy)",
+            "description": [
+                "A flavorful curry with prawns, customizable to your preferred heat level."
+            ],
+            "ingredients": [
+                "Prawn",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 150,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "011",
+            "title": "Beef Curry Spicy Egg Curry With Fish Can",
+            "description": [
+                "A complex dish description. It likely means a spicy beef curry that can be ordered with an egg or with fish (from a can, possibly tinned mackerel in curry)."
+            ],
+            "ingredients": [
+                "Beef",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 150,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "012",
+            "title": "Mixed Veg Curry With Yellow Bean",
+            "description": [
+                "A vegetarian curry featuring a mix of vegetables in a savory yellow bean sauce."
+            ],
+            "ingredients": [
+                "Curry paste",
+                "Coconut milk",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "013",
+            "title": "Potato Chicken Or Pork Curry",
+            "description": [
+                "A hearty curry where you can choose between chicken or pork, both cooked with potatoes."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "014",
+            "title": "Steamed Chicken Or Pork Curry",
+            "description": [
+                "A unique take where chicken or pork is steamed, resulting in a very tender texture, and served in a curry gravy."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "015",
+            "title": "Penang Curry",
+            "description": [
+                "A rich, creamy, and slightly sweet Malaysian-style curry, typically less spicy than others."
+            ],
+            "ingredients": [
+                "Curry paste",
+                "Coconut milk",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "016",
+            "title": "Green Curry",
+            "description": [
+                "A classic Thai curry made with green chili paste and coconut milk, known for its fragrant and spicy flavor."
+            ],
+            "ingredients": [
+                "Curry paste",
+                "Coconut milk",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "017",
+            "title": "Massarnan Curry",
+            "description": [
+                "A rich, mild, and slightly sweet Muslim-style Thai curry, often made with peanuts, coconut milk, and spices like cinnamon and cardamom."
+            ],
+            "ingredients": [
+                "Curry paste",
+                "Coconut milk",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "018",
+            "title": "Plain RICE",
+            "description": [
+                "Steamed jasmine rice, the essential accompaniment to any curry or stir-fry."
+            ],
+            "ingredients": [
+                "Jasmine rice"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 20,
+            "category": "food_menu,all_menu,Curry"
+        },
+        {
+            "id": "019",
+            "title": "Mango Sticky Rice",
+            "description": [
+                "A beloved Thai dessert featuring sweet sticky rice, fresh ripe mango slices, and drizzled with coconut cream."
+            ],
+            "ingredients": [
+                "Jasmine rice"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Desserts"
+        },
+        {
+            "id": "020",
+            "title": "Banana Coconut Milk",
+            "description": [
+                "A warm, comforting dessert soup of bananas cooked in a sweet and creamy coconut milk."
+            ],
+            "ingredients": [
+                "Banana",
+                "Coconut milk",
+                "Sugar"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Desserts"
+        },
+        {
+            "id": "021",
+            "title": "Fruit Salad",
+            "description": [
+                "A simple, fresh mix of seasonal fruits, likely served chilled."
+            ],
+            "ingredients": [
+                "Seasonal fruits"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Desserts"
+        },
+        {
+            "id": "022",
+            "title": "STIR FRIED GARLIC PEPPER",
+            "description": [
+                "A simple and savory stir-fry with meat (your choice) in a garlic and black pepper sauce."
+            ],
+            "ingredients": [
+                "Garlic",
+                "Black pepper",
+                "Soy sauce",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "023",
+            "title": "SWEET & SOUR",
+            "description": [
+                "A classic stir-fry with meat and vegetables like cucumber, tomato, and pineapple in a tangy, sweet, and sour sauce."
+            ],
+            "ingredients": [
+                "Pineapple",
+                "Tomato",
+                "Cucumber",
+                "Sweet & sour sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "024",
+            "title": "STIR FRIED BROCCOLI",
+            "description": [
+                "Meat and broccoli florets stir-fried in a light, savory oyster sauce."
+            ],
+            "ingredients": [
+                "Broccoli",
+                "Oyster sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "025",
+            "title": "STIR FRIED CHICKEN CASHEW NUT",
+            "description": [
+                "A popular dish with chicken, roasted cashews, dried chilies, and vegetables in a sweet and savory sauce."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "026",
+            "title": "STIR-FRIED MIXED VEGETABLES",
+            "description": [
+                "A simple and healthy dish featuring a variety of fresh vegetables stir-fried in a light sauce."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "027",
+            "title": "STIR-FRIED MORNING GLORY",
+            "description": [
+                "A very popular Thai vegetable dish, where morning glory (water spinach) is quickly stir-fried with garlic, chili, and soy sauce."
+            ],
+            "ingredients": [
+                "Morning glory",
+                "Garlic",
+                "Chili",
+                "Soy sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "028",
+            "title": "STIR FRIED BASIL LEAF",
+            "description": [
+                "A spicy and aromatic stir-fry with meat, lots of fresh holy basil, chilies, and garlic. A Thai staple."
+            ],
+            "ingredients": [
+                "Basil",
+                "Chili",
+                "Garlic",
+                "Soy sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "029",
+            "title": "FRIED BEANS SPROUTS WITH TOFU",
+            "description": [
+                "A light, simple dish of stir-fried beansprouts and soft tofu, often served with a soy-ginger sauce."
+            ],
+            "ingredients": [
+                "Tofu",
+                "Soy sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "030",
+            "title": "FRIED RICE/FRIED NOODLE",
+            "description": [
+                "A base option for your choice of either fried rice or a fried noodle dish, prepared simply."
+            ],
+            "ingredients": [
+                "Jasmine rice"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 90,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "031",
+            "title": "FRIED RICE PINEAPPLE",
+            "description": [
+                "Fried rice cooked with pineapple chunks, curry powder, cashews, and raisins, often served in a pineapple half."
+            ],
+            "ingredients": [
+                "Jasmine rice"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 90,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "032",
+            "title": "PAD THAI",
+            "description": [
+                "Thailand's most famous noodle dish: stir-fried rice noodles with egg, tofu, shrimp or chicken, beansprouts, and peanuts in a tangy tamarind sauce."
+            ],
+            "ingredients": [
+                "Rice noodles",
+                "Soy sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 90,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "033",
+            "title": "PAD SIEW",
+            "description": [
+                "Stir-fried flat rice noodles with egg, meat, and broccoli in a dark, sweet soy sauce."
+            ],
+            "ingredients": [
+                "Rice noodles",
+                "Soy sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 90,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "034",
+            "title": "FRIED EGG SALAD",
+            "description": [
+                "A simple salad of hard-boiled or fried eggs, possibly with tomatoes, onions, and a simple dressing."
+            ],
+            "ingredients": [
+                "Egg",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 20,
+            "category": "food_menu,all_menu,Thai_Food"
+        },
+        {
+            "id": "035",
+            "title": "Mango Salad",
+            "description": [
+                "A tangy and spicy salad made with shredded unripe mango, tomatoes, onions, peanuts, and a chili-lime dressing."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Lime",
+                "Fish sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "036",
+            "title": "Papaya Salad",
+            "description": [
+                "The iconic green papaya salad, pounded with tomatoes, green beans, peanuts, chilies, lime, and fish sauce."
+            ],
+            "ingredients": [
+                "Green papaya",
+                "Tomato",
+                "Peanut",
+                "Lime"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "037",
+            "title": "Chicken Or Pork Salad",
+            "description": [
+                "A spicy and tangy \"larb\" or \"yam\"-style salad with minced meat, tossed with lime juice, fish sauce, chili, and fresh herbs."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 100,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "038",
+            "title": "Burmese Ginger Salad",
+            "description": [
+                "A preserved ginger salad mixed with fried beans, sesame seeds, and peanuts, offering a complex mix of textures and flavors."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Lime",
+                "Fish sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "039",
+            "title": "Burmese Tea Salad",
+            "description": [
+                "A unique and famous salad made with fermented tea leaves, mixed with a variety of nuts, seeds, and fried peas."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Lime",
+                "Fish sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "040",
+            "title": "Burmese Tofu Salad",
+            "description": [
+                "A salad featuring Burmese tofu, which is made from chickpea flour, giving it a soft, custardy texture, tossed with a tangy dressing."
+            ],
+            "ingredients": [
+                "Tofu",
+                "Soy sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "041",
+            "title": "Burmese Tomato salad",
+            "description": [
+                "A fresh salad with tomatoes, onions, cilantro, and a savory, tangy dressing."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Lime",
+                "Fish sauce"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 80,
+            "category": "food_menu,all_menu,Salad"
+        },
+        {
+            "id": "042",
+            "title": "Chicken Coconut Soup",
+            "description": [
+                "Known as Tom Kha Gai, this is a creamy and aromatic soup with chicken, coconut milk, galangal, lemongrass, and mushrooms."
+            ],
+            "ingredients": [
+                "Chicken",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Soup"
+        },
+        {
+            "id": "043",
+            "title": "Glass Noodle Soup",
+            "description": [
+                "A light and clear broth soup with glass noodles, vegetables, and meat."
+            ],
+            "ingredients": [
+                "Rice noodles",
+                "Soy sauce",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Soup"
+        },
+        {
+            "id": "044",
+            "title": "Tom Yum",
+            "description": [
+                "The famous hot and sour Thai soup, fragrant with lemongrass, kaffir lime leaves, galangal, and chilies. Can be made with shrimp (Tom Yum Goong) or other proteins."
+            ],
+            "ingredients": [
+                "Lemongrass",
+                "Kaffir lime leaf",
+                "Chili",
+                "Mushroom"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 120,
+            "category": "food_menu,all_menu,Soup"
+        },
+        {
+            "id": "045",
+            "title": "CHICKE KEN COCONUT UT NODOLE SOUP (OHN NO KHAO1 SWE)",
+            "description": [
+                "A Burmese coconut noodle soup. A rich, creamy curry-coconut broth with chicken, served over wheat noodles and garnished with a variety of crunchy toppings. (The name is a misspelling but clearly refers to this dish)."
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Garlic",
+                "Oil"
+            ],
+            "add_on": "",
+            "types": "meat",
+            "food": true,
+            "price": 150,
+            "category": "food_menu,all_menu,Soup"
+        },
+        {
+            "id": "046",
+            "title": "Water Small",
+            "description": [
+                "A bottle of still water."
+            ],
+            "ingredients": [
+                "Water"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 20,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "047",
+            "title": "Water Big",
+            "description": [
+                "A larger bottle of still water."
+            ],
+            "ingredients": [
+                "Water"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 40,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "048",
+            "title": "Coke",
+            "description": [
+                "Coca-Cola."
+            ],
+            "ingredients": [
+                "Coca-Cola"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "049",
+            "title": "Sprite",
+            "description": [
+                "Lemon-lime soda."
+            ],
+            "ingredients": [
+                "Sprite"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "050",
+            "title": "Lime Soda",
+            "description": [
+                "A refreshing mix of fresh lime juice, soda water, and sugar/salt."
+            ],
+            "ingredients": [
+                "Lime",
+                "Soda water",
+                "Sugar"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "051",
+            "title": "Ice Tea (Peach, Lemon)",
+            "description": [
+                "Iced tea available in peach or lemon flavor."
+            ],
+            "ingredients": [
+                "Tea",
+                "Sugar",
+                "Ice"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "052",
+            "title": "fanta",
+            "description": [
+                "Fanta orange soda."
+            ],
+            "ingredients": [
+                "Fanta"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "053",
+            "title": "Soda Water",
+            "description": [
+                "Plain carbonated water."
+            ],
+            "ingredients": [
+                "Water"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 30,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "054",
+            "title": "Fresh Coconut",
+            "description": [
+                "A fresh young coconut, served with a straw to drink the water and a spoon to eat the soft flesh."
+            ],
+            "ingredients": [
+                "Coconut water",
+                "Coconut meat"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Soft_drinks"
+        },
+        {
+            "id": "055",
+            "title": "Banana Oat",
+            "description": [
+                "A thick and healthy smoothie blending banana and oats."
+            ],
+            "ingredients": [
+                "Banana",
+                "Oats",
+                "Milk"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "056",
+            "title": "Orea",
+            "description": [
+                "A creamy, indulgent smoothie made with Oreo cookies and milk. (Note: likely a typo for Oreo)."
+            ],
+            "ingredients": [
+                "Oreo",
+                "Milk",
+                "Ice"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "057",
+            "title": "Triple Berry",
+            "description": [
+                "A refreshing and antioxidant-rich blend of three different berries."
+            ],
+            "ingredients": [
+                "Mixed berries",
+                "Ice",
+                "Syrup"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "058",
+            "title": "Mystic Mango",
+            "description": [
+                "A smoothie focused on the rich, sweet flavor of mango."
+            ],
+            "ingredients": [
+                "Mango",
+                "Ice",
+                "Syrup"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "059",
+            "title": "Pineapple Paradise",
+            "description": [
+                "A tropical smoothie featuring the bright, tangy flavor of pineapple."
+            ],
+            "ingredients": [
+                "Pineapple",
+                "Ice",
+                "Syrup"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "060",
+            "title": "Lychee Mint",
+            "description": [
+                "A unique and refreshing smoothie combining sweet, floral lychee with cool mint."
+            ],
+            "ingredients": [
+                "Lychee",
+                "Mint",
+                "Ice",
+                "Syrup"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "061",
+            "title": "Chocolate Banana",
+            "description": [
+                "A classic and delicious combination of rich chocolate and sweet banana."
+            ],
+            "ingredients": [
+                "Banana",
+                "Chocolate",
+                "Milk",
+                "Ice"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 90,
+            "category": "drink_menu,all_menu,Smoothies"
+        },
+        {
+            "id": "062",
+            "title": "Orange Juice",
+            "description": [
+                "Freshly squeezed or high-quality orange juice."
+            ],
+            "ingredients": [
+                "Orange"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Juice"
+        },
+        {
+            "id": "063",
+            "title": "Cranberry Juice",
+            "description": [
+                "Tart and refreshing cranberry juice."
+            ],
+            "ingredients": [
+                "Cranberry"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Juice"
+        },
+        {
+            "id": "064",
+            "title": "Passion Fruit Juice",
+            "description": [
+                "Sweet and tangy juice made from passion fruit."
+            ],
+            "ingredients": [
+                "Passion fruit"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Juice"
+        },
+        {
+            "id": "065",
+            "title": "Pineapple Juice",
+            "description": [
+                "Sweet and slightly tart pineapple juice."
+            ],
+            "ingredients": [
+                "Pineapple"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Juice"
+        },
+        {
+            "id": "066",
+            "title": "Mango Juice",
+            "description": [
+                "Rich and sweet mango nectar or juice."
+            ],
+            "ingredients": [
+                "Mango"
+            ],
+            "add_on": "",
+            "types": "nonalcohol",
+            "food": false,
+            "price": 80,
+            "category": "drink_menu,all_menu,Juice"
+        },
+        {
+            "id": "067",
+            "title": "Chang",
+            "description": [
+                "A popular Thai lager beer, known for its strong flavor and higher alcohol content."
+            ],
+            "ingredients": [
+                "Beer"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 70,
+            "category": "drink_menu,all_menu,Beer"
+        },
+        {
+            "id": "068",
+            "title": "Singha",
+            "description": [
+                "Another very popular Thai lager, a bit more premium and balanced in flavor than Chang."
+            ],
+            "ingredients": [
+                "Beer"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 70,
+            "category": "drink_menu,all_menu,Beer"
+        },
+        {
+            "id": "069",
+            "title": "Leo",
+            "description": [
+                "A widely available Thai lager, often a more budget-friendly option."
+            ],
+            "ingredients": [
+                "Beer"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 70,
+            "category": "drink_menu,all_menu,Beer"
+        },
+        {
+            "id": "070",
+            "title": "Red Wine",
+            "description": [
+                "A glass of the house red wine."
+            ],
+            "ingredients": [
+                "Red wine"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 120,
+            "category": "drink_menu,all_menu,House_Wine"
+        },
+        {
+            "id": "071",
+            "title": "White Wine",
+            "description": [
+                "A glass of the house white wine."
+            ],
+            "ingredients": [
+                "White wine"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 120,
+            "category": "drink_menu,all_menu,House_Wine"
+        },
+        {
+            "id": "072",
+            "title": "SOJU",
+            "description": [
+                "A bottle of Soju, a clear and colorless Korean distilled liquor, typically drunk neat or in cocktails."
+            ],
+            "ingredients": [
+                "Soju"
+            ],
+            "add_on": "",
+            "types": "alcohol",
+            "food": false,
+            "price": 135,
+            "category": "drink_menu,all_menu,Soju"
+        }
+    ],
+    "add_on": []
+}
