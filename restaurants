@@ -60,6 +60,16 @@
             "cuisine": "Burmese",
             "restaurant": true
         },
+  {
+            "username": "legend_thai_burmese",
+            "name": "Legend Thai and Burmese",
+            "logo": "",
+            "about": [
+                ""
+            ],
+            "cuisine": "Thai",
+            "restaurant": true
+        },
         {
             "username": "rakhine",
             "name": "Rakhine",
