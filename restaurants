@@ -10,46 +10,7 @@
             "cuisine": "To Try Testing♥️",
             "restaurant": true
         },
-        {
-            "username": "ibiza.beach.club",
-            "name": "Ibiza beach club ",
-            "logo": "https://i.postimg.cc/59FK4M29/ibiza_white.webp",
-            "about": [
-                "Authentic Spanish cuisine with traditional paella and tapas"
-            ],
-            "cuisine": "spanish",
-            "restaurant": true
-        },
-        {
-            "username": "breeze.koh.tao",
-            "name": "Breeze",
-            "logo": "https://i.postimg.cc/158Fh9mC/breeze_white.png",
-            "about": [
-                "Authentic Spanish cuisine with traditional paella and tapas"
-            ],
-            "cuisine": "thai",
-            "restaurant": true
-        },
-        {
-            "username": "harmony",
-            "name": "Harmony Koh tao",
-            "logo": "https://i.postimg.cc/mkVFmGWZ/Harmony-Bistro-Logo.png",
-            "about": [
-                "A Culinary Experience Like No Other"
-            ],
-            "cuisine": "Culinary Experience",
-            "restaurant": true
-        },
-        {
-            "username": "krua.siam",
-            "name": "Krua Siam",
-            "logo": "https://i.postimg.cc/x1KB7Q3G/KRUA_SIAM.png",
-            "about": [
-                "Thai Food"
-            ],
-            "cuisine": "Thai",
-            "restaurant": true
-        },
+ 
         {
             "username": "karaweik",
             "name": "Karaweik",
@@ -59,56 +20,5 @@
             ],
             "cuisine": "Burmese",
             "restaurant": true
-        },
-  {
-            "username": "legend_thai_burmese",
-            "name": "Legend Thai and Burmese",
-            "logo": "",
-            "about": [
-                ""
-            ],
-            "cuisine": "Thai",
-            "restaurant": true
-        },
-        {
-            "username": "rakhine",
-            "name": "Rakhine",
-            "logo": "",
-            "about": [
-                ""
-            ],
-            "cuisine": "Burmese",
-            "restaurant": true
-        },
-        {
-            "username": "mama",
-            "name": "MaMa",
-            "logo": "",
-            "about": [
-                ""
-            ],
-            "cuisine": "Thai",
-            "restaurant": true
-        },
-        {
-            "username": "somo",
-            "name": "SomO",
-            "logo": "",
-            "about": [
-                ""
-            ],
-            "cuisine": "Thai",
-            "restaurant": true
-        },
-        {
-            "username": "the.garden",
-            "name": "The Garden",
-            "logo": "",
-            "about": [
-                ""
-            ],
-            "cuisine": "Western",
-            "restaurant": true
         }
-    ]
-}
+]}
