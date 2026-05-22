@@ -9,7 +9,7 @@
     "rstsetting": {
         "themeColor": "yellow",
         "photoRatio": "4:3",
-        "showAddToCartButton": true,
+        "showAddToCartButton": false,
         "showIngredients": true,
         "showDescription": true,
         "showName": true,
