@@ -1,0 +1,708 @@
+{
+  "info": {
+    "version": "1",
+    "name": "Bloom Cafe",
+    "logo": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=200&h=200&fit=crop",
+    "night_logo": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=200&h=200&fit=crop&sat=-100",
+    "page_link": "https://bloomcafe.com"
+  },
+  "rstsetting": {
+    "themeColor": "#8B5E3C",
+    "photoRatio": "4:3",
+    "showAddToCartButton": true,
+    "showIngredients": true,
+    "showDescription": true,
+    "showName": true,
+    "showPrice": true,
+    "showMyLanguageDescription": false
+  },
+ "slide": [
+    {
+      "id": 1,
+      "thumbnail": "https://i.postimg.cc/GhNPfS6F/hp_5_7.webp",
+      "title": "",
+      "desc": "",
+      "link": "",
+      "direct_go": true,
+      "ad": true,
+      "show_text": false,
+      "day": "all",
+      "start": "2026-02-10",
+      "end": "2026-08-10"
+    }
+  ],
+  "ad_banner": [
+    {
+      "id": "home_2",
+      "tag": "banner",
+      "thumbnail": "https://i.postimg.cc/RVcj4B9B/order-contact.gif",
+      "title": "",
+      "desc": "",
+      "link": "https://api.whatsapp.com/send?phone=66926033781&text=Hello%2C%20can%20I%20order%20some%20food%3F",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-03-01",
+      "end": "2026-08-30"
+    }
+  ],
+  "special": {
+    "title": "Recommendation",
+    "id": "Recommendation",
+    "day": "all",
+    "end": "2026-8-01"
+  },
+  "categories": [
+    {
+      "name": "Coffee",
+      "id": "coffee",
+      "food": false,
+      "open_in": "07:00-22:00",
+      "icon_id": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=100&h=100&fit=crop"
+    },
+    {
+      "name": "Tea",
+      "id": "tea",
+      "food": false,
+      "open_in": "07:00-22:00",
+      "icon_id": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=100&h=100&fit=crop"
+    },
+    {
+      "name": "Smoothies",
+      "id": "smoothies",
+      "food": false,
+      "open_in": "08:00-21:00",
+      "icon_id": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=100&h=100&fit=crop"
+    },
+    {
+      "name": "Breakfast",
+      "id": "breakfast",
+      "food": true,
+      "open_in": "07:00-14:00",
+      "icon_id": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=100&h=100&fit=crop"
+    },
+    {
+      "name": "Bakery",
+      "id": "bakery",
+      "food": true,
+      "open_in": "07:00-20:00",
+      "icon_id": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=100&h=100&fit=crop"
+    },
+    {
+      "name": "Desserts",
+      "id": "desserts",
+      "food": true,
+      "open_in": "10:00-22:00",
+      "icon_id": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=100&h=100&fit=crop"
+    }
+  ],
+  "lists": [
+    {
+      "id": "item001",
+      "thumbnail": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ],
+      "title": "Caramel Latte",
+      "description": [
+        "Smooth espresso with steamed milk and rich caramel sauce.",
+        "เอสเพรสโซ่เนื้อเนียนกับนมสตีมและซอสคาราเมลเข้มข้น",
+        "ချောချောမွေ့မွေ့ espresso နွားနို့အငွေ့နဲ့ ခရမ်မဲဆော့စ်အရသာရှိရှိ"
+      ],
+      "ingredients": ["Espresso", "Steamed Milk", "Caramel Syrup", "Whipped Cream"],
+      "price": 120,
+      "food": false,
+      "category": "coffee,Recommendation",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item002",
+      "thumbnail": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ],
+      "title": "Matcha Latte",
+      "description": [
+        "Creamy matcha green tea with steamed milk.",
+        "มัทฉะชาเขียวครีมมี่กับนมสตีม",
+        "နွားနို့အငွေ့နဲ့ မာချာလက်ဖက်စိမ်းချောမွေ့"
+      ],
+      "ingredients": ["Matcha Powder", "Steamed Milk", "Honey"],
+      "price": 130,
+      "food": false,
+      "category": "tea,Recommendation",
+      "types": "tea",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item003",
+      "thumbnail": "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533827432537-70133748f2c8?w=800&h=600&fit=crop"
+      ],
+      "title": "Berry Bliss Smoothie",
+      "description": [
+        "Mixed berries, banana, and yogurt blended to perfection.",
+        "เบอร์รี่รวม, กล้วย และโยเกิร์ตปั่นอย่างลงตัว",
+        "ဘယ်ရီသီးအမျိုးမျိုး၊ ငှက်ပျောသီးနဲ့ ဒိန်ချဉ်ကို ပြီးပြည့်စုံအောင်ရောစပ်"
+      ],
+      "ingredients": ["Strawberries", "Blueberries", "Banana", "Greek Yogurt", "Honey"],
+      "price": 140,
+      "food": false,
+      "category": "smoothies",
+      "types": "smoothie",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item004",
+      "thumbnail": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop"
+      ],
+      "title": "Avocado Toast",
+      "description": [
+        "Sourdough toast with smashed avocado, cherry tomatoes, and chili flakes.",
+        "ขนมปังซาวโดว์โทสต์กับอะโวคาโดบด, มะเขือเทศเชอรี่ และพริกป่น",
+        "အက်ဗိုကာဒိုးကြိတ်ထားတဲ့ Sourdough ပေါင်မုန့်ကင်၊ ချယ်ရီခရမ်းချဉ်သီးနဲ့ ငရုတ်သီးအမှုန့်"
+      ],
+      "ingredients": ["Sourdough Bread", "Avocado", "Cherry Tomatoes", "Chili Flakes", "Lemon Juice"],
+      "price": 180,
+      "food": true,
+      "category": "breakfast,Recommendation",
+      "types": "breakfast",
+      "add_on": "breakfast_addons"
+    },
+    {
+      "id": "item005",
+      "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=800&h=600&fit=crop"
+      ],
+      "title": "Croissant",
+      "description": [
+        "Buttery, flaky French croissant baked fresh daily.",
+        "ครัวซองต์ฝรั่งเศสเนยหอมฟองฟูอบสดใหม่ทุกวัน",
+        "ထောပတ်နဲ့ကြွပ်ကြွပ်ရွှေဝါဝါ ပြင်သစ် ခရွာဆန်ကို နေ့စဉ်ဖုတ်သစ်"
+      ],
+      "ingredients": ["Flour", "Butter", "Yeast", "Milk", "Sugar"],
+      "price": 90,
+      "food": true,
+      "category": "bakery",
+      "types": "bakery",
+      "add_on": ""
+    },
+    {
+      "id": "item006",
+      "thumbnail": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&h=600&fit=crop"
+      ],
+      "title": "Tiramisu",
+      "description": [
+        "Classic Italian tiramisu with espresso-soaked ladyfingers and mascarpone.",
+        "ทีรามิสุอิตาเลียนคลาสสิกกับเลดี้ฟิงเกอร์แช่เอสเพรสโซ่และมาสคาร์โปน",
+        "အီတလီ ထိရာမီဆူ ဂန္ထဝင် espresso နဲ့စိမ်ထားတဲ့ လေဒီဖင်းဂါနဲ့ mascarpone"
+      ],
+      "ingredients": ["Ladyfingers", "Espresso", "Mascarpone", "Cocoa Powder", "Sugar"],
+      "price": 160,
+      "food": true,
+      "category": "desserts,Recommendation",
+      "types": "dessert",
+      "add_on": ""
+    },
+    {
+      "id": "item007",
+      "thumbnail": "https://images.unsplash.com/photo-1517701604599-bb29b880090f?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1517701604599-bb29b880090f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop"
+      ],
+      "title": "Flat White",
+      "description": [
+        "Bold espresso with velvety microfoam milk.",
+        "เอสเพรสโซ่เข้มข้นกับนมไมโครโฟมละมุน",
+        "ရဲရင့်တဲ့ espresso နဲ့ ချောမွေ့တဲ့ microfoam နို့"
+      ],
+      "ingredients": ["Espresso", "Steamed Milk"],
+      "price": 110,
+      "food": false,
+      "category": "coffee",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item008",
+      "thumbnail": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=800&h=600&fit=crop"
+      ],
+      "title": "Earl Grey Tea",
+      "description": [
+        "Classic black tea with bergamot citrus notes.",
+        "ชาดำคลาสสิกกับกลิ่นเบอร์กาม็อตส้ม",
+        "ဘာဂါမော့ လိမ္မော်ရနံ့ပါတဲ့ ဂန္ထဝင်လက်ဖက်နက်"
+      ],
+      "ingredients": ["Black Tea", "Bergamot Oil"],
+      "price": 80,
+      "food": false,
+      "category": "tea",
+      "types": "tea",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item009",
+      "thumbnail": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&h=600&fit=crop"
+      ],
+      "title": "Tropical Mango Smoothie",
+      "description": [
+        "Mango, pineapple, and coconut milk smoothie.",
+        "สมูทตี้มะม่วง, สับปะรด และกะทิ",
+        "သရက်သီး၊ နာနတ်သီးနဲ့ အုန်းနို့ စမူသီ"
+      ],
+      "ingredients": ["Mango", "Pineapple", "Coconut Milk", "Honey"],
+      "price": 135,
+      "food": false,
+      "category": "smoothies",
+      "types": "smoothie",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item010",
+      "thumbnail": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=800&h=600&fit=crop"
+      ],
+      "title": "French Toast",
+      "description": [
+        "Brioche bread dipped in egg custard, fried golden, served with berries.",
+        "ขนมปังบริโอชชุบครีมไข่ ทอดทอง เสิร์ฟพร้อมเบอร์รี่",
+        "ဘရီယိုရှ်ပေါင်မုန့်ကို ကြက်ဥ custard နှစ်ပြီး ရွှေဝါရောင်ကြော်၊ ဘယ်ရီသီးနဲ့တွဲဖော်"
+      ],
+      "ingredients": ["Brioche Bread", "Eggs", "Milk", "Cinnamon", "Berries", "Maple Syrup"],
+      "price": 190,
+      "food": true,
+      "category": "breakfast",
+      "types": "breakfast",
+      "add_on": "breakfast_addons"
+    },
+    {
+      "id": "item011",
+      "thumbnail": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop"
+      ],
+      "title": "Pain au Chocolat",
+      "description": [
+        "Flaky pastry with dark chocolate filling.",
+        "ขนมอบพองฟูไส้ดาร์กช็อกโกแลต",
+        "အနက်ရောင်ချောကလက်ဖြည့်ထားတဲ့ ကြွပ်ကြွပ်မုန့်"
+      ],
+      "ingredients": ["Flour", "Butter", "Dark Chocolate", "Yeast", "Sugar"],
+      "price": 95,
+      "food": true,
+      "category": "bakery",
+      "types": "bakery",
+      "add_on": ""
+    },
+    {
+      "id": "item012",
+      "thumbnail": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=600&fit=crop"
+      ],
+      "title": "Cheesecake",
+      "description": [
+        "New York style cheesecake with berry compote.",
+        "ชีสเค้กสไตล์นิวยอร์กกับคอมโพทเบอร์รี่",
+        "ဘယ်ရီသီးယိုနဲ့ နယူးယောက်စတိုင် ချိစ်ကိတ်"
+      ],
+      "ingredients": ["Cream Cheese", "Graham Cracker Crust", "Sugar", "Eggs", "Berries"],
+      "price": 150,
+      "food": true,
+      "category": "desserts",
+      "types": "dessert",
+      "add_on": ""
+    },
+    {
+      "id": "item013",
+      "thumbnail": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop"
+      ],
+      "title": "Espresso",
+      "description": [
+        "Bold single-origin espresso shot.",
+        "เอสเพรสโซ่ช็อตเมล็ดเดียวเข้มข้น",
+        "ရဲရင့်တဲ့ single-origin espresso shot"
+      ],
+      "ingredients": ["Coffee Beans"],
+      "price": 70,
+      "food": false,
+      "category": "coffee",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item014",
+      "thumbnail": "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop"
+      ],
+      "title": "Green Tea",
+      "description": [
+        "Light and refreshing Japanese green tea.",
+        "ชาเขียวญี่ปุ่นบางเบาสดชื่น",
+        "ပေါ့ပါးလန်းဆန်းတဲ့ ဂျပန်လက်ဖက်စိမ်း"
+      ],
+      "ingredients": ["Green Tea Leaves"],
+      "price": 70,
+      "food": false,
+      "category": "tea",
+      "types": "tea",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item015",
+      "thumbnail": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&h=600&fit=crop"
+      ],
+      "title": "Strawberry Banana Smoothie",
+      "description": [
+        "Strawberry, banana, and oat milk smoothie.",
+        "สมูทตี้สตรอเบอร์รี่, กล้วย และนมโอ๊ต",
+        "စတော်ဘယ်ရီ၊ ငှက်ပျောသီးနဲ့ oat နို့ စမူသီ"
+      ],
+      "ingredients": ["Strawberries", "Banana", "Oat Milk", "Honey"],
+      "price": 130,
+      "food": false,
+      "category": "smoothies",
+      "types": "smoothie",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item016",
+      "thumbnail": "https://images.unsplash.com/photo-1533827432537-70133748f2c8?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1533827432537-70133748f2c8?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop"
+      ],
+      "title": "Eggs Benedict",
+      "description": [
+        "Poached eggs on English muffin with hollandaise sauce.",
+        "ไข่ลวกบนอิงลิชมัฟฟินกับซอสฮอลแลนเดส",
+        "ဟော်လန်ဒေးဆော့စ်နဲ့ အင်္ဂလိပ် muffin ပေါ်က ကြက်ဥပြုတ်"
+      ],
+      "ingredients": ["Poached Eggs", "English Muffin", "Hollandaise Sauce", "Ham"],
+      "price": 220,
+      "food": true,
+      "category": "breakfast,Recommendation",
+      "types": "breakfast",
+      "add_on": "breakfast_addons"
+    },
+    {
+      "id": "item017",
+      "thumbnail": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1517701604599-bb29b880090f?w=800&h=600&fit=crop"
+      ],
+      "title": "Mocha",
+      "description": [
+        "Espresso with chocolate syrup and steamed milk.",
+        "เอสเพรสโซ่กับไซรัปช็อกโกแลตและนมสตีม",
+        "ချောကလက်ရည်နဲ့ နွားနို့အငွေ့ပါတဲ့ espresso"
+      ],
+      "ingredients": ["Espresso", "Chocolate Syrup", "Steamed Milk", "Whipped Cream"],
+      "price": 125,
+      "food": false,
+      "category": "coffee",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item018",
+      "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=800&h=600&fit=crop"
+      ],
+      "title": "Cinnamon Roll",
+      "description": [
+        "Soft cinnamon roll with cream cheese glaze.",
+        "ซินนามอนโรลนุ่มกับเกลซครีมชีส",
+        "ခရင်မ်ချိစ်အမွှေးနဲ့ ပျော့ပျောင်းတဲ့ သစ်ကြံပိုးခေါက်မုန့်"
+      ],
+      "ingredients": ["Flour", "Cinnamon", "Brown Sugar", "Butter", "Cream Cheese"],
+      "price": 110,
+      "food": true,
+      "category": "bakery,Recommendation",
+      "types": "bakery",
+      "add_on": ""
+    },
+    {
+      "id": "item019",
+      "thumbnail": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&h=600&fit=crop"
+      ],
+      "title": "Crème Brûlée",
+      "description": [
+        "Vanilla custard with a caramelized sugar crust.",
+        "คัสตาร์ดวานิลลากับน้ำตาลคาราเมลกรอบ",
+        "ကာရမေလ်သကြားအပေါ်ယံလွှာနဲ့ vanilla custard"
+      ],
+      "ingredients": ["Cream", "Vanilla Bean", "Egg Yolks", "Sugar"],
+      "price": 140,
+      "food": true,
+      "category": "desserts",
+      "types": "dessert",
+      "add_on": ""
+    },
+    {
+      "id": "item020",
+      "thumbnail": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop"
+      ],
+      "title": "Vanilla Latte",
+      "description": [
+        "Espresso with steamed milk and vanilla syrup.",
+        "เอสเพรสโซ่กับนมสตีมและไซรัปวานิลลา",
+        "နွားနို့အငွေ့နဲ့ vanilla ရည်ပါတဲ့ espresso"
+      ],
+      "ingredients": ["Espresso", "Steamed Milk", "Vanilla Syrup"],
+      "price": 115,
+      "food": false,
+      "category": "coffee",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item021",
+      "thumbnail": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558857563-c0c8d4f6b9a2?w=800&h=600&fit=crop"
+      ],
+      "title": "Chai Tea",
+      "description": [
+        "Spiced black tea with milk and honey.",
+        "ชาดำเครื่องเทศกับนมและน้ำผึ้ง",
+        "နို့နဲ့ပျားရည်ပါတဲ့ ဟင်းခတ်အမွှေးအကြိုင်လက်ဖက်နက်"
+      ],
+      "ingredients": ["Black Tea", "Spices", "Milk", "Honey"],
+      "price": 85,
+      "food": false,
+      "category": "tea",
+      "types": "tea",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item022",
+      "thumbnail": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=800&h=600&fit=crop"
+      ],
+      "title": "Pancakes",
+      "description": [
+        "Fluffy pancakes served with maple syrup and butter.",
+        "แพนเค้กฟูฟ่องเสิร์ฟกับไซรัปเมเปิ้ลและเนย",
+        "မေပယ်ရည်နဲ့ထောပတ်နဲ့တွဲဖော်တဲ့ ဖွဖွလေး ပန်ကိတ်"
+      ],
+      "ingredients": ["Flour", "Eggs", "Milk", "Butter", "Maple Syrup"],
+      "price": 170,
+      "food": true,
+      "category": "breakfast",
+      "types": "breakfast",
+      "add_on": "breakfast_addons"
+    },
+    {
+      "id": "item023",
+      "thumbnail": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop"
+      ],
+      "title": "Almond Croissant",
+      "description": [
+        "Croissant filled with almond cream and sliced almonds.",
+        "ครัวซองต์ไส้ครีมอัลมอนด์และอัลมอนด์สไลด์",
+        "ဗာဒံခရင်မ်နဲ့ ဗာဒံစိပ်တွေဖြည့်ထားတဲ့ ခရွာဆန်"
+      ],
+      "ingredients": ["Croissant", "Almond Cream", "Sliced Almonds", "Powdered Sugar"],
+      "price": 100,
+      "food": true,
+      "category": "bakery",
+      "types": "bakery",
+      "add_on": ""
+    },
+    {
+      "id": "item024",
+      "thumbnail": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=600&fit=crop"
+      ],
+      "title": "Lava Cake",
+      "description": [
+        "Warm chocolate cake with a gooey molten center.",
+        "เค้กช็อกโกแลตอุ่นกับใจกลางละลาย",
+        "ပူပူနွေးနွေး ချောကလက်ကိတ်မုန့် အရည်ကျိုဗဟိုချက်"
+      ],
+      "ingredients": ["Dark Chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+      "price": 145,
+      "food": true,
+      "category": "desserts,Recommendation",
+      "types": "dessert",
+      "add_on": ""
+    },
+    {
+      "id": "item025",
+      "thumbnail": "https://images.unsplash.com/photo-1517701604599-bb29b880090f?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1517701604599-bb29b880090f?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop"
+      ],
+      "title": "Cappuccino",
+      "description": [
+        "Classic cappuccino with equal parts espresso, steamed milk, and foam.",
+        "คาปูชิโน่คลาสสิกกับเอสเพรสโซ่, นมสตีม และฟองนมในสัดส่วนเท่ากัน",
+        "ဂန္ထဝင် ကာပူချီနို espresso၊ နွားနို့အငွေ့နဲ့ အမြှုပ်တွေ ညီတူညီမျှ"
+      ],
+      "ingredients": ["Espresso", "Steamed Milk", "Milk Foam"],
+      "price": 105,
+      "food": false,
+      "category": "coffee,Recommendation",
+      "types": "coffee",
+      "add_on": "coffee_addons"
+    },
+    {
+      "id": "item026",
+      "thumbnail": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1556881286-fc6915169721?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800&h=600&fit=crop"
+      ],
+      "title": "Jasmine Tea",
+      "description": [
+        "Fragrant jasmine green tea with floral notes.",
+        "ชาเขียวดอกมะลิหอมกับกลิ่นดอกไม้",
+        "ပန်းမွှေးရနံ့ပါတဲ့ စံပယ်လက်ဖက်စိမ်း"
+      ],
+      "ingredients": ["Green Tea", "Jasmine Flowers"],
+      "price": 75,
+      "food": false,
+      "category": "tea",
+      "types": "tea",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item027",
+      "thumbnail": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&h=600&fit=crop"
+      ],
+      "title": "Green Power Smoothie",
+      "description": [
+        "Kale, spinach, banana, and green apple smoothie.",
+        "สมูทตี้คะน้า, ผักโขม, กล้วย และแอปเปิ้ลเขียว",
+        "ကိုက်လန်၊ ဟင်းနုနွယ်ရွက်၊ ငှက်ပျောသီးနဲ့ ပန်းသီးစိမ်း စမူသီ"
+      ],
+      "ingredients": ["Kale", "Spinach", "Banana", "Green Apple", "Lemon"],
+      "price": 145,
+      "food": false,
+      "category": "smoothies",
+      "types": "smoothie",
+      "add_on": "drink_addons"
+    },
+    {
+      "id": "item028",
+      "thumbnail": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&h=600&fit=crop"
+      ],
+      "title": "Breakfast Burrito",
+      "description": [
+        "Flour tortilla filled with scrambled eggs, bacon, cheese, and salsa.",
+        "ตอร์ติญ่าแป้งไส้ไข่คน, เบคอน, ชีส และซัลซ่า",
+        "ကြက်ဥမွှေ၊ ဘေကွန်၊ ချိစ်နဲ့ ဆာဆာဖြည့်ထားတဲ့ ဂျုံမှုန့် tortilla"
+      ],
+      "ingredients": ["Flour Tortilla", "Scrambled Eggs", "Bacon", "Cheddar Cheese", "Salsa"],
+      "price": 200,
+      "food": true,
+      "category": "breakfast",
+      "types": "breakfast",
+      "add_on": "breakfast_addons"
+    },
+    {
+      "id": "item029",
+      "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=800&h=600&fit=crop"
+      ],
+      "title": "Banana Bread",
+      "description": [
+        "Moist banana bread with walnuts and chocolate chips.",
+        "ขนมปังกล้วยชุ่มฉ่ำกับวอลนัทและช็อกโกแลตชิพ",
+        "သစ်ကြားသီးနဲ့ချောကလက်စိပ်တွေပါတဲ့ စိုစွတ်တဲ့ငှက်ပျောပေါင်မုန့်"
+      ],
+      "ingredients": ["Banana", "Flour", "Sugar", "Walnuts", "Chocolate Chips", "Eggs"],
+      "price": 85,
+      "food": true,
+      "category": "bakery",
+      "types": "bakery",
+      "add_on": ""
+    },
+    {
+      "id": "item030",
+      "thumbnail": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=400&h=300&fit=crop",
+      "photos": [
+        "https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&h=600&fit=crop"
+      ],
+      "title": "Panna Cotta",
+      "description": [
+        "Silky Italian panna cotta with berry sauce.",
+        "พานาคอตต้าอิตาเลียนนุ่มละมุนกับซอสเบอร์รี่",
+        "ဘယ်ရီဆော့စ်နဲ့ ချောမွေ့တဲ့ အီတလီ panna cotta"
+      ],
+      "ingredients": ["Cream", "Sugar", "Gelatin", "Vanilla", "Berries"],
+      "price": 130,
+      "food": true,
+      "category": "desserts",
+      "types": "dessert",
+      "add_on": "addon001"
+    }
+  ],
+  "add_on": [
+    {
+      "id": "addon001",
+      "name": "Extra Espresso Shot",
+      "price": 30,
+      "category": "coffee_addons"
+    }
+  ]
+}
