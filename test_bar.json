@@ -1,0 +1,1527 @@
+{
+    "info": {
+        "version": "1.0.0",
+        "name": "Test Bar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+        "night_logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+        "page_link": ""
+    },
+    "rstsetting": {
+        "themeColor": "red",
+        "photoRatio": "4:3",
+        "showAddToCartButton": false,
+        "showIngredients": true,
+        "showDescription": true,
+        "showName": true,
+        "showPrice": true,
+        "showMyLanguageDescription": true
+    },
+    "slide": [
+        {
+            "id": 1,
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "title": "",
+            "desc": "",
+            "link": "",
+            "direct_go": true,
+            "ad": true,
+            "show_text": false,
+            "day": "all",
+            "start": "2026-01-01",
+            "end": "2026-12-31"
+        }
+    ],
+    "ad_banner": [
+        {
+            "id": "bar_happy_hour",
+            "tag": "banner",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "title": "",
+            "desc": "",
+            "link": "",
+            "direct_go": true,
+            "day": "all",
+            "start": "2026-01-01",
+            "end": "2026-12-31"
+        }
+    ],
+    "categories": [
+        {
+            "name": "All Menu",
+            "id": "all_menu",
+            "food": true,
+            "open_in": "00:00-23:59"
+        },
+        {
+            "name": "Cocktails",
+            "id": "cocktails",
+            "food": false,
+            "open_in": "16:00-01:00"
+        },
+        {
+            "name": "Beer",
+            "id": "beer",
+            "food": false,
+            "open_in": "16:00-01:00"
+        },
+        {
+            "name": "Wine",
+            "id": "wine",
+            "food": false,
+            "open_in": "16:00-01:00"
+        },
+        {
+            "name": "Whiskey",
+            "id": "whiskey",
+            "food": false,
+            "open_in": "16:00-01:00"
+        },
+        {
+            "name": "Shots",
+            "id": "shots",
+            "food": false,
+            "open_in": "16:00-01:00"
+        },
+        {
+            "name": "Non Alcohol",
+            "id": "non_alcohol",
+            "food": false,
+            "open_in": "12:00-01:00"
+        },
+        {
+            "name": "Coffee",
+            "id": "coffee",
+            "food": false,
+            "open_in": "12:00-01:00"
+        },
+        {
+            "name": "Snacks",
+            "id": "snacks",
+            "food": true,
+            "open_in": "12:00-23:30"
+        }
+    ],
+    "lists": [
+        {
+            "id": "bar_001",
+            "title": "Classic Mojito",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mojito_001.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Classic Mojito served fresh from the bar menu.",
+                "Classic Mojito เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Classic Mojito ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "White Rum",
+                "Mint",
+                "Lime",
+                "Soda"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_002",
+            "title": "Passion Fruit Mojito",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mojito_001.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Passion Fruit Mojito served fresh from the bar menu.",
+                "Passion Fruit Mojito เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Passion Fruit Mojito ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "White Rum",
+                "Passion Fruit",
+                "Mint",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_003",
+            "title": "Margarita",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/MargaritaReal.jpg",
+            "photos": [],
+            "price": 190,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Margarita served fresh from the bar menu.",
+                "Margarita เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Margarita ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tequila",
+                "Triple Sec",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_004",
+            "title": "Spicy Margarita",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/MargaritaReal.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Spicy Margarita served fresh from the bar menu.",
+                "Spicy Margarita เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Spicy Margarita ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tequila",
+                "Chili",
+                "Lime",
+                "Agave"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_005",
+            "title": "Daiquiri",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Daiquiri served fresh from the bar menu.",
+                "Daiquiri เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Daiquiri ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "White Rum",
+                "Lime",
+                "Sugar"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_006",
+            "title": "Strawberry Daiquiri",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Strawberry Daiquiri served fresh from the bar menu.",
+                "Strawberry Daiquiri เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Strawberry Daiquiri ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "White Rum",
+                "Strawberry",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_007",
+            "title": "Pina Colada",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 220,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Pina Colada served fresh from the bar menu.",
+                "Pina Colada เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Pina Colada ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Rum",
+                "Pineapple",
+                "Coconut Cream"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_008",
+            "title": "Mai Tai",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 230,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Mai Tai served fresh from the bar menu.",
+                "Mai Tai เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Mai Tai ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Rum",
+                "Orange Curacao",
+                "Lime",
+                "Orgeat"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_009",
+            "title": "Cosmopolitan",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/10/Martini.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Cosmopolitan served fresh from the bar menu.",
+                "Cosmopolitan เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Cosmopolitan ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Cranberry",
+                "Triple Sec",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_010",
+            "title": "Espresso Martini",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/10/Martini.jpg",
+            "photos": [],
+            "price": 230,
+            "category": "all_menu,cocktails,coffee",
+            "food": false,
+            "description": [
+                "Espresso Martini served fresh from the bar menu.",
+                "Espresso Martini เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Espresso Martini ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Coffee Liqueur",
+                "Espresso"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_011",
+            "title": "Dry Martini",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/10/Martini.jpg",
+            "photos": [],
+            "price": 230,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Dry Martini served fresh from the bar menu.",
+                "Dry Martini เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Dry Martini ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Gin",
+                "Dry Vermouth",
+                "Olive"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_012",
+            "title": "Negroni",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 230,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Negroni served fresh from the bar menu.",
+                "Negroni เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Negroni ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Gin",
+                "Campari",
+                "Sweet Vermouth"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_013",
+            "title": "Old Fashioned",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7f/15-09-26-RalfR-WLC-0152.jpg",
+            "photos": [],
+            "price": 240,
+            "category": "all_menu,cocktails,whiskey",
+            "food": false,
+            "description": [
+                "Old Fashioned served fresh from the bar menu.",
+                "Old Fashioned เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Old Fashioned ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Bourbon",
+                "Bitters",
+                "Sugar"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_014",
+            "title": "Whiskey Sour",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 220,
+            "category": "all_menu,cocktails,whiskey",
+            "food": false,
+            "description": [
+                "Whiskey Sour served fresh from the bar menu.",
+                "Whiskey Sour เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Whiskey Sour ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Whiskey",
+                "Lemon",
+                "Sugar"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_015",
+            "title": "Long Island Iced Tea",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NCI_iced_tea.jpg",
+            "photos": [],
+            "price": 260,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Long Island Iced Tea served fresh from the bar menu.",
+                "Long Island Iced Tea เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Long Island Iced Tea ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Gin",
+                "Rum",
+                "Tequila",
+                "Cola"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_016",
+            "title": "Blue Lagoon",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 200,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Blue Lagoon served fresh from the bar menu.",
+                "Blue Lagoon เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Blue Lagoon ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Blue Curacao",
+                "Lemonade"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_017",
+            "title": "Tequila Sunrise",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 200,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Tequila Sunrise served fresh from the bar menu.",
+                "Tequila Sunrise เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Tequila Sunrise ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tequila",
+                "Orange Juice",
+                "Grenadine"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_018",
+            "title": "Aperol Spritz",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Champagne_in_flutes.jpg",
+            "photos": [],
+            "price": 230,
+            "category": "all_menu,cocktails,wine",
+            "food": false,
+            "description": [
+                "Aperol Spritz served fresh from the bar menu.",
+                "Aperol Spritz เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Aperol Spritz ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Aperol",
+                "Prosecco",
+                "Soda"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_019",
+            "title": "Gin Tonic",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gin_and_tonic_with_lime.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Gin Tonic served fresh from the bar menu.",
+                "Gin Tonic เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Gin Tonic ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Gin",
+                "Tonic Water",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_020",
+            "title": "Vodka Soda",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Vodka Soda served fresh from the bar menu.",
+                "Vodka Soda เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Vodka Soda ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Soda Water",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_021",
+            "title": "Rum Coke",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Rum Coke served fresh from the bar menu.",
+                "Rum Coke เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Rum Coke ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Rum",
+                "Cola",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_022",
+            "title": "Moscow Mule",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Moscow Mule served fresh from the bar menu.",
+                "Moscow Mule เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Moscow Mule ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Ginger Beer",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_023",
+            "title": "Dark and Stormy",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Dark and Stormy served fresh from the bar menu.",
+                "Dark and Stormy เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Dark and Stormy ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Dark Rum",
+                "Ginger Beer",
+                "Lime"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_024",
+            "title": "Caipirinha",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 200,
+            "category": "all_menu,cocktails",
+            "food": false,
+            "description": [
+                "Caipirinha served fresh from the bar menu.",
+                "Caipirinha เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Caipirinha ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Cachaca",
+                "Lime",
+                "Sugar"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_025",
+            "title": "House Lager",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 120,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "House Lager served fresh from the bar menu.",
+                "House Lager เสิร์ฟสดใหม่จากเมนูบาร์",
+                "House Lager ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Lager Beer"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_026",
+            "title": "Thai Lager",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 130,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "Thai Lager served fresh from the bar menu.",
+                "Thai Lager เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Thai Lager ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Thai Beer"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_027",
+            "title": "Pale Ale",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "Pale Ale served fresh from the bar menu.",
+                "Pale Ale เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Pale Ale ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Pale Ale"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_028",
+            "title": "IPA",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 200,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "IPA served fresh from the bar menu.",
+                "IPA เสิร์ฟสดใหม่จากเมนูบาร์",
+                "IPA ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "India Pale Ale"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_029",
+            "title": "Wheat Beer",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 190,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "Wheat Beer served fresh from the bar menu.",
+                "Wheat Beer เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Wheat Beer ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Wheat Beer"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_030",
+            "title": "Stout",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 210,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "Stout served fresh from the bar menu.",
+                "Stout เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Stout ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Dark Stout"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_031",
+            "title": "Cider",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 170,
+            "category": "all_menu,beer",
+            "food": false,
+            "description": [
+                "Cider served fresh from the bar menu.",
+                "Cider เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Cider ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Apple Cider"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_032",
+            "title": "Non-Alcoholic Beer",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Glass_of_beer.jpg",
+            "photos": [],
+            "price": 120,
+            "category": "all_menu,beer,non_alcohol",
+            "food": false,
+            "description": [
+                "Non-Alcoholic Beer served fresh from the bar menu.",
+                "Non-Alcoholic Beer เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Non-Alcoholic Beer ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Non-Alcoholic Beer"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_033",
+            "title": "Red Wine Glass",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/72/Red_Wine_Glass.jpg",
+            "photos": [],
+            "price": 190,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "Red Wine Glass served fresh from the bar menu.",
+                "Red Wine Glass เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Red Wine Glass ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "House Red Wine"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_034",
+            "title": "White Wine Glass",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f4/White_Wine_Glas.jpg",
+            "photos": [],
+            "price": 190,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "White Wine Glass served fresh from the bar menu.",
+                "White Wine Glass เสิร์ฟสดใหม่จากเมนูบาร์",
+                "White Wine Glass ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "House White Wine"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_035",
+            "title": "Rose Wine Glass",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/72/Red_Wine_Glass.jpg",
+            "photos": [],
+            "price": 200,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "Rose Wine Glass served fresh from the bar menu.",
+                "Rose Wine Glass เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Rose Wine Glass ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Rose Wine"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_036",
+            "title": "Prosecco Glass",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Champagne_in_flutes.jpg",
+            "photos": [],
+            "price": 220,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "Prosecco Glass served fresh from the bar menu.",
+                "Prosecco Glass เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Prosecco Glass ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Prosecco"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_037",
+            "title": "Sparkling Wine Bottle",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Champagne_in_flutes.jpg",
+            "photos": [],
+            "price": 1200,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "Sparkling Wine Bottle served fresh from the bar menu.",
+                "Sparkling Wine Bottle เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Sparkling Wine Bottle ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Sparkling Wine"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_038",
+            "title": "House Red Bottle",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/72/Red_Wine_Glass.jpg",
+            "photos": [],
+            "price": 950,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "House Red Bottle served fresh from the bar menu.",
+                "House Red Bottle เสิร์ฟสดใหม่จากเมนูบาร์",
+                "House Red Bottle ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Red Wine Bottle"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_039",
+            "title": "House White Bottle",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f4/White_Wine_Glas.jpg",
+            "photos": [],
+            "price": 950,
+            "category": "all_menu,wine",
+            "food": false,
+            "description": [
+                "House White Bottle served fresh from the bar menu.",
+                "House White Bottle เสิร์ฟสดใหม่จากเมนูบาร์",
+                "House White Bottle ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "White Wine Bottle"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_040",
+            "title": "Whiskey Single",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,whiskey",
+            "food": false,
+            "description": [
+                "Whiskey Single served fresh from the bar menu.",
+                "Whiskey Single เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Whiskey Single ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Whiskey"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_041",
+            "title": "Whiskey Double",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 280,
+            "category": "all_menu,whiskey",
+            "food": false,
+            "description": [
+                "Whiskey Double served fresh from the bar menu.",
+                "Whiskey Double เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Whiskey Double ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Whiskey"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_042",
+            "title": "Bourbon Single",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,whiskey",
+            "food": false,
+            "description": [
+                "Bourbon Single served fresh from the bar menu.",
+                "Bourbon Single เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Bourbon Single ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Bourbon"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_043",
+            "title": "Scotch Single",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 220,
+            "category": "all_menu,whiskey",
+            "food": false,
+            "description": [
+                "Scotch Single served fresh from the bar menu.",
+                "Scotch Single เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Scotch Single ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Scotch Whisky"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_044",
+            "title": "Tequila Shot",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/MargaritaReal.jpg",
+            "photos": [],
+            "price": 150,
+            "category": "all_menu,shots",
+            "food": false,
+            "description": [
+                "Tequila Shot served fresh from the bar menu.",
+                "Tequila Shot เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Tequila Shot ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tequila"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_045",
+            "title": "Sambuca Shot",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 150,
+            "category": "all_menu,shots",
+            "food": false,
+            "description": [
+                "Sambuca Shot served fresh from the bar menu.",
+                "Sambuca Shot เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Sambuca Shot ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Sambuca"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_046",
+            "title": "Jager Shot",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Whisky_Glass.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,shots",
+            "food": false,
+            "description": [
+                "Jager Shot served fresh from the bar menu.",
+                "Jager Shot เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Jager Shot ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Herbal Liqueur"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_047",
+            "title": "Lemon Drop Shot",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 150,
+            "category": "all_menu,shots",
+            "food": false,
+            "description": [
+                "Lemon Drop Shot served fresh from the bar menu.",
+                "Lemon Drop Shot เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Lemon Drop Shot ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vodka",
+                "Lemon",
+                "Sugar"
+            ],
+            "types": "alcohol",
+            "add_on": ""
+        },
+        {
+            "id": "bar_048",
+            "title": "Virgin Mojito",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mojito_001.jpg",
+            "photos": [],
+            "price": 120,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Virgin Mojito served fresh from the bar menu.",
+                "Virgin Mojito เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Virgin Mojito ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Mint",
+                "Lime",
+                "Soda"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_049",
+            "title": "Virgin Pina Colada",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cocktails_served_at_Twin_Sails_Wharf%2C_Mosman_Park%2C_Australia.jpg",
+            "photos": [],
+            "price": 140,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Virgin Pina Colada served fresh from the bar menu.",
+                "Virgin Pina Colada เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Virgin Pina Colada ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Pineapple",
+                "Coconut Cream"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_050",
+            "title": "Fresh Lime Soda",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 90,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Fresh Lime Soda served fresh from the bar menu.",
+                "Fresh Lime Soda เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Fresh Lime Soda ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Lime",
+                "Soda",
+                "Ice"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_051",
+            "title": "Ginger Beer",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 90,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Ginger Beer served fresh from the bar menu.",
+                "Ginger Beer เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Ginger Beer ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Ginger Beer"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_052",
+            "title": "Cola",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 60,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Cola served fresh from the bar menu.",
+                "Cola เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Cola ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Cola"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_053",
+            "title": "Soda Water",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Italian_Lemon_Soda.jpg",
+            "photos": [],
+            "price": 50,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Soda Water served fresh from the bar menu.",
+                "Soda Water เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Soda Water ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Soda Water"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_054",
+            "title": "Fresh Orange Juice",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/67/Orange_juice_1_edit1.jpg",
+            "photos": [],
+            "price": 100,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Fresh Orange Juice served fresh from the bar menu.",
+                "Fresh Orange Juice เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Fresh Orange Juice ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Fresh Oranges"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_055",
+            "title": "Iced Tea",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NCI_iced_tea.jpg",
+            "photos": [],
+            "price": 80,
+            "category": "all_menu,non_alcohol",
+            "food": false,
+            "description": [
+                "Iced Tea served fresh from the bar menu.",
+                "Iced Tea เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Iced Tea ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tea",
+                "Ice",
+                "Lemon"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_056",
+            "title": "Espresso",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cup_of_espresso_02.jpg",
+            "photos": [],
+            "price": 70,
+            "category": "all_menu,coffee,non_alcohol",
+            "food": false,
+            "description": [
+                "Espresso served fresh from the bar menu.",
+                "Espresso เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Espresso ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Espresso"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_057",
+            "title": "French Fries",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c8/McDonald%27s_French_Fries%2C_Canada%2C_2026-04-04.jpg",
+            "photos": [],
+            "price": 120,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "French Fries served fresh from the bar menu.",
+                "French Fries เสิร์ฟสดใหม่จากเมนูบาร์",
+                "French Fries ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Potatoes",
+                "Salt"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_058",
+            "title": "Sweet Potato Fries",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sweet_Potato_Fries_3.jpg",
+            "photos": [],
+            "price": 140,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Sweet Potato Fries served fresh from the bar menu.",
+                "Sweet Potato Fries เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Sweet Potato Fries ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Sweet Potatoes",
+                "Salt"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_059",
+            "title": "Loaded Nachos",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ignacio_Anaya_Inventor_of_Nachos.jpg",
+            "photos": [],
+            "price": 220,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Loaded Nachos served fresh from the bar menu.",
+                "Loaded Nachos เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Loaded Nachos ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Tortilla Chips",
+                "Cheese",
+                "Salsa"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_060",
+            "title": "Garlic Bread",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Garlic_bread_baguettes_2.jpg",
+            "photos": [],
+            "price": 120,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Garlic Bread served fresh from the bar menu.",
+                "Garlic Bread เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Garlic Bread ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Bread",
+                "Garlic Butter"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_061",
+            "title": "Chicken Wings",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Chicken_wings_with_dip.jpg",
+            "photos": [],
+            "price": 240,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Chicken Wings served fresh from the bar menu.",
+                "Chicken Wings เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Chicken Wings ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Chicken Wings",
+                "Hot Sauce"
+            ],
+            "types": "meat",
+            "add_on": ""
+        },
+        {
+            "id": "bar_062",
+            "title": "Spring Rolls",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Spring_rolls_%282%29.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Spring Rolls served fresh from the bar menu.",
+                "Spring Rolls เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Spring Rolls ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vegetables",
+                "Wrapper",
+                "Sweet Chili Sauce"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_063",
+            "title": "Chicken Burger",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chicken-burger-combo_%281%29.jpg",
+            "photos": [],
+            "price": 260,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Chicken Burger served fresh from the bar menu.",
+                "Chicken Burger เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Chicken Burger ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Chicken Patty",
+                "Bun",
+                "Lettuce"
+            ],
+            "types": "meat",
+            "add_on": ""
+        },
+        {
+            "id": "bar_064",
+            "title": "Veggie Burger",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/05/Fancy_Veggie_Burger_and_Fries_-_Joe%27s_Burger_House_2024-07-07.jpg",
+            "photos": [],
+            "price": 240,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Veggie Burger served fresh from the bar menu.",
+                "Veggie Burger เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Veggie Burger ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Vegetable Patty",
+                "Bun",
+                "Lettuce"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_065",
+            "title": "Falafel Wrap",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/49/Falafel_Melt_Wrap_-_We_Love_Falafel_2023-09-27.jpg",
+            "photos": [],
+            "price": 190,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Falafel Wrap served fresh from the bar menu.",
+                "Falafel Wrap เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Falafel Wrap ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Falafel",
+                "Tortilla",
+                "Vegetables"
+            ],
+            "types": "vegan",
+            "add_on": ""
+        },
+        {
+            "id": "bar_066",
+            "title": "Ham Cheese Toastie",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f3/BK_Ham_and_Cheese_Sandwich.JPG",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Ham Cheese Toastie served fresh from the bar menu.",
+                "Ham Cheese Toastie เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Ham Cheese Toastie ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Bread",
+                "Ham",
+                "Cheese"
+            ],
+            "types": "meat",
+            "add_on": ""
+        },
+        {
+            "id": "bar_067",
+            "title": "Margherita Pizza",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+            "photos": [],
+            "price": 260,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Margherita Pizza served fresh from the bar menu.",
+                "Margherita Pizza เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Margherita Pizza ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Pizza Dough",
+                "Tomato",
+                "Mozzarella"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_068",
+            "title": "Pepperoni Pizza",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+            "photos": [],
+            "price": 290,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Pepperoni Pizza served fresh from the bar menu.",
+                "Pepperoni Pizza เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Pepperoni Pizza ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Pizza Dough",
+                "Pepperoni",
+                "Cheese"
+            ],
+            "types": "meat",
+            "add_on": ""
+        },
+        {
+            "id": "bar_069",
+            "title": "Caesar Salad",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Avocado_toast_with_sesame_seeds.jpg",
+            "photos": [],
+            "price": 180,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Caesar Salad served fresh from the bar menu.",
+                "Caesar Salad เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Caesar Salad ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Romaine",
+                "Croutons",
+                "Caesar Dressing"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        },
+        {
+            "id": "bar_070",
+            "title": "Ice Cream Sundae",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Strawberry_Ice_Cream_Sundae_%2826853326174%29.jpg",
+            "photos": [],
+            "price": 160,
+            "category": "all_menu,snacks",
+            "food": true,
+            "description": [
+                "Ice Cream Sundae served fresh from the bar menu.",
+                "Ice Cream Sundae เสิร์ฟสดใหม่จากเมนูบาร์",
+                "Ice Cream Sundae ကို ဘားမီနူးမှ လတ်ဆတ်စွာ ဆောင်ရွက်သည်။"
+            ],
+            "ingredients": [
+                "Ice Cream",
+                "Syrup",
+                "Whipped Cream"
+            ],
+            "types": "vegetarian",
+            "add_on": ""
+        }
+    ],
+    "add_on": [],
+    "update_message": "Last updated: 2026-07-11 21:32:14",
+    "hide_list": []
+}
