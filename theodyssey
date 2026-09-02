@@ -143,7 +143,9 @@
       "id": "theodyssey_001",
       "title": "Odyssey Beef Masala",
       "description": [
-        "Lettuce, mint, cucumber, yoghurt, and coriander."
+        "Lettuce, mint, cucumber, yoghurt, and coriander.",
+        "ผักกาดหอม มิ้นต์ แตงกวา โยเกิร์ต และผักชี",
+        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။"
       ],
       "ingredients": [
         "Lettuce",
@@ -165,7 +167,9 @@
       "id": "theodyssey_002",
       "title": "Odyssey Chicken Masala",
       "description": [
-        "Lettuce, mint, cucumber, yoghurt, and coriander."
+        "Lettuce, mint, cucumber, yoghurt, and coriander.",
+        "ผักกาดหอม มิ้นต์ แตงกวา โยเกิร์ต และผักชี",
+        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။"
       ],
       "ingredients": [
         "Lettuce",
@@ -187,7 +191,9 @@
       "id": "theodyssey_003",
       "title": "Healthy Wrap",
       "description": [
-        "Chicken, bacon, avocado, salad, and mayo."
+        "Chicken, bacon, avocado, salad, and mayo.",
+        "ไก่ เบคอน อะโวคาโด สลัด และมายองเนส",
+        "ကြက်သား၊ ဘေကွန်၊ အာဗိုကာဒို၊ ဆလတ်သုပ်နှင့် မယောနိစ်။"
       ],
       "ingredients": [
         "Chicken",
@@ -209,7 +215,9 @@
       "id": "theodyssey_004",
       "title": "Chicken Pesto",
       "description": [
-        "Lettuce, crispy onion, tomato, and parmesan cheese."
+        "Lettuce, crispy onion, tomato, and parmesan cheese.",
+        "ผักกาดหอม หอมทอดกรอบ มะเขือเทศ และพาร์เมซานชีส",
+        "ဆလတ်ရွက်၊ ကြက်သွန်ကြော်ကြွပ်၊ ခရမ်းချဉ်သီးနှင့် ပါမီဆန်ချိစ်။"
       ],
       "ingredients": [
         "Lettuce",
@@ -230,7 +238,9 @@
       "id": "theodyssey_005",
       "title": "Coronation Chicken",
       "description": [
-        "Lettuce, mayo, and red onion."
+        "Lettuce, mayo, and red onion.",
+        "ผักกาดหอม มายองเนส และหอมแดง",
+        "ဆလတ်ရွက်၊ မယောနိစ်နှင့် ကြက်သွန်နီ။"
       ],
       "ingredients": [
         "Lettuce",
@@ -250,7 +260,9 @@
       "id": "theodyssey_006",
       "title": "Tuna Mayo, Cheddar Cheese",
       "description": [
-        "Lettuce, tomato, and red onion."
+        "Lettuce, tomato, and red onion.",
+        "ผักกาดหอม มะเขือเทศ และหอมแดง",
+        "ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်နီ။"
       ],
       "ingredients": [
         "Tuna Mayo",
@@ -272,7 +284,9 @@
       "id": "theodyssey_007",
       "title": "Classic Egg Mayo",
       "description": [
-        "Lettuce, egg, mayo, and bacon."
+        "Lettuce, egg, mayo, and bacon.",
+        "ผักกาดหอม ไข่ มายองเนส และเบคอน",
+        "ဆလတ်ရွက်၊ ကြက်ဥ၊ မယောနိစ်နှင့် ဘေကွန်။"
       ],
       "ingredients": [
         "Lettuce",
@@ -293,7 +307,9 @@
       "id": "theodyssey_008",
       "title": "Cheese Ciabattas",
       "description": [
-        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo."
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.",
+        "เชดดาร์ชีส แบรนสตันพิกเคิล ผักกาดหอม มะเขือเทศ และมายองเนสกระเทียม",
+        "ချက်ဒါချိစ်၊ Branston ပစ်ကယ်၊ ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်ဖြူမယောနိစ်။"
       ],
       "ingredients": [
         "Cheddar Cheese",
@@ -315,7 +331,9 @@
       "id": "theodyssey_009",
       "title": "Skagen",
       "description": [
-        "Prawns with dill, lemon, mayo, sour cream, and lettuce."
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce.",
+        "กุ้งพร้อมดิลล์ เลมอน มายองเนส ซาวร์ครีม และผักกาดหอม",
+        "ပုစွန်ကို ဒေးလ်၊ သံပုရာ၊ မယောနိစ်၊ ဆော်ကရင်မ်နှင့် ဆလတ်ရွက်တို့ဖြင့်။"
       ],
       "ingredients": [
         "Prawns",
@@ -338,7 +356,9 @@
       "id": "theodyssey_010",
       "title": "Chicken Dipper Wrap",
       "description": [
-        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno."
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.",
+        "ผักกาดหอม มายองเนสกระเทียม เชดดาร์ชีส ซอสบาร์บีคิว และฮาลาเปญโญ",
+        "ဆလတ်ရွက်၊ ကြက်သွန်ဖြူမယောနိစ်၊ ချက်ဒါချိစ်၊ BBQ ဆော့စ်နှင့် ဟာလာပိန်ညို။"
       ],
       "ingredients": [
         "Lettuce",
@@ -360,7 +380,9 @@
       "id": "theodyssey_011",
       "title": "Roast Vegetable",
       "description": [
-        "Lettuce, pesto sauce, and feta cheese."
+        "Lettuce, pesto sauce, and feta cheese.",
+        "ผักกาดหอม ซอสเพสโต และเฟต้าชีส",
+        "ဆလတ်ရွက်၊ ပက်စတိုဆော့စ်နှင့် ဖီတာချိစ်။"
       ],
       "ingredients": [
         "Lettuce",
@@ -380,7 +402,9 @@
       "id": "theodyssey_012",
       "title": "Cold cut & Cheese for 2+.",
       "description": [
-        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers."
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.",
+        "ชีสนำเข้า 5 ชนิดและโคลด์คัทสดใหม่ 3 ชนิด เสิร์ฟพร้อมวอลนัท ผักดอง แอปเปิล รีลิชหัวหอม ชัทนีย์มะม่วง ขนมปังโฮมเมด และแครกเกอร์งา",
+        "နိုင်ငံခြားချိစ် ၅ မျိုးနှင့် လတ်လတ်ဆတ်ဆတ်လှီးထားသော cold cut ၃ မျိုးကို walnut၊ pickles၊ ပန်းသီး၊ ကြက်သွန် relish၊ သရက်သီး chutney၊ အိမ်လုပ်ပေါင်မုန့်နှင့် နှမ်း cracker တို့ဖြင့် တွဲဖက်ထားသည်။"
       ],
       "ingredients": [
         "Imported Cheeses",
@@ -406,7 +430,9 @@
       "id": "theodyssey_013",
       "title": "Odyssey Meat Platter (Minimum 2 person)",
       "description": [
-        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings."
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.",
+        "เนื้อเทนเดอร์ลอยน์ออสเตรเลียชั้นดี 200 กรัม ซี่โครงบาร์บีคิว กุ้งท้องถิ่นทอดกระทะ โชริโซผัดกระเทียมและพริก ไก่เสียบไม้ ซอสบาร์บีคิว ซอสพริกไทย มันฝรั่งอบกระเทียม และหอมทอด",
+        "အရည်အသွေးမြင့် Australian tenderloin ၂၀၀ ဂရမ်၊ BBQ spare ribs၊ ဒယ်အိုးကြော်ဒေသခံပုစွန်၊ ကြက်သွန်ဖြူနှင့် ငရုတ်သီးပါ chorizo၊ ကြက်သားစကူးဝါး၊ BBQ ဆော့စ်၊ peppercorn ဆော့စ်၊ ကြက်သွန်ဖြူအာလူးကင်နှင့် onion rings။"
       ],
       "ingredients": [
         "Australian Tenderloin",
@@ -671,7 +697,9 @@
       "id": "theodyssey_029",
       "title": "French Fries",
       "description": [
-        "Pick your favourite sauce."
+        "Pick your favourite sauce.",
+        "เลือกซอสที่คุณชอบ",
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
       ],
       "ingredients": [
         "Potato"
@@ -689,7 +717,9 @@
       "id": "theodyssey_030",
       "title": "Potato Wedges",
       "description": [
-        "Pick your favourite sauce."
+        "Pick your favourite sauce.",
+        "เลือกซอสที่คุณชอบ",
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
       ],
       "ingredients": [
         "Potato"
@@ -707,7 +737,9 @@
       "id": "theodyssey_031",
       "title": "Sweet Potato",
       "description": [
-        "Pick your favourite sauce."
+        "Pick your favourite sauce.",
+        "เลือกซอสที่คุณชอบ",
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
       ],
       "ingredients": [
         "Sweet Potato"
@@ -725,7 +757,9 @@
       "id": "theodyssey_032",
       "title": "Popcorn Chicken",
       "description": [
-        "Pick your favourite sauce."
+        "Pick your favourite sauce.",
+        "เลือกซอสที่คุณชอบ",
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
       ],
       "ingredients": [
         "Chicken"
@@ -743,7 +777,9 @@
       "id": "theodyssey_033",
       "title": "Chicken Nugget",
       "description": [
-        "Pick your favourite sauce."
+        "Pick your favourite sauce.",
+        "เลือกซอสที่คุณชอบ",
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
       ],
       "ingredients": [
         "Chicken"
@@ -761,7 +797,9 @@
       "id": "theodyssey_034",
       "title": "ODYSSEY Burger",
       "description": [
-        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce."
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.",
+        "เนื้อวัวเลี้ยงธัญพืช 2 ชิ้น ชีส ผักดอง หัวหอม ผักกาดหอม และซอส Mak Mak",
+        "grain fed အမဲသား patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။"
       ],
       "ingredients": [
         "Beef Patties",
@@ -784,7 +822,9 @@
       "id": "theodyssey_035",
       "title": "Double Cheese Burger",
       "description": [
-        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce."
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.",
+        "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เคตชัป มัสตาร์ด ผักดอง หัวหอม และผักกาดหอม",
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ketchup၊ mustard၊ pickles၊ ကြက်သွန်နှင့် ဆလတ်ရွက်။"
       ],
       "ingredients": [
         "Beef",
@@ -808,7 +848,9 @@
       "id": "theodyssey_036",
       "title": "Brie Bacon Burger",
       "description": [
-        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion."
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.",
+        "เนื้อวัว 1/4 ปอนด์ บรีชีสฝรั่งเศส เบคอน เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
+        "အမဲသား ၁/၄ ပေါင်၊ French brie၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
       ],
       "ingredients": [
         "Beef",
@@ -832,7 +874,9 @@
       "id": "theodyssey_037",
       "title": "Spicy BBQ Burger",
       "description": [
-        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno."
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.",
+        "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส ซอสบาร์บีคิว ผักดอง หอมทอดกรอบ และฮาลาเปญโญ",
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ BBQ ဆော့စ်၊ pickles၊ onion rings ကြွပ်ကြွပ်နှင့် ဟာလာပိန်ညို။"
       ],
       "ingredients": [
         "Beef",
@@ -855,7 +899,9 @@
       "id": "theodyssey_038",
       "title": "Garlic Mushroom Burger",
       "description": [
-        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup."
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.",
+        "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส มายองเนสกระเทียม เห็ดผัด และเคตชัป",
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ကြက်သွန်ဖြူမယောနိစ်၊ မှိုဆော့တေးနှင့် ketchup။"
       ],
       "ingredients": [
         "Beef",
@@ -877,7 +923,9 @@
       "id": "theodyssey_039",
       "title": "Bacon Cheese Burger",
       "description": [
-        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion."
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.",
+        "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เบคอน เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
       ],
       "ingredients": [
         "Beef",
@@ -901,7 +949,9 @@
       "id": "theodyssey_040",
       "title": "Bacon Avocado Burger",
       "description": [
-        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion."
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.",
+        "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เบคอน อะโวคาโด เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ အာဗိုကာဒို၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
       ],
       "ingredients": [
         "Beef",
@@ -926,7 +976,9 @@
       "id": "theodyssey_041",
       "title": "Chicken Dipper Burger",
       "description": [
-        "3 dippers, double cheese, pickles, and sriracha mayo."
+        "3 dippers, double cheese, pickles, and sriracha mayo.",
+        "ดิปเปอร์ 3 ชิ้น ดับเบิลชีส ผักดอง และมายองเนสศรีราชา",
+        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် sriracha mayo။"
       ],
       "ingredients": [
         "Chicken Dippers",
@@ -947,7 +999,9 @@
       "id": "theodyssey_042",
       "title": "Chicken Nugget Burger",
       "description": [
-        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion."
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.",
+        "นักเก็ตไก่ 5 ชิ้น ดับเบิลชีส เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
+        "ကြက်သား nugget ၅ ခု၊ double cheese၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
       ],
       "ingredients": [
         "Chicken Nugget",
@@ -970,7 +1024,9 @@
       "id": "theodyssey_043",
       "title": "Honey Dipper Burger",
       "description": [
-        "3 dippers, double cheese, pickles, and honey mustard dressing."
+        "3 dippers, double cheese, pickles, and honey mustard dressing.",
+        "ดิปเปอร์ 3 ชิ้น ดับเบิลชีส ผักดอง และน้ำสลัดฮันนี่มัสตาร์ด",
+        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် honey mustard dressing။"
       ],
       "ingredients": [
         "Chicken Dippers",
@@ -991,7 +1047,9 @@
       "id": "theodyssey_044",
       "title": "Spicy Vegan Avocado(V)",
       "description": [
-        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado."
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.",
+        "แพตตี้ถั่วลูกไก่ วีแกนชีส ศรีราชา มัสตาร์ด และอะโวคาโด",
+        "ကုလားပဲ patty၊ vegan cheese၊ sriracha၊ mustard နှင့် အာဗိုကာဒို။"
       ],
       "ingredients": [
         "Chickpea Patty",
@@ -1013,7 +1071,9 @@
       "id": "theodyssey_045",
       "title": "Spicy BBQ Chickpea (V)",
       "description": [
-        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos."
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.",
+        "แพตตี้ถั่วลูกไก่ วีแกนชีส ซอสบาร์บีคิว หอมทอด และฮาลาเปญโญ",
+        "ကုလားပဲ patty၊ vegan cheese၊ BBQ ဆော့စ်၊ onion ring နှင့် ဟာလာပိန်ညို။"
       ],
       "ingredients": [
         "Chickpea Patty",
@@ -1035,7 +1095,9 @@
       "id": "theodyssey_046",
       "title": "Odyssey Chickpea (V)",
       "description": [
-        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce."
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.",
+        "แพตตี้ถั่วลูกไก่ 2 ชิ้น ชีส ผักดอง หัวหอม ผักกาดหอม และซอส Mak Mak",
+        "ကုလားပဲ patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။"
       ],
       "ingredients": [
         "Chickpea Patties",
@@ -1243,7 +1305,9 @@
       "id": "theodyssey_059",
       "title": "Salmon Steak",
       "description": [
-        "250 g salmon fillet served on mashed potato with dill sauce."
+        "250 g salmon fillet served on mashed potato with dill sauce.",
+        "ปลาแซลมอนฟิลเลต์ 250 กรัม เสิร์ฟบนมันบดพร้อมซอสดิลล์",
+        "ဆယ်လ်မွန် fillet ၂၅၀ ဂရမ်ကို mashed potato ပေါ်တွင် dill ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Salmon Fillet",
@@ -1263,7 +1327,9 @@
       "id": "theodyssey_060",
       "title": "Pan Fried Bacon Roll Fillet",
       "description": [
-        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce."
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.",
+        "ปลาฟิลเลต์ม้วนกับเบคอน มะเขือเทศ เฟต้าชีส และซอสเพสโต",
+        "ငါး fillet roll ကို ဘေကွန်၊ ခရမ်းချဉ်သီး၊ ဖီတာချိစ်နှင့် ပက်စတိုဆော့စ်တို့ဖြင့်။"
       ],
       "ingredients": [
         "Fish Fillet",
@@ -1285,7 +1351,9 @@
       "id": "theodyssey_061",
       "title": "Pan Fried Barracuda Fillet",
       "description": [
-        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce."
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.",
+        "บาราคูด้าฟิลเลต์ทอด เสิร์ฟบนมันฝรั่งอบกระเทียมพร้อมซอสครีมไวน์ขาว",
+        "ကြော်ထားသော barracuda fillet ကို ကြက်သွန်ဖြူအာလူးဖုတ်ပေါ်တွင် white wine cream sauce ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Barracuda Fillet",
@@ -1305,7 +1373,9 @@
       "id": "theodyssey_062",
       "title": "Tuna Steak",
       "description": [
-        "250 g tuna served on bubble and squeak with mushroom sauce."
+        "250 g tuna served on bubble and squeak with mushroom sauce.",
+        "ทูน่า 250 กรัม เสิร์ฟบนบับเบิลแอนด์สควีคพร้อมซอสเห็ด",
+        "တူနာ ၂၅၀ ဂရမ်ကို bubble and squeak ပေါ်တွင် မှိုဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Tuna",
@@ -1325,7 +1395,9 @@
       "id": "theodyssey_063",
       "title": "Sesame Tuna Steak",
       "description": [
-        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce."
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.",
+        "ทูน่า 250 กรัม เสิร์ฟบนคูสคูสกะหล่ำดอก โรยแครอตและผักชี พร้อมซอสซาซิกิ",
+        "တူနာ ၂၅၀ ဂရမ်ကို cauliflower couscous ပေါ်တွင် carrot coriander အုပ်ပြီး tzatziki ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Tuna",
@@ -1347,7 +1419,9 @@
       "id": "theodyssey_064",
       "title": "Fish Paprika Butter",
       "description": [
-        "Grilled white snapper fillet served with paprika butter sauce."
+        "Grilled white snapper fillet served with paprika butter sauce.",
+        "ปลากะพงขาวฟิลเลต์ย่าง เสิร์ฟพร้อมซอสเนยปาปริก้า",
+        "ကင်ထားသော white snapper fillet ကို paprika butter ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "White Snapper Fillet",
@@ -1366,7 +1440,9 @@
       "id": "theodyssey_065",
       "title": "Fish Mango",
       "description": [
-        "Grilled white snapper fillet served on mango with homemade seafood sauce."
+        "Grilled white snapper fillet served on mango with homemade seafood sauce.",
+        "ปลากะพงขาวฟิลเลต์ย่าง เสิร์ฟบนมะม่วงพร้อมซอสซีฟู้ดโฮมเมด",
+        "ကင်ထားသော white snapper fillet ကို သရက်သီးပေါ်တွင် အိမ်လုပ် seafood ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "White Snapper Fillet",
@@ -1386,7 +1462,9 @@
       "id": "theodyssey_066",
       "title": "Odyssey Seafood Platter",
       "description": [
-        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips."
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.",
+        "ปลากะพงทั้งตัวทอดกรอบหรือนึ่ง ปลาฟิลเลต์ทอดกระทะ กุ้งกระเทียม หอยเชลล์จี่งา เซวิเช่ปลาอินทรีกับอะโวคาโด ทอดมันปลา กุ้งทั้งตัว และคาลามารีกรอบ เสิร์ฟพร้อมมันฝรั่งอบกระเทียม สลอว์แครอต และดิปหลากชนิด",
+        "ငါးကောင်လုံးကို ကြွပ်ကြွပ်ကြော် သို့မဟုတ် ပေါင်းထားပြီး၊ ဒယ်အိုးကြော်ငါး fillet၊ ကြက်သွန်ဖြူပုစွန်၊ နှမ်း seared scallops၊ king mackerel နှင့် avocado ceviche၊ fish cakes၊ ပုစွန်ကောင်လုံးနှင့် crispy calamari တို့ပါဝင်သည်။ ကြက်သွန်ဖြူအာလူးကင်၊ carrot slaw နှင့် dips အမျိုးမျိုးဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Whole Snapper",
@@ -1415,7 +1493,9 @@
       "id": "theodyssey_067",
       "title": "Chicken Kebab",
       "description": [
-        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
+        "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Chicken",
@@ -1438,7 +1518,9 @@
       "id": "theodyssey_068",
       "title": "Beef Kebab",
       "description": [
-        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
+        "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Beef",
@@ -1461,7 +1543,9 @@
       "id": "theodyssey_069",
       "title": "Squid",
       "description": [
-        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
+        "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Squid",
@@ -1484,7 +1568,9 @@
       "id": "theodyssey_070",
       "title": "Tiger Prawns",
       "description": [
-        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
+        "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Tiger Prawns",
@@ -1507,7 +1593,9 @@
       "id": "theodyssey_071",
       "title": "White Snapper",
       "description": [
-        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
+        "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "White Snapper",
@@ -1530,7 +1618,9 @@
       "id": "theodyssey_072",
       "title": "Surf & Turf",
       "description": [
-        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
+        "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
       ],
       "ingredients": [],
       "add_on": "",
@@ -1546,7 +1636,9 @@
       "id": "theodyssey_073",
       "title": "Tendarloin Steak Aus",
       "description": [
-        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
+        "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
       ],
       "ingredients": [
         "Australian Tenderloin"
@@ -1564,7 +1656,9 @@
       "id": "theodyssey_074",
       "title": "Spare Ribs",
       "description": [
-        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
+        "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
       ],
       "ingredients": [
         "Spare Ribs"
@@ -1825,7 +1919,9 @@
       "id": "theodyssey_089",
       "title": "Odyssey Beef Potato Masala",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Beef",
@@ -1846,7 +1942,9 @@
       "id": "theodyssey_090",
       "title": "Odyssey Chicken Potato Masala",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Chicken",
@@ -1867,7 +1965,9 @@
       "id": "theodyssey_091",
       "title": "Odyssey Meatball Potato Masala",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Meatball",
@@ -1888,7 +1988,9 @@
       "id": "theodyssey_092",
       "title": "Odyssey Tofu Potato Masala",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Tofu",
@@ -1909,7 +2011,9 @@
       "id": "theodyssey_093",
       "title": "Massaman Beef or Chicken",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Beef",
@@ -1930,7 +2034,9 @@
       "id": "theodyssey_094",
       "title": "Green Curry Beef or Chicken",
       "description": [
-        "All curry served with rice."
+        "All curry served with rice.",
+        "แกงทุกจานเสิร์ฟพร้อมข้าว",
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
       ],
       "ingredients": [
         "Beef",
