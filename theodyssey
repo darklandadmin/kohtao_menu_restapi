@@ -655,24 +655,7 @@
     {
       "id": "theodyssey_014",
       "title": "Oyster",
-      "description": [
-        "Oyster.",
-        "เมนู Oyster",
-        "Oyster မီနူး။",
-        "Oyster.",
-        "Oyster。",
-        "Oyster.",
-        "Oyster.",
-        "Oyster.",
-        "Oyster.",
-        "Oyster。",
-        "Oyster.",
-        "Oyster.",
-        "Oyster.",
-        "Mon Oyster.",
-        "Oyster।",
-        "Oyster."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "seafood",
@@ -686,24 +669,7 @@
     {
       "id": "theodyssey_015",
       "title": "Olives Bowl",
-      "description": [
-        "Olives Bowl.",
-        "เมนู Olives Bowl",
-        "Olives Bowl မီနူး။",
-        "Olives Bowl.",
-        "Olives Bowl。",
-        "Olives Bowl.",
-        "Olives Bowl.",
-        "Olives Bowl.",
-        "Olives Bowl.",
-        "Olives Bowl。",
-        "Olives Bowl.",
-        "Olives Bowl.",
-        "Olives Bowl.",
-        "Mon Olives Bowl.",
-        "Olives Bowl।",
-        "Olives Bowl."
-      ],
+      "description": [],
       "ingredients": [
         "Olives"
       ],
@@ -719,24 +685,7 @@
     {
       "id": "theodyssey_016",
       "title": "Samosa",
-      "description": [
-        "Samosa.",
-        "เมนู Samosa",
-        "Samosa မီနူး။",
-        "Samosa.",
-        "Samosa。",
-        "Samosa.",
-        "Samosa.",
-        "Samosa.",
-        "Samosa.",
-        "Samosa。",
-        "Samosa.",
-        "Samosa.",
-        "Samosa.",
-        "Mon Samosa.",
-        "Samosa।",
-        "Samosa."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -750,24 +699,7 @@
     {
       "id": "theodyssey_017",
       "title": "Toast Skagen",
-      "description": [
-        "Toast Skagen.",
-        "เมนู Toast Skagen",
-        "Toast Skagen မီနူး။",
-        "Toast Skagen.",
-        "Toast Skagen。",
-        "Toast Skagen.",
-        "Toast Skagen.",
-        "Toast Skagen.",
-        "Toast Skagen.",
-        "Toast Skagen。",
-        "Toast Skagen.",
-        "Toast Skagen.",
-        "Toast Skagen.",
-        "Mon Toast Skagen.",
-        "Toast Skagen।",
-        "Toast Skagen."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "seafood",
@@ -781,24 +713,7 @@
     {
       "id": "theodyssey_018",
       "title": "Fish Ceviche",
-      "description": [
-        "Fish Ceviche.",
-        "เมนู Fish Ceviche",
-        "Fish Ceviche မီနူး။",
-        "Fish Ceviche.",
-        "Fish Ceviche。",
-        "Fish Ceviche.",
-        "Fish Ceviche.",
-        "Fish Ceviche.",
-        "Fish Ceviche.",
-        "Fish Ceviche。",
-        "Fish Ceviche.",
-        "Fish Ceviche.",
-        "Fish Ceviche.",
-        "Mon Fish Ceviche.",
-        "Fish Ceviche।",
-        "Fish Ceviche."
-      ],
+      "description": [],
       "ingredients": [
         "Fish"
       ],
@@ -814,24 +729,7 @@
     {
       "id": "theodyssey_019",
       "title": "Local Garlic prawns",
-      "description": [
-        "Local Garlic prawns.",
-        "เมนู Local Garlic prawns",
-        "Local Garlic prawns မီနူး။",
-        "Local Garlic prawns.",
-        "Local Garlic prawns。",
-        "Local Garlic prawns.",
-        "Local Garlic prawns.",
-        "Local Garlic prawns.",
-        "Local Garlic prawns.",
-        "Local Garlic prawns。",
-        "Local Garlic prawns.",
-        "Local Garlic prawns.",
-        "Local Garlic prawns.",
-        "Mon Local Garlic prawns.",
-        "Local Garlic prawns।",
-        "Local Garlic prawns."
-      ],
+      "description": [],
       "ingredients": [
         "Prawns",
         "Garlic"
@@ -848,24 +746,7 @@
     {
       "id": "theodyssey_020",
       "title": "Tuna Sashimi",
-      "description": [
-        "Tuna Sashimi.",
-        "เมนู Tuna Sashimi",
-        "Tuna Sashimi မီနူး။",
-        "Tuna Sashimi.",
-        "Tuna Sashimi。",
-        "Tuna Sashimi.",
-        "Tuna Sashimi.",
-        "Tuna Sashimi.",
-        "Tuna Sashimi.",
-        "Tuna Sashimi。",
-        "Tuna Sashimi.",
-        "Tuna Sashimi.",
-        "Tuna Sashimi.",
-        "Mon Tuna Sashimi.",
-        "Tuna Sashimi।",
-        "Tuna Sashimi."
-      ],
+      "description": [],
       "ingredients": [
         "Tuna"
       ],
@@ -881,24 +762,7 @@
     {
       "id": "theodyssey_021",
       "title": "Tuna Bruschetta",
-      "description": [
-        "Tuna Bruschetta.",
-        "เมนู Tuna Bruschetta",
-        "Tuna Bruschetta မီနူး။",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta。",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta。",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta.",
-        "Tuna Bruschetta.",
-        "Mon Tuna Bruschetta.",
-        "Tuna Bruschetta।",
-        "Tuna Bruschetta."
-      ],
+      "description": [],
       "ingredients": [
         "Tuna"
       ],
@@ -914,24 +778,7 @@
     {
       "id": "theodyssey_022",
       "title": "Calamari",
-      "description": [
-        "Calamari.",
-        "เมนู Calamari",
-        "Calamari မီနူး။",
-        "Calamari.",
-        "Calamari。",
-        "Calamari.",
-        "Calamari.",
-        "Calamari.",
-        "Calamari.",
-        "Calamari。",
-        "Calamari.",
-        "Calamari.",
-        "Calamari.",
-        "Mon Calamari.",
-        "Calamari।",
-        "Calamari."
-      ],
+      "description": [],
       "ingredients": [
         "Calamari"
       ],
@@ -947,24 +794,7 @@
     {
       "id": "theodyssey_023",
       "title": "Scallops",
-      "description": [
-        "Scallops.",
-        "เมนู Scallops",
-        "Scallops မီနူး။",
-        "Scallops.",
-        "Scallops。",
-        "Scallops.",
-        "Scallops.",
-        "Scallops.",
-        "Scallops.",
-        "Scallops。",
-        "Scallops.",
-        "Scallops.",
-        "Scallops.",
-        "Mon Scallops.",
-        "Scallops।",
-        "Scallops."
-      ],
+      "description": [],
       "ingredients": [
         "Scallops"
       ],
@@ -980,24 +810,7 @@
     {
       "id": "theodyssey_024",
       "title": "Prawns & Chorizo",
-      "description": [
-        "Prawns & Chorizo.",
-        "เมนู Prawns & Chorizo",
-        "Prawns & Chorizo မီနူး။",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo。",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo。",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo.",
-        "Prawns & Chorizo.",
-        "Mon Prawns & Chorizo.",
-        "Prawns & Chorizo।",
-        "Prawns & Chorizo."
-      ],
+      "description": [],
       "ingredients": [
         "Prawns",
         "Chorizo"
@@ -1014,24 +827,7 @@
     {
       "id": "theodyssey_025",
       "title": "Fish Fingers",
-      "description": [
-        "Fish Fingers.",
-        "เมนู Fish Fingers",
-        "Fish Fingers မီနူး။",
-        "Fish Fingers.",
-        "Fish Fingers。",
-        "Fish Fingers.",
-        "Fish Fingers.",
-        "Fish Fingers.",
-        "Fish Fingers.",
-        "Fish Fingers。",
-        "Fish Fingers.",
-        "Fish Fingers.",
-        "Fish Fingers.",
-        "Mon Fish Fingers.",
-        "Fish Fingers।",
-        "Fish Fingers."
-      ],
+      "description": [],
       "ingredients": [
         "Fish"
       ],
@@ -1047,24 +843,7 @@
     {
       "id": "theodyssey_026",
       "title": "Yan Tuna",
-      "description": [
-        "Yan Tuna.",
-        "เมนู Yan Tuna",
-        "Yan Tuna မီနူး။",
-        "Yan Tuna.",
-        "Yan Tuna。",
-        "Yan Tuna.",
-        "Yan Tuna.",
-        "Yan Tuna.",
-        "Yan Tuna.",
-        "Yan Tuna。",
-        "Yan Tuna.",
-        "Yan Tuna.",
-        "Yan Tuna.",
-        "Mon Yan Tuna.",
-        "Yan Tuna।",
-        "Yan Tuna."
-      ],
+      "description": [],
       "ingredients": [
         "Tuna"
       ],
@@ -1080,24 +859,7 @@
     {
       "id": "theodyssey_027",
       "title": "Green Curry Mussel",
-      "description": [
-        "Green Curry Mussel.",
-        "เมนู Green Curry Mussel",
-        "Green Curry Mussel မီနူး။",
-        "Green Curry Mussel.",
-        "Green Curry Mussel。",
-        "Green Curry Mussel.",
-        "Green Curry Mussel.",
-        "Green Curry Mussel.",
-        "Green Curry Mussel.",
-        "Green Curry Mussel。",
-        "Green Curry Mussel.",
-        "Green Curry Mussel.",
-        "Green Curry Mussel.",
-        "Mon Green Curry Mussel.",
-        "Green Curry Mussel।",
-        "Green Curry Mussel."
-      ],
+      "description": [],
       "ingredients": [
         "Mussel",
         "Green Curry"
@@ -1114,24 +876,7 @@
     {
       "id": "theodyssey_028",
       "title": "Chicken Ravioll",
-      "description": [
-        "Chicken Ravioll.",
-        "เมนู Chicken Ravioll",
-        "Chicken Ravioll မီနူး။",
-        "Chicken Ravioll.",
-        "Chicken Ravioll。",
-        "Chicken Ravioll.",
-        "Chicken Ravioll.",
-        "Chicken Ravioll.",
-        "Chicken Ravioll.",
-        "Chicken Ravioll。",
-        "Chicken Ravioll.",
-        "Chicken Ravioll.",
-        "Chicken Ravioll.",
-        "Mon Chicken Ravioll.",
-        "Chicken Ravioll।",
-        "Chicken Ravioll."
-      ],
+      "description": [],
       "ingredients": [
         "Chicken"
       ],
@@ -1804,24 +1549,7 @@
     {
       "id": "theodyssey_047",
       "title": "Carbonara Pasta",
-      "description": [
-        "Carbonara Pasta.",
-        "เมนู Carbonara Pasta",
-        "Carbonara Pasta မီနူး။",
-        "Carbonara Pasta.",
-        "Carbonara Pasta。",
-        "Carbonara Pasta.",
-        "Carbonara Pasta.",
-        "Carbonara Pasta.",
-        "Carbonara Pasta.",
-        "Carbonara Pasta。",
-        "Carbonara Pasta.",
-        "Carbonara Pasta.",
-        "Carbonara Pasta.",
-        "Mon Carbonara Pasta.",
-        "Carbonara Pasta।",
-        "Carbonara Pasta."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "meat",
@@ -1835,24 +1563,7 @@
     {
       "id": "theodyssey_048",
       "title": "Bolognese Pasta",
-      "description": [
-        "Bolognese Pasta.",
-        "เมนู Bolognese Pasta",
-        "Bolognese Pasta မီနူး။",
-        "Bolognese Pasta.",
-        "Bolognese Pasta。",
-        "Bolognese Pasta.",
-        "Bolognese Pasta.",
-        "Bolognese Pasta.",
-        "Bolognese Pasta.",
-        "Bolognese Pasta。",
-        "Bolognese Pasta.",
-        "Bolognese Pasta.",
-        "Bolognese Pasta.",
-        "Mon Bolognese Pasta.",
-        "Bolognese Pasta।",
-        "Bolognese Pasta."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "meat",
@@ -1866,24 +1577,7 @@
     {
       "id": "theodyssey_049",
       "title": "Seafood Pasta",
-      "description": [
-        "Seafood Pasta.",
-        "เมนู Seafood Pasta",
-        "Seafood Pasta မီနူး။",
-        "Seafood Pasta.",
-        "Seafood Pasta。",
-        "Seafood Pasta.",
-        "Seafood Pasta.",
-        "Seafood Pasta.",
-        "Seafood Pasta.",
-        "Seafood Pasta。",
-        "Seafood Pasta.",
-        "Seafood Pasta.",
-        "Seafood Pasta.",
-        "Mon Seafood Pasta.",
-        "Seafood Pasta।",
-        "Seafood Pasta."
-      ],
+      "description": [],
       "ingredients": [
         "Seafood"
       ],
@@ -1899,24 +1593,7 @@
     {
       "id": "theodyssey_050",
       "title": "Truffle Pasta",
-      "description": [
-        "Truffle Pasta.",
-        "เมนู Truffle Pasta",
-        "Truffle Pasta မီနူး။",
-        "Truffle Pasta.",
-        "Truffle Pasta。",
-        "Truffle Pasta.",
-        "Truffle Pasta.",
-        "Truffle Pasta.",
-        "Truffle Pasta.",
-        "Truffle Pasta。",
-        "Truffle Pasta.",
-        "Truffle Pasta.",
-        "Truffle Pasta.",
-        "Mon Truffle Pasta.",
-        "Truffle Pasta।",
-        "Truffle Pasta."
-      ],
+      "description": [],
       "ingredients": [
         "Truffle"
       ],
@@ -1932,24 +1609,7 @@
     {
       "id": "theodyssey_051",
       "title": "Chicken Caesar Salad",
-      "description": [
-        "Chicken Caesar Salad.",
-        "เมนู Chicken Caesar Salad",
-        "Chicken Caesar Salad မီနူး။",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad。",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad。",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad.",
-        "Chicken Caesar Salad.",
-        "Mon Chicken Caesar Salad.",
-        "Chicken Caesar Salad।",
-        "Chicken Caesar Salad."
-      ],
+      "description": [],
       "ingredients": [
         "Chicken"
       ],
@@ -1965,24 +1625,7 @@
     {
       "id": "theodyssey_052",
       "title": "Burrata & Tomato",
-      "description": [
-        "Burrata & Tomato.",
-        "เมนู Burrata & Tomato",
-        "Burrata & Tomato မီနူး။",
-        "Burrata & Tomato.",
-        "Burrata & Tomato。",
-        "Burrata & Tomato.",
-        "Burrata & Tomato.",
-        "Burrata & Tomato.",
-        "Burrata & Tomato.",
-        "Burrata & Tomato。",
-        "Burrata & Tomato.",
-        "Burrata & Tomato.",
-        "Burrata & Tomato.",
-        "Mon Burrata & Tomato.",
-        "Burrata & Tomato।",
-        "Burrata & Tomato."
-      ],
+      "description": [],
       "ingredients": [
         "Burrata",
         "Tomato"
@@ -1999,24 +1642,7 @@
     {
       "id": "theodyssey_053",
       "title": "Greek Salad",
-      "description": [
-        "Greek Salad.",
-        "เมนู Greek Salad",
-        "Greek Salad မီနူး။",
-        "Greek Salad.",
-        "Greek Salad。",
-        "Greek Salad.",
-        "Greek Salad.",
-        "Greek Salad.",
-        "Greek Salad.",
-        "Greek Salad。",
-        "Greek Salad.",
-        "Greek Salad.",
-        "Greek Salad.",
-        "Mon Greek Salad.",
-        "Greek Salad।",
-        "Greek Salad."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -2030,24 +1656,7 @@
     {
       "id": "theodyssey_054",
       "title": "Watermelon Feta Salad",
-      "description": [
-        "Watermelon Feta Salad.",
-        "เมนู Watermelon Feta Salad",
-        "Watermelon Feta Salad မီနူး။",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad。",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad。",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad.",
-        "Watermelon Feta Salad.",
-        "Mon Watermelon Feta Salad.",
-        "Watermelon Feta Salad।",
-        "Watermelon Feta Salad."
-      ],
+      "description": [],
       "ingredients": [
         "Watermelon",
         "Feta"
@@ -2064,24 +1673,7 @@
     {
       "id": "theodyssey_055",
       "title": "Odyssey Laphet Salad",
-      "description": [
-        "Odyssey Laphet Salad.",
-        "เมนู Odyssey Laphet Salad",
-        "Odyssey Laphet Salad မီနူး။",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad。",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad。",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad.",
-        "Mon Odyssey Laphet Salad.",
-        "Odyssey Laphet Salad।",
-        "Odyssey Laphet Salad."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -2095,24 +1687,7 @@
     {
       "id": "theodyssey_056",
       "title": "Odyssey Samosa Salad",
-      "description": [
-        "Odyssey Samosa Salad.",
-        "เมนู Odyssey Samosa Salad",
-        "Odyssey Samosa Salad မီနူး။",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad。",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad。",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad.",
-        "Mon Odyssey Samosa Salad.",
-        "Odyssey Samosa Salad।",
-        "Odyssey Samosa Salad."
-      ],
+      "description": [],
       "ingredients": [
         "Samosa"
       ],
@@ -2128,24 +1703,7 @@
     {
       "id": "theodyssey_057",
       "title": "Garden Vegan Salad",
-      "description": [
-        "Garden Vegan Salad.",
-        "เมนู Garden Vegan Salad",
-        "Garden Vegan Salad မီနူး။",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad。",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad。",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad.",
-        "Garden Vegan Salad.",
-        "Mon Garden Vegan Salad.",
-        "Garden Vegan Salad।",
-        "Garden Vegan Salad."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "vegan",
@@ -2159,24 +1717,7 @@
     {
       "id": "theodyssey_058",
       "title": "Sesame Tuna Salad",
-      "description": [
-        "Sesame Tuna Salad.",
-        "เมนู Sesame Tuna Salad",
-        "Sesame Tuna Salad မီနူး။",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad。",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad。",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad.",
-        "Sesame Tuna Salad.",
-        "Mon Sesame Tuna Salad.",
-        "Sesame Tuna Salad।",
-        "Sesame Tuna Salad."
-      ],
+      "description": [],
       "ingredients": [
         "Sesame",
         "Tuna"
@@ -2772,24 +2313,7 @@
     {
       "id": "theodyssey_075",
       "title": "Rice",
-      "description": [
-        "Rice.",
-        "เมนู Rice",
-        "Rice မီနူး။",
-        "Rice.",
-        "Rice。",
-        "Rice.",
-        "Rice.",
-        "Rice.",
-        "Rice.",
-        "Rice。",
-        "Rice.",
-        "Rice.",
-        "Rice.",
-        "Mon Rice.",
-        "Rice।",
-        "Rice."
-      ],
+      "description": [],
       "ingredients": [
         "Rice"
       ],
@@ -2805,24 +2329,7 @@
     {
       "id": "theodyssey_076",
       "title": "Truffle Mashed Potato",
-      "description": [
-        "Truffle Mashed Potato.",
-        "เมนู Truffle Mashed Potato",
-        "Truffle Mashed Potato မီနူး။",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato。",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato。",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato.",
-        "Truffle Mashed Potato.",
-        "Mon Truffle Mashed Potato.",
-        "Truffle Mashed Potato।",
-        "Truffle Mashed Potato."
-      ],
+      "description": [],
       "ingredients": [
         "Truffle",
         "Potato"
@@ -2839,24 +2346,7 @@
     {
       "id": "theodyssey_077",
       "title": "Garlic Roasted Potato",
-      "description": [
-        "Garlic Roasted Potato.",
-        "เมนู Garlic Roasted Potato",
-        "Garlic Roasted Potato မီနူး။",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato。",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato。",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato.",
-        "Garlic Roasted Potato.",
-        "Mon Garlic Roasted Potato.",
-        "Garlic Roasted Potato।",
-        "Garlic Roasted Potato."
-      ],
+      "description": [],
       "ingredients": [
         "Garlic",
         "Potato"
@@ -2873,24 +2363,7 @@
     {
       "id": "theodyssey_078",
       "title": "Green Salad",
-      "description": [
-        "Green Salad.",
-        "เมนู Green Salad",
-        "Green Salad မီနူး။",
-        "Green Salad.",
-        "Green Salad。",
-        "Green Salad.",
-        "Green Salad.",
-        "Green Salad.",
-        "Green Salad.",
-        "Green Salad。",
-        "Green Salad.",
-        "Green Salad.",
-        "Green Salad.",
-        "Mon Green Salad.",
-        "Green Salad।",
-        "Green Salad."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -2904,24 +2377,7 @@
     {
       "id": "theodyssey_079",
       "title": "Carrot Coriander Crunch",
-      "description": [
-        "Carrot Coriander Crunch.",
-        "เมนู Carrot Coriander Crunch",
-        "Carrot Coriander Crunch မီနူး။",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch。",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch。",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch.",
-        "Mon Carrot Coriander Crunch.",
-        "Carrot Coriander Crunch।",
-        "Carrot Coriander Crunch."
-      ],
+      "description": [],
       "ingredients": [
         "Carrot",
         "Coriander"
@@ -2938,24 +2394,7 @@
     {
       "id": "theodyssey_080",
       "title": "Wok Vegetables",
-      "description": [
-        "Wok Vegetables.",
-        "เมนู Wok Vegetables",
-        "Wok Vegetables မီနူး။",
-        "Wok Vegetables.",
-        "Wok Vegetables。",
-        "Wok Vegetables.",
-        "Wok Vegetables.",
-        "Wok Vegetables.",
-        "Wok Vegetables.",
-        "Wok Vegetables。",
-        "Wok Vegetables.",
-        "Wok Vegetables.",
-        "Wok Vegetables.",
-        "Mon Wok Vegetables.",
-        "Wok Vegetables।",
-        "Wok Vegetables."
-      ],
+      "description": [],
       "ingredients": [
         "Vegetables"
       ],
@@ -2971,24 +2410,7 @@
     {
       "id": "theodyssey_081",
       "title": "fried Spinach",
-      "description": [
-        "fried Spinach.",
-        "เมนู fried Spinach",
-        "fried Spinach မီနူး။",
-        "fried Spinach.",
-        "fried Spinach。",
-        "fried Spinach.",
-        "fried Spinach.",
-        "fried Spinach.",
-        "fried Spinach.",
-        "fried Spinach。",
-        "fried Spinach.",
-        "fried Spinach.",
-        "fried Spinach.",
-        "Mon fried Spinach.",
-        "fried Spinach।",
-        "fried Spinach."
-      ],
+      "description": [],
       "ingredients": [
         "Spinach"
       ],
@@ -3004,24 +2426,7 @@
     {
       "id": "theodyssey_082",
       "title": "Sauteed Mushrooms",
-      "description": [
-        "Sauteed Mushrooms.",
-        "เมนู Sauteed Mushrooms",
-        "Sauteed Mushrooms မီနူး။",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms。",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms。",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms.",
-        "Sauteed Mushrooms.",
-        "Mon Sauteed Mushrooms.",
-        "Sauteed Mushrooms।",
-        "Sauteed Mushrooms."
-      ],
+      "description": [],
       "ingredients": [
         "Mushrooms"
       ],
@@ -3037,24 +2442,7 @@
     {
       "id": "theodyssey_083",
       "title": "French Fries",
-      "description": [
-        "French Fries.",
-        "เมนู French Fries",
-        "French Fries မီနူး။",
-        "French Fries.",
-        "French Fries。",
-        "French Fries.",
-        "French Fries.",
-        "French Fries.",
-        "French Fries.",
-        "French Fries。",
-        "French Fries.",
-        "French Fries.",
-        "French Fries.",
-        "Mon French Fries.",
-        "French Fries।",
-        "French Fries."
-      ],
+      "description": [],
       "ingredients": [
         "Potato"
       ],
@@ -3070,24 +2458,7 @@
     {
       "id": "theodyssey_084",
       "title": "Fried Rice (Veg, Chicken, Beef, Seafood)",
-      "description": [
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "เมนู Fried Rice (Veg, Chicken, Beef, Seafood)",
-        "Fried Rice (Veg, Chicken, Beef, Seafood) မီနူး။",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood)。",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood)。",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Mon Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Fried Rice (Veg, Chicken, Beef, Seafood)।",
-        "Fried Rice (Veg, Chicken, Beef, Seafood)."
-      ],
+      "description": [],
       "ingredients": [
         "Rice",
         "Vegetable",
@@ -3107,24 +2478,7 @@
     {
       "id": "theodyssey_085",
       "title": "Pad Thai (Veg, Chicken, Beef, Seafood)",
-      "description": [
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "เมนู Pad Thai (Veg, Chicken, Beef, Seafood)",
-        "Pad Thai (Veg, Chicken, Beef, Seafood) မီနူး။",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood)。",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood)。",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Mon Pad Thai (Veg, Chicken, Beef, Seafood).",
-        "Pad Thai (Veg, Chicken, Beef, Seafood)।",
-        "Pad Thai (Veg, Chicken, Beef, Seafood)."
-      ],
+      "description": [],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -3143,24 +2497,7 @@
     {
       "id": "theodyssey_086",
       "title": "Pad Kra Prow (Veg, Chicken, Beef, Seafood)",
-      "description": [
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "เมนู Pad Kra Prow (Veg, Chicken, Beef, Seafood)",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood) မီနူး။",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)。",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)。",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Mon Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)।",
-        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)."
-      ],
+      "description": [],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -3179,24 +2516,7 @@
     {
       "id": "theodyssey_087",
       "title": "Pad Prick (Veg, Chicken, Beef, Seafood)",
-      "description": [
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "เมนู Pad Prick (Veg, Chicken, Beef, Seafood)",
-        "Pad Prick (Veg, Chicken, Beef, Seafood) မီနူး။",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood)。",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood)。",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Mon Pad Prick (Veg, Chicken, Beef, Seafood).",
-        "Pad Prick (Veg, Chicken, Beef, Seafood)।",
-        "Pad Prick (Veg, Chicken, Beef, Seafood)."
-      ],
+      "description": [],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -3215,24 +2535,7 @@
     {
       "id": "theodyssey_088",
       "title": "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)",
-      "description": [
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "เมนู Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood) မီနူး။",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)。",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)。",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Mon Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)।",
-        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)."
-      ],
+      "description": [],
       "ingredients": [
         "Pineapple",
         "Rice",
@@ -3469,24 +2772,7 @@
     {
       "id": "theodyssey_095",
       "title": "Tom Yum",
-      "description": [
-        "Tom Yum.",
-        "เมนู Tom Yum",
-        "Tom Yum မီနူး။",
-        "Tom Yum.",
-        "Tom Yum。",
-        "Tom Yum.",
-        "Tom Yum.",
-        "Tom Yum.",
-        "Tom Yum.",
-        "Tom Yum。",
-        "Tom Yum.",
-        "Tom Yum.",
-        "Tom Yum.",
-        "Mon Tom Yum.",
-        "Tom Yum।",
-        "Tom Yum."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -3500,24 +2786,7 @@
     {
       "id": "theodyssey_096",
       "title": "Tom Kha",
-      "description": [
-        "Tom Kha.",
-        "เมนู Tom Kha",
-        "Tom Kha မီနူး။",
-        "Tom Kha.",
-        "Tom Kha。",
-        "Tom Kha.",
-        "Tom Kha.",
-        "Tom Kha.",
-        "Tom Kha.",
-        "Tom Kha。",
-        "Tom Kha.",
-        "Tom Kha.",
-        "Tom Kha.",
-        "Mon Tom Kha.",
-        "Tom Kha।",
-        "Tom Kha."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -3531,24 +2800,7 @@
     {
       "id": "theodyssey_097",
       "title": "Tom Saep",
-      "description": [
-        "Tom Saep.",
-        "เมนู Tom Saep",
-        "Tom Saep မီနူး။",
-        "Tom Saep.",
-        "Tom Saep。",
-        "Tom Saep.",
-        "Tom Saep.",
-        "Tom Saep.",
-        "Tom Saep.",
-        "Tom Saep。",
-        "Tom Saep.",
-        "Tom Saep.",
-        "Tom Saep.",
-        "Mon Tom Saep.",
-        "Tom Saep।",
-        "Tom Saep."
-      ],
+      "description": [],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -3562,24 +2814,7 @@
     {
       "id": "theodyssey_098",
       "title": "Yum Woon Sen Seafood",
-      "description": [
-        "Yum Woon Sen Seafood.",
-        "เมนู Yum Woon Sen Seafood",
-        "Yum Woon Sen Seafood မီနူး။",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood。",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood。",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood.",
-        "Mon Yum Woon Sen Seafood.",
-        "Yum Woon Sen Seafood।",
-        "Yum Woon Sen Seafood."
-      ],
+      "description": [],
       "ingredients": [
         "Seafood"
       ],
@@ -3595,24 +2830,7 @@
     {
       "id": "theodyssey_099",
       "title": "Cheese Cake / passion fruit",
-      "description": [
-        "Cheese Cake / passion fruit.",
-        "เมนู Cheese Cake / passion fruit",
-        "Cheese Cake / passion fruit မီနူး။",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit。",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit。",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit.",
-        "Mon Cheese Cake / passion fruit.",
-        "Cheese Cake / passion fruit।",
-        "Cheese Cake / passion fruit."
-      ],
+      "description": [],
       "ingredients": [
         "Cheese Cake",
         "Passion Fruit"
@@ -3629,24 +2847,7 @@
     {
       "id": "theodyssey_100",
       "title": "Chocolate Tart",
-      "description": [
-        "Chocolate Tart.",
-        "เมนู Chocolate Tart",
-        "Chocolate Tart မီနူး။",
-        "Chocolate Tart.",
-        "Chocolate Tart。",
-        "Chocolate Tart.",
-        "Chocolate Tart.",
-        "Chocolate Tart.",
-        "Chocolate Tart.",
-        "Chocolate Tart。",
-        "Chocolate Tart.",
-        "Chocolate Tart.",
-        "Chocolate Tart.",
-        "Mon Chocolate Tart.",
-        "Chocolate Tart।",
-        "Chocolate Tart."
-      ],
+      "description": [],
       "ingredients": [
         "Chocolate"
       ],
@@ -3662,24 +2863,7 @@
     {
       "id": "theodyssey_101",
       "title": "Mango Sticky Rice",
-      "description": [
-        "Mango Sticky Rice.",
-        "เมนู Mango Sticky Rice",
-        "Mango Sticky Rice မီနူး။",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice。",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice。",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice.",
-        "Mango Sticky Rice.",
-        "Mon Mango Sticky Rice.",
-        "Mango Sticky Rice।",
-        "Mango Sticky Rice."
-      ],
+      "description": [],
       "ingredients": [
         "Mango",
         "Sticky Rice"
@@ -3696,24 +2880,7 @@
     {
       "id": "theodyssey_102",
       "title": "Ice Cream",
-      "description": [
-        "Ice Cream.",
-        "เมนู Ice Cream",
-        "Ice Cream မီနူး။",
-        "Ice Cream.",
-        "Ice Cream。",
-        "Ice Cream.",
-        "Ice Cream.",
-        "Ice Cream.",
-        "Ice Cream.",
-        "Ice Cream。",
-        "Ice Cream.",
-        "Ice Cream.",
-        "Ice Cream.",
-        "Mon Ice Cream.",
-        "Ice Cream।",
-        "Ice Cream."
-      ],
+      "description": [],
       "ingredients": [
         "Ice Cream"
       ],
@@ -3729,24 +2896,7 @@
     {
       "id": "theodyssey_103",
       "title": "Brownie",
-      "description": [
-        "Brownie.",
-        "เมนู Brownie",
-        "Brownie မီနူး။",
-        "Brownie.",
-        "Brownie。",
-        "Brownie.",
-        "Brownie.",
-        "Brownie.",
-        "Brownie.",
-        "Brownie。",
-        "Brownie.",
-        "Brownie.",
-        "Brownie.",
-        "Mon Brownie.",
-        "Brownie।",
-        "Brownie."
-      ],
+      "description": [],
       "ingredients": [
         "Brownie"
       ],
