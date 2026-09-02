@@ -1,0 +1,2094 @@
+{
+  "info": {
+    "version": "1.0.0",
+    "name": "The Odyssey",
+    "logo": "",
+    "night_logo": "",
+    "page_link": ""
+  },
+  "rstsetting": {
+    "themeColor": "orange",
+    "photoRatio": "4:3",
+    "showAddToCartButton": false,
+    "showIngredients": true,
+    "showDescription": true,
+    "showName": true,
+    "showPrice": true,
+    "showMyLanguageDescription": true
+  },
+  "slide": [],
+  "ad_banner": [],
+  "special": {
+    "title": "Recommendation",
+    "id": "all_menu",
+    "day": "all",
+    "end": "2026-12-31"
+  },
+  "categories": [
+    {
+      "name": "All Menu",
+      "id": "all_menu",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Ciabattas & Wraps",
+      "id": "ciabattas_wraps",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Cheese & Cold Cut",
+      "id": "cheese_cold_cut",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Starter",
+      "id": "starter",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Fried",
+      "id": "fried",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Burger",
+      "id": "burger",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Pasta",
+      "id": "pasta",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Salad",
+      "id": "salad",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Fish Fillet",
+      "id": "fish_fillet",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "BBQ & Steak",
+      "id": "bbq_steak",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Side",
+      "id": "side",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Eastern Food",
+      "id": "eastern_food",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Stir Fried",
+      "id": "stir_fried",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Curry",
+      "id": "curry",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Soup",
+      "id": "soup",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    },
+    {
+      "name": "Dessert",
+      "id": "dessert",
+      "food": true,
+      "open_in": "00:00-23:59",
+      "icon_id": ""
+    }
+  ],
+  "lists": [
+    {
+      "id": "theodyssey_001",
+      "title": "Odyssey Beef Masala",
+      "description": [
+        "Lettuce, mint, cucumber, yoghurt, and coriander."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Mint",
+        "Cucumber",
+        "Yoghurt",
+        "Coriander"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_002",
+      "title": "Odyssey Chicken Masala",
+      "description": [
+        "Lettuce, mint, cucumber, yoghurt, and coriander."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Mint",
+        "Cucumber",
+        "Yoghurt",
+        "Coriander"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_003",
+      "title": "Healthy Wrap",
+      "description": [
+        "Chicken, bacon, avocado, salad, and mayo."
+      ],
+      "ingredients": [
+        "Chicken",
+        "Bacon",
+        "Avocado",
+        "Salad",
+        "Mayo"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_004",
+      "title": "Chicken Pesto",
+      "description": [
+        "Lettuce, crispy onion, tomato, and parmesan cheese."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Crispy Onion",
+        "Tomato",
+        "Parmesan Cheese"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_005",
+      "title": "Coronation Chicken",
+      "description": [
+        "Lettuce, mayo, and red onion."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Mayo",
+        "Red Onion"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_006",
+      "title": "Tuna Mayo, Cheddar Cheese",
+      "description": [
+        "Lettuce, tomato, and red onion."
+      ],
+      "ingredients": [
+        "Tuna Mayo",
+        "Cheddar Cheese",
+        "Lettuce",
+        "Tomato",
+        "Red Onion"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_007",
+      "title": "Classic Egg Mayo",
+      "description": [
+        "Lettuce, egg, mayo, and bacon."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Egg",
+        "Mayo",
+        "Bacon"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_008",
+      "title": "Cheese Ciabattas",
+      "description": [
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo."
+      ],
+      "ingredients": [
+        "Cheddar Cheese",
+        "Branston Pickle",
+        "Lettuce",
+        "Tomato",
+        "Garlic Mayo"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_009",
+      "title": "Skagen",
+      "description": [
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce."
+      ],
+      "ingredients": [
+        "Prawns",
+        "Dill",
+        "Lemon",
+        "Mayo",
+        "Sour Cream",
+        "Lettuce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_010",
+      "title": "Chicken Dipper Wrap",
+      "description": [
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Garlic Mayo",
+        "Cheddar Cheese",
+        "BBQ Sauce",
+        "Jalapeno"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_011",
+      "title": "Roast Vegetable",
+      "description": [
+        "Lettuce, pesto sauce, and feta cheese."
+      ],
+      "ingredients": [
+        "Lettuce",
+        "Pesto Sauce",
+        "Feta Cheese"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,ciabattas_wraps",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_012",
+      "title": "Cold cut & Cheese for 2+.",
+      "description": [
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers."
+      ],
+      "ingredients": [
+        "Imported Cheeses",
+        "Cold Cuts",
+        "Walnuts",
+        "Pickles",
+        "Apple",
+        "Onion Relish",
+        "Mango Chutney",
+        "Homemade Bread",
+        "Sesame Crackers"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 990,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,cheese_cold_cut",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_013",
+      "title": "Odyssey Meat Platter (Minimum 2 person)",
+      "description": [
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings."
+      ],
+      "ingredients": [
+        "Australian Tenderloin",
+        "BBQ Spare Ribs",
+        "Local Prawns",
+        "Chorizo",
+        "Garlic",
+        "Chili",
+        "Chicken Skewer",
+        "BBQ Sauce",
+        "Peppercorn Sauce",
+        "Garlic Roast Potato",
+        "Onion Rings"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 1490,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,cheese_cold_cut",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_014",
+      "title": "Oyster",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 125,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_015",
+      "title": "Olives Bowl",
+      "description": [],
+      "ingredients": [
+        "Olives"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 150,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_016",
+      "title": "Samosa",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 150,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_017",
+      "title": "Toast Skagen",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_018",
+      "title": "Fish Ceviche",
+      "description": [],
+      "ingredients": [
+        "Fish"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_019",
+      "title": "Local Garlic prawns",
+      "description": [],
+      "ingredients": [
+        "Prawns",
+        "Garlic"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_020",
+      "title": "Tuna Sashimi",
+      "description": [],
+      "ingredients": [
+        "Tuna"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_021",
+      "title": "Tuna Bruschetta",
+      "description": [],
+      "ingredients": [
+        "Tuna"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_022",
+      "title": "Calamari",
+      "description": [],
+      "ingredients": [
+        "Calamari"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_023",
+      "title": "Scallops",
+      "description": [],
+      "ingredients": [
+        "Scallops"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_024",
+      "title": "Prawns & Chorizo",
+      "description": [],
+      "ingredients": [
+        "Prawns",
+        "Chorizo"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_025",
+      "title": "Fish Fingers",
+      "description": [],
+      "ingredients": [
+        "Fish"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_026",
+      "title": "Yan Tuna",
+      "description": [],
+      "ingredients": [
+        "Tuna"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_027",
+      "title": "Green Curry Mussel",
+      "description": [],
+      "ingredients": [
+        "Mussel",
+        "Green Curry"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_028",
+      "title": "Chicken Ravioll",
+      "description": [],
+      "ingredients": [
+        "Chicken"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,starter",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_029",
+      "title": "French Fries",
+      "description": [
+        "Pick your favourite sauce."
+      ],
+      "ingredients": [
+        "Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_030",
+      "title": "Potato Wedges",
+      "description": [
+        "Pick your favourite sauce."
+      ],
+      "ingredients": [
+        "Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_031",
+      "title": "Sweet Potato",
+      "description": [
+        "Pick your favourite sauce."
+      ],
+      "ingredients": [
+        "Sweet Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_032",
+      "title": "Popcorn Chicken",
+      "description": [
+        "Pick your favourite sauce."
+      ],
+      "ingredients": [
+        "Chicken"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_033",
+      "title": "Chicken Nugget",
+      "description": [
+        "Pick your favourite sauce."
+      ],
+      "ingredients": [
+        "Chicken"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_034",
+      "title": "ODYSSEY Burger",
+      "description": [
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce."
+      ],
+      "ingredients": [
+        "Beef Patties",
+        "Cheese",
+        "Pickles",
+        "Onion",
+        "Lettuce",
+        "Mak Mak Sauce"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 320,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_035",
+      "title": "Double Cheese Burger",
+      "description": [
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce."
+      ],
+      "ingredients": [
+        "Beef",
+        "Double Cheese",
+        "Ketchup",
+        "Mustard",
+        "Pickles",
+        "Onion",
+        "Lettuce"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 320,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_036",
+      "title": "Brie Bacon Burger",
+      "description": [
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion."
+      ],
+      "ingredients": [
+        "Beef",
+        "French Brie",
+        "Bacon",
+        "Ketchup",
+        "Mustard",
+        "Pickles",
+        "Onion"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 390,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_037",
+      "title": "Spicy BBQ Burger",
+      "description": [
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno."
+      ],
+      "ingredients": [
+        "Beef",
+        "Double Cheese",
+        "BBQ Sauce",
+        "Pickles",
+        "Crispy Onion Rings",
+        "Jalapeno"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_038",
+      "title": "Garlic Mushroom Burger",
+      "description": [
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup."
+      ],
+      "ingredients": [
+        "Beef",
+        "Double Cheese",
+        "Garlic Mayo",
+        "Sauteed Mushroom",
+        "Ketchup"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_039",
+      "title": "Bacon Cheese Burger",
+      "description": [
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion."
+      ],
+      "ingredients": [
+        "Beef",
+        "Double Cheese",
+        "Bacon",
+        "Ketchup",
+        "Mustard",
+        "Pickles",
+        "Onion"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_040",
+      "title": "Bacon Avocado Burger",
+      "description": [
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion."
+      ],
+      "ingredients": [
+        "Beef",
+        "Double Cheese",
+        "Bacon",
+        "Avocado",
+        "Ketchup",
+        "Mustard",
+        "Pickles",
+        "Onion"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_041",
+      "title": "Chicken Dipper Burger",
+      "description": [
+        "3 dippers, double cheese, pickles, and sriracha mayo."
+      ],
+      "ingredients": [
+        "Chicken Dippers",
+        "Double Cheese",
+        "Pickles",
+        "Sriracha Mayo"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_042",
+      "title": "Chicken Nugget Burger",
+      "description": [
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion."
+      ],
+      "ingredients": [
+        "Chicken Nugget",
+        "Double Cheese",
+        "Ketchup",
+        "Mustard",
+        "Pickles",
+        "Onion"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_043",
+      "title": "Honey Dipper Burger",
+      "description": [
+        "3 dippers, double cheese, pickles, and honey mustard dressing."
+      ],
+      "ingredients": [
+        "Chicken Dippers",
+        "Double Cheese",
+        "Pickles",
+        "Honey Mustard Dressing"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_044",
+      "title": "Spicy Vegan Avocado(V)",
+      "description": [
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado."
+      ],
+      "ingredients": [
+        "Chickpea Patty",
+        "Vegan Cheese",
+        "Sriracha",
+        "Mustard",
+        "Avocado"
+      ],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_045",
+      "title": "Spicy BBQ Chickpea (V)",
+      "description": [
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos."
+      ],
+      "ingredients": [
+        "Chickpea Patty",
+        "Vegan Cheese",
+        "BBQ Sauce",
+        "Onion Ring",
+        "Jalapenos"
+      ],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_046",
+      "title": "Odyssey Chickpea (V)",
+      "description": [
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce."
+      ],
+      "ingredients": [
+        "Chickpea Patties",
+        "Cheese",
+        "Pickles",
+        "Onion",
+        "Lettuce",
+        "Mak Mak Sauce"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,burger",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_047",
+      "title": "Carbonara Pasta",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,pasta",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_048",
+      "title": "Bolognese Pasta",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,pasta",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_049",
+      "title": "Seafood Pasta",
+      "description": [],
+      "ingredients": [
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 350,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,pasta",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_050",
+      "title": "Truffle Pasta",
+      "description": [],
+      "ingredients": [
+        "Truffle"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 350,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,pasta",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_051",
+      "title": "Chicken Caesar Salad",
+      "description": [],
+      "ingredients": [
+        "Chicken"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_052",
+      "title": "Burrata & Tomato",
+      "description": [],
+      "ingredients": [
+        "Burrata",
+        "Tomato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 320,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_053",
+      "title": "Greek Salad",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_054",
+      "title": "Watermelon Feta Salad",
+      "description": [],
+      "ingredients": [
+        "Watermelon",
+        "Feta"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_055",
+      "title": "Odyssey Laphet Salad",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_056",
+      "title": "Odyssey Samosa Salad",
+      "description": [],
+      "ingredients": [
+        "Samosa"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_057",
+      "title": "Garden Vegan Salad",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_058",
+      "title": "Sesame Tuna Salad",
+      "description": [],
+      "ingredients": [
+        "Sesame",
+        "Tuna"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 320,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,salad",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_059",
+      "title": "Salmon Steak",
+      "description": [
+        "250 g salmon fillet served on mashed potato with dill sauce."
+      ],
+      "ingredients": [
+        "Salmon Fillet",
+        "Mashed Potato",
+        "Dill Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 490,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_060",
+      "title": "Pan Fried Bacon Roll Fillet",
+      "description": [
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce."
+      ],
+      "ingredients": [
+        "Fish Fillet",
+        "Bacon",
+        "Tomato",
+        "Feta Cheese",
+        "Pesto Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 390,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_061",
+      "title": "Pan Fried Barracuda Fillet",
+      "description": [
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce."
+      ],
+      "ingredients": [
+        "Barracuda Fillet",
+        "Garlic Baked Potato",
+        "White Wine Cream Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 390,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_062",
+      "title": "Tuna Steak",
+      "description": [
+        "250 g tuna served on bubble and squeak with mushroom sauce."
+      ],
+      "ingredients": [
+        "Tuna",
+        "Bubble And Squeak",
+        "Mushroom Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 490,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_063",
+      "title": "Sesame Tuna Steak",
+      "description": [
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce."
+      ],
+      "ingredients": [
+        "Tuna",
+        "Cauliflower Couscous",
+        "Carrot",
+        "Coriander",
+        "Tzatziki Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 490,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_064",
+      "title": "Fish Paprika Butter",
+      "description": [
+        "Grilled white snapper fillet served with paprika butter sauce."
+      ],
+      "ingredients": [
+        "White Snapper Fillet",
+        "Paprika Butter Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 350,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_065",
+      "title": "Fish Mango",
+      "description": [
+        "Grilled white snapper fillet served on mango with homemade seafood sauce."
+      ],
+      "ingredients": [
+        "White Snapper Fillet",
+        "Mango",
+        "Homemade Seafood Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 350,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_066",
+      "title": "Odyssey Seafood Platter",
+      "description": [
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips."
+      ],
+      "ingredients": [
+        "Whole Snapper",
+        "Fish Fillet",
+        "Garlic Prawns",
+        "Sesame Seared Scallops",
+        "King Mackerel",
+        "Avocado Ceviche",
+        "Fish Cakes",
+        "Whole Prawns",
+        "Crispy Calamari",
+        "Garlic Roasted Potatoes",
+        "Carrot Slaw",
+        "Dips"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 1590,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,fish_fillet",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_067",
+      "title": "Chicken Kebab",
+      "description": [
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+      ],
+      "ingredients": [
+        "Chicken",
+        "Salad",
+        "Corn",
+        "Baked Potato",
+        "Garlic Mayo",
+        "Homemade BBQ Sauce"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 390,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_068",
+      "title": "Beef Kebab",
+      "description": [
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+      ],
+      "ingredients": [
+        "Beef",
+        "Salad",
+        "Corn",
+        "Baked Potato",
+        "Garlic Mayo",
+        "Homemade BBQ Sauce"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 490,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_069",
+      "title": "Squid",
+      "description": [
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+      ],
+      "ingredients": [
+        "Squid",
+        "Salad",
+        "Corn",
+        "Baked Potato",
+        "Garlic Mayo",
+        "Homemade BBQ Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 590,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_070",
+      "title": "Tiger Prawns",
+      "description": [
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+      ],
+      "ingredients": [
+        "Tiger Prawns",
+        "Salad",
+        "Corn",
+        "Baked Potato",
+        "Garlic Mayo",
+        "Homemade BBQ Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 790,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_071",
+      "title": "White Snapper",
+      "description": [
+        "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce."
+      ],
+      "ingredients": [
+        "White Snapper",
+        "Salad",
+        "Corn",
+        "Baked Potato",
+        "Garlic Mayo",
+        "Homemade BBQ Sauce"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 590,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_072",
+      "title": "Surf & Turf",
+      "description": [
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+      ],
+      "ingredients": [],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 1290,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_073",
+      "title": "Tendarloin Steak Aus",
+      "description": [
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+      ],
+      "ingredients": [
+        "Australian Tenderloin"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 1090,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_074",
+      "title": "Spare Ribs",
+      "description": [
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn."
+      ],
+      "ingredients": [
+        "Spare Ribs"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 690,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,bbq_steak",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_075",
+      "title": "Rice",
+      "description": [],
+      "ingredients": [
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 50,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_076",
+      "title": "Truffle Mashed Potato",
+      "description": [],
+      "ingredients": [
+        "Truffle",
+        "Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 150,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_077",
+      "title": "Garlic Roasted Potato",
+      "description": [],
+      "ingredients": [
+        "Garlic",
+        "Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_078",
+      "title": "Green Salad",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_079",
+      "title": "Carrot Coriander Crunch",
+      "description": [],
+      "ingredients": [
+        "Carrot",
+        "Coriander"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_080",
+      "title": "Wok Vegetables",
+      "description": [],
+      "ingredients": [
+        "Vegetables"
+      ],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_081",
+      "title": "fried Spinach",
+      "description": [],
+      "ingredients": [
+        "Spinach"
+      ],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_082",
+      "title": "Sauteed Mushrooms",
+      "description": [],
+      "ingredients": [
+        "Mushrooms"
+      ],
+      "add_on": "",
+      "types": "vegan",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_083",
+      "title": "French Fries",
+      "description": [],
+      "ingredients": [
+        "Potato"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 120,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,side",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_084",
+      "title": "Fried Rice (Veg, Chicken, Beef, Seafood)",
+      "description": [],
+      "ingredients": [
+        "Rice",
+        "Vegetable",
+        "Chicken",
+        "Beef",
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,stir_fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_085",
+      "title": "Pad Thai (Veg, Chicken, Beef, Seafood)",
+      "description": [],
+      "ingredients": [
+        "Vegetable",
+        "Chicken",
+        "Beef",
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,stir_fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_086",
+      "title": "Pad Kra Prow (Veg, Chicken, Beef, Seafood)",
+      "description": [],
+      "ingredients": [
+        "Vegetable",
+        "Chicken",
+        "Beef",
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,stir_fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_087",
+      "title": "Pad Prick (Veg, Chicken, Beef, Seafood)",
+      "description": [],
+      "ingredients": [
+        "Vegetable",
+        "Chicken",
+        "Beef",
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,stir_fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_088",
+      "title": "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)",
+      "description": [],
+      "ingredients": [
+        "Pineapple",
+        "Rice",
+        "Vegetable",
+        "Chicken",
+        "Beef",
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 250,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,stir_fried",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_089",
+      "title": "Odyssey Beef Potato Masala",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Beef",
+        "Potato",
+        "Masala",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_090",
+      "title": "Odyssey Chicken Potato Masala",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Chicken",
+        "Potato",
+        "Masala",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_091",
+      "title": "Odyssey Meatball Potato Masala",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Meatball",
+        "Potato",
+        "Masala",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_092",
+      "title": "Odyssey Tofu Potato Masala",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Tofu",
+        "Potato",
+        "Masala",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_093",
+      "title": "Massaman Beef or Chicken",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Beef",
+        "Chicken",
+        "Massaman Curry",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_094",
+      "title": "Green Curry Beef or Chicken",
+      "description": [
+        "All curry served with rice."
+      ],
+      "ingredients": [
+        "Beef",
+        "Chicken",
+        "Green Curry",
+        "Rice"
+      ],
+      "add_on": "",
+      "types": "meat",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,curry",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_095",
+      "title": "Tom Yum",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,soup",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_096",
+      "title": "Tom Kha",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,soup",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_097",
+      "title": "Tom Saep",
+      "description": [],
+      "ingredients": [],
+      "add_on": "",
+      "types": "",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,soup",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_098",
+      "title": "Yum Woon Sen Seafood",
+      "description": [],
+      "ingredients": [
+        "Seafood"
+      ],
+      "add_on": "",
+      "types": "seafood",
+      "food": true,
+      "price": 220,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,eastern_food,soup",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_099",
+      "title": "Cheese Cake / passion fruit",
+      "description": [],
+      "ingredients": [
+        "Cheese Cake",
+        "Passion Fruit"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,dessert",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_100",
+      "title": "Chocolate Tart",
+      "description": [],
+      "ingredients": [
+        "Chocolate"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,dessert",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_101",
+      "title": "Mango Sticky Rice",
+      "description": [],
+      "ingredients": [
+        "Mango",
+        "Sticky Rice"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,dessert",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_102",
+      "title": "Ice Cream",
+      "description": [],
+      "ingredients": [
+        "Ice Cream"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 100,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,dessert",
+      "hide": false
+    },
+    {
+      "id": "theodyssey_103",
+      "title": "Brownie",
+      "description": [],
+      "ingredients": [
+        "Brownie"
+      ],
+      "add_on": "",
+      "types": "vegetarian",
+      "food": true,
+      "price": 190,
+      "thumbnail": "",
+      "photos": [],
+      "category": "all_menu,dessert",
+      "hide": false
+    }
+  ],
+  "add_on": [],
+  "update_message": "Last updated: 2026-09-02",
+  "hide_list": []
+}
