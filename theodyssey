@@ -16,7 +16,34 @@
     "showPrice": true,
     "showMyLanguageDescription": true
   },
-  "slide": [],
+  "slide": [
+    {
+      "id": 1,
+      "thumbnail": "https://i.ibb.co/3mHmR50j/welcomeodyssey.webp",
+      "title": "",
+      "desc": "",
+      "link": "",
+      "direct_go": true,
+      "ad": true,
+      "show_text": false,
+      "day": "all",
+      "start": "2026-02-10",
+      "end": "2026-10-01"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://i.ibb.co/S7mSJdwy/likeodyssey.webp",
+      "title": "",
+      "desc": "",
+      "link": "",
+      "direct_go": true,
+      "ad": true,
+      "show_text": false,
+      "day": "all",
+      "start": "2026-02-10",
+      "end": "2026-10-01"
+    }
+  ],
   "ad_banner": [],
   "special": {
     "title": "Recommendation",
@@ -145,7 +172,20 @@
       "description": [
         "Lettuce, mint, cucumber, yoghurt, and coriander.",
         "ผักกาดหอม มิ้นต์ แตงกวา โยเกิร์ต และผักชี",
-        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။"
+        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။",
+        "Salat, Minze, Gurke, Joghurt und Koriander.",
+        "生菜、薄荷、黄瓜、酸奶和香菜。",
+        "Латук, мята, огурец, йогурт и кориандр.",
+        "חסה, נענע, מלפפון, יוגורט וכוסברה.",
+        "Lechuga, menta, pepino, yogur y cilantro.",
+        "양상추, 민트, 오이, 요거트와 고수.",
+        "レタス、ミント、きゅうり、ヨーグルト、コリアンダー。",
+        "Laitue, menthe, concombre, yaourt et coriandre.",
+        "Lattuga, menta, cetriolo, yogurt e coriandolo.",
+        "Alface, hortela, pepino, iogurte e coentro.",
+        "Xa lach, bac ha, dua leo, sua chua va rau mui.",
+        "लेट्यूस, पुदीना, खीरा, दही और धनिया।",
+        "خس ونعناع وخيار وزبادي وكزبرة."
       ],
       "ingredients": [
         "Lettuce",
@@ -169,7 +209,20 @@
       "description": [
         "Lettuce, mint, cucumber, yoghurt, and coriander.",
         "ผักกาดหอม มิ้นต์ แตงกวา โยเกิร์ต และผักชี",
-        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။"
+        "ဆလတ်ရွက်၊ ပူဒီနာ၊ သခွားသီး၊ ယိုဂတ်နှင့် နံနံပင်။",
+        "Salat, Minze, Gurke, Joghurt und Koriander.",
+        "生菜、薄荷、黄瓜、酸奶和香菜。",
+        "Латук, мята, огурец, йогурт и кориандр.",
+        "חסה, נענע, מלפפון, יוגורט וכוסברה.",
+        "Lechuga, menta, pepino, yogur y cilantro.",
+        "양상추, 민트, 오이, 요거트와 고수.",
+        "レタス、ミント、きゅうり、ヨーグルト、コリアンダー。",
+        "Laitue, menthe, concombre, yaourt et coriandre.",
+        "Lattuga, menta, cetriolo, yogurt e coriandolo.",
+        "Alface, hortela, pepino, iogurte e coentro.",
+        "Xa lach, bac ha, dua leo, sua chua va rau mui.",
+        "लेट्यूस, पुदीना, खीरा, दही और धनिया।",
+        "خس ونعناع وخيار وزبادي وكزبرة."
       ],
       "ingredients": [
         "Lettuce",
@@ -193,7 +246,20 @@
       "description": [
         "Chicken, bacon, avocado, salad, and mayo.",
         "ไก่ เบคอน อะโวคาโด สลัด และมายองเนส",
-        "ကြက်သား၊ ဘေကွန်၊ အာဗိုကာဒို၊ ဆလတ်သုပ်နှင့် မယောနိစ်။"
+        "ကြက်သား၊ ဘေကွန်၊ အာဗိုကာဒို၊ ဆလတ်သုပ်နှင့် မယောနိစ်။",
+        "Huhn, Speck, Avocado, Salat und Mayo.",
+        "鸡肉、培根、牛油果、沙拉和蛋黄酱。",
+        "Курица, бекон, авокадо, салат и майонез.",
+        "עוף, בייקון, אבוקדו, סלט ומיונז.",
+        "Pollo, bacon, aguacate, ensalada y mayonesa.",
+        "치킨, 베이컨, 아보카도, 샐러드와 마요네즈.",
+        "チキン、ベーコン、アボカド、サラダ、マヨネーズ。",
+        "Poulet, bacon, avocat, salade et mayonnaise.",
+        "Pollo, bacon, avocado, insalata e maionese.",
+        "Frango, bacon, abacate, salada e maionese.",
+        "Ga, thit xong khoi, bo, salad va sot mayo.",
+        "चिकन, बेकन, एवोकाडो, सलाद और मेयो।",
+        "دجاج ولحم مقدد وأفوكادو وسلطة ومايونيز."
       ],
       "ingredients": [
         "Chicken",
@@ -217,7 +283,20 @@
       "description": [
         "Lettuce, crispy onion, tomato, and parmesan cheese.",
         "ผักกาดหอม หอมทอดกรอบ มะเขือเทศ และพาร์เมซานชีส",
-        "ဆလတ်ရွက်၊ ကြက်သွန်ကြော်ကြွပ်၊ ခရမ်းချဉ်သီးနှင့် ပါမီဆန်ချိစ်။"
+        "ဆလတ်ရွက်၊ ကြက်သွန်ကြော်ကြွပ်၊ ခရမ်းချဉ်သီးနှင့် ပါမီဆန်ချိစ်။",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese.。",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese.。",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Mon Lettuce, crispy onion, tomato, and parmesan cheese..",
+        "Lettuce, crispy onion, tomato, and parmesan cheese.।",
+        "Lettuce, crispy onion, tomato, and parmesan cheese.."
       ],
       "ingredients": [
         "Lettuce",
@@ -240,7 +319,20 @@
       "description": [
         "Lettuce, mayo, and red onion.",
         "ผักกาดหอม มายองเนส และหอมแดง",
-        "ဆလတ်ရွက်၊ မယောနိစ်နှင့် ကြက်သွန်နီ။"
+        "ဆလတ်ရွက်၊ မယောနိစ်နှင့် ကြက်သွန်နီ။",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion.。",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion.。",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion..",
+        "Mon Lettuce, mayo, and red onion..",
+        "Lettuce, mayo, and red onion.।",
+        "Lettuce, mayo, and red onion.."
       ],
       "ingredients": [
         "Lettuce",
@@ -262,7 +354,20 @@
       "description": [
         "Lettuce, tomato, and red onion.",
         "ผักกาดหอม มะเขือเทศ และหอมแดง",
-        "ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်နီ။"
+        "ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်နီ။",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion.。",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion.。",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion..",
+        "Mon Lettuce, tomato, and red onion..",
+        "Lettuce, tomato, and red onion.।",
+        "Lettuce, tomato, and red onion.."
       ],
       "ingredients": [
         "Tuna Mayo",
@@ -286,7 +391,20 @@
       "description": [
         "Lettuce, egg, mayo, and bacon.",
         "ผักกาดหอม ไข่ มายองเนส และเบคอน",
-        "ဆလတ်ရွက်၊ ကြက်ဥ၊ မယောနိစ်နှင့် ဘေကွန်။"
+        "ဆလတ်ရွက်၊ ကြက်ဥ၊ မယောနိစ်နှင့် ဘေကွန်။",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon.。",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon.。",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon..",
+        "Mon Lettuce, egg, mayo, and bacon..",
+        "Lettuce, egg, mayo, and bacon.।",
+        "Lettuce, egg, mayo, and bacon.."
       ],
       "ingredients": [
         "Lettuce",
@@ -309,7 +427,20 @@
       "description": [
         "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.",
         "เชดดาร์ชีส แบรนสตันพิกเคิล ผักกาดหอม มะเขือเทศ และมายองเนสกระเทียม",
-        "ချက်ဒါချိစ်၊ Branston ပစ်ကယ်၊ ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်ဖြူမယောနိစ်။"
+        "ချက်ဒါချိစ်၊ Branston ပစ်ကယ်၊ ဆလတ်ရွက်၊ ခရမ်းချဉ်သီးနှင့် ကြက်သွန်ဖြူမယောနိစ်။",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.。",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.。",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Mon Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo..",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.।",
+        "Cheddar cheese, Branston pickle, lettuce, tomato, and garlic mayo.."
       ],
       "ingredients": [
         "Cheddar Cheese",
@@ -333,7 +464,20 @@
       "description": [
         "Prawns with dill, lemon, mayo, sour cream, and lettuce.",
         "กุ้งพร้อมดิลล์ เลมอน มายองเนส ซาวร์ครีม และผักกาดหอม",
-        "ပုစွန်ကို ဒေးလ်၊ သံပုရာ၊ မယောနိစ်၊ ဆော်ကရင်မ်နှင့် ဆလတ်ရွက်တို့ဖြင့်။"
+        "ပုစွန်ကို ဒေးလ်၊ သံပုရာ၊ မယောနိစ်၊ ဆော်ကရင်မ်နှင့် ဆလတ်ရွက်တို့ဖြင့်။",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce.。",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce.。",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Mon Prawns with dill, lemon, mayo, sour cream, and lettuce..",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce.।",
+        "Prawns with dill, lemon, mayo, sour cream, and lettuce.."
       ],
       "ingredients": [
         "Prawns",
@@ -358,7 +502,20 @@
       "description": [
         "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.",
         "ผักกาดหอม มายองเนสกระเทียม เชดดาร์ชีส ซอสบาร์บีคิว และฮาลาเปญโญ",
-        "ဆလတ်ရွက်၊ ကြက်သွန်ဖြူမယောနိစ်၊ ချက်ဒါချိစ်၊ BBQ ဆော့စ်နှင့် ဟာလာပိန်ညို။"
+        "ဆလတ်ရွက်၊ ကြက်သွန်ဖြူမယောနိစ်၊ ချက်ဒါချိစ်၊ BBQ ဆော့စ်နှင့် ဟာလာပိန်ညို။",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.。",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.。",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Mon Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno..",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.।",
+        "Lettuce, garlic mayo, cheddar cheese, BBQ sauce, and jalapeno.."
       ],
       "ingredients": [
         "Lettuce",
@@ -382,7 +539,20 @@
       "description": [
         "Lettuce, pesto sauce, and feta cheese.",
         "ผักกาดหอม ซอสเพสโต และเฟต้าชีส",
-        "ဆလတ်ရွက်၊ ပက်စတိုဆော့စ်နှင့် ဖီတာချိစ်။"
+        "ဆလတ်ရွက်၊ ပက်စတိုဆော့စ်နှင့် ဖီတာချိစ်။",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese.。",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese.。",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese..",
+        "Mon Lettuce, pesto sauce, and feta cheese..",
+        "Lettuce, pesto sauce, and feta cheese.।",
+        "Lettuce, pesto sauce, and feta cheese.."
       ],
       "ingredients": [
         "Lettuce",
@@ -404,7 +574,20 @@
       "description": [
         "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.",
         "ชีสนำเข้า 5 ชนิดและโคลด์คัทสดใหม่ 3 ชนิด เสิร์ฟพร้อมวอลนัท ผักดอง แอปเปิล รีลิชหัวหอม ชัทนีย์มะม่วง ขนมปังโฮมเมด และแครกเกอร์งา",
-        "နိုင်ငံခြားချိစ် ၅ မျိုးနှင့် လတ်လတ်ဆတ်ဆတ်လှီးထားသော cold cut ၃ မျိုးကို walnut၊ pickles၊ ပန်းသီး၊ ကြက်သွန် relish၊ သရက်သီး chutney၊ အိမ်လုပ်ပေါင်မုန့်နှင့် နှမ်း cracker တို့ဖြင့် တွဲဖက်ထားသည်။"
+        "နိုင်ငံခြားချိစ် ၅ မျိုးနှင့် လတ်လတ်ဆတ်ဆတ်လှီးထားသော cold cut ၃ မျိုးကို walnut၊ pickles၊ ပန်းသီး၊ ကြက်သွန် relish၊ သရက်သီး chutney၊ အိမ်လုပ်ပေါင်မုန့်နှင့် နှမ်း cracker တို့ဖြင့် တွဲဖက်ထားသည်။",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.。",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.。",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Mon Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers..",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.।",
+        "Selection of 5 imported cheeses and 3 freshly sliced cold cuts served with walnuts, pickles, apple, onion relish, mango chutney, homemade bread, and sesame crackers.."
       ],
       "ingredients": [
         "Imported Cheeses",
@@ -432,7 +615,20 @@
       "description": [
         "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.",
         "เนื้อเทนเดอร์ลอยน์ออสเตรเลียชั้นดี 200 กรัม ซี่โครงบาร์บีคิว กุ้งท้องถิ่นทอดกระทะ โชริโซผัดกระเทียมและพริก ไก่เสียบไม้ ซอสบาร์บีคิว ซอสพริกไทย มันฝรั่งอบกระเทียม และหอมทอด",
-        "အရည်အသွေးမြင့် Australian tenderloin ၂၀၀ ဂရမ်၊ BBQ spare ribs၊ ဒယ်အိုးကြော်ဒေသခံပုစွန်၊ ကြက်သွန်ဖြူနှင့် ငရုတ်သီးပါ chorizo၊ ကြက်သားစကူးဝါး၊ BBQ ဆော့စ်၊ peppercorn ဆော့စ်၊ ကြက်သွန်ဖြူအာလူးကင်နှင့် onion rings။"
+        "အရည်အသွေးမြင့် Australian tenderloin ၂၀၀ ဂရမ်၊ BBQ spare ribs၊ ဒယ်အိုးကြော်ဒေသခံပုစွန်၊ ကြက်သွန်ဖြူနှင့် ငရုတ်သီးပါ chorizo၊ ကြက်သားစကူးဝါး၊ BBQ ဆော့စ်၊ peppercorn ဆော့စ်၊ ကြက်သွန်ဖြူအာလူးကင်နှင့် onion rings။",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.。",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.。",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "Mon 200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings..",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.।",
+        "200g of prime Australian tenderloin, BBQ spare ribs, pan fried local prawns, chorizo in garlic and chili, chicken skewer, BBQ sauce, peppercorn sauce, garlic roast potato, and onion rings.."
       ],
       "ingredients": [
         "Australian Tenderloin",
@@ -459,7 +655,24 @@
     {
       "id": "theodyssey_014",
       "title": "Oyster",
-      "description": [],
+      "description": [
+        "Oyster.",
+        "เมนู Oyster",
+        "Oyster မီနူး။",
+        "Oyster.",
+        "Oyster。",
+        "Oyster.",
+        "Oyster.",
+        "Oyster.",
+        "Oyster.",
+        "Oyster。",
+        "Oyster.",
+        "Oyster.",
+        "Oyster.",
+        "Mon Oyster.",
+        "Oyster।",
+        "Oyster."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "seafood",
@@ -473,7 +686,24 @@
     {
       "id": "theodyssey_015",
       "title": "Olives Bowl",
-      "description": [],
+      "description": [
+        "Olives Bowl.",
+        "เมนู Olives Bowl",
+        "Olives Bowl မီနူး။",
+        "Olives Bowl.",
+        "Olives Bowl。",
+        "Olives Bowl.",
+        "Olives Bowl.",
+        "Olives Bowl.",
+        "Olives Bowl.",
+        "Olives Bowl。",
+        "Olives Bowl.",
+        "Olives Bowl.",
+        "Olives Bowl.",
+        "Mon Olives Bowl.",
+        "Olives Bowl।",
+        "Olives Bowl."
+      ],
       "ingredients": [
         "Olives"
       ],
@@ -489,7 +719,24 @@
     {
       "id": "theodyssey_016",
       "title": "Samosa",
-      "description": [],
+      "description": [
+        "Samosa.",
+        "เมนู Samosa",
+        "Samosa မီနူး။",
+        "Samosa.",
+        "Samosa。",
+        "Samosa.",
+        "Samosa.",
+        "Samosa.",
+        "Samosa.",
+        "Samosa。",
+        "Samosa.",
+        "Samosa.",
+        "Samosa.",
+        "Mon Samosa.",
+        "Samosa।",
+        "Samosa."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -503,7 +750,24 @@
     {
       "id": "theodyssey_017",
       "title": "Toast Skagen",
-      "description": [],
+      "description": [
+        "Toast Skagen.",
+        "เมนู Toast Skagen",
+        "Toast Skagen မီနူး။",
+        "Toast Skagen.",
+        "Toast Skagen。",
+        "Toast Skagen.",
+        "Toast Skagen.",
+        "Toast Skagen.",
+        "Toast Skagen.",
+        "Toast Skagen。",
+        "Toast Skagen.",
+        "Toast Skagen.",
+        "Toast Skagen.",
+        "Mon Toast Skagen.",
+        "Toast Skagen।",
+        "Toast Skagen."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "seafood",
@@ -517,7 +781,24 @@
     {
       "id": "theodyssey_018",
       "title": "Fish Ceviche",
-      "description": [],
+      "description": [
+        "Fish Ceviche.",
+        "เมนู Fish Ceviche",
+        "Fish Ceviche မီနူး။",
+        "Fish Ceviche.",
+        "Fish Ceviche。",
+        "Fish Ceviche.",
+        "Fish Ceviche.",
+        "Fish Ceviche.",
+        "Fish Ceviche.",
+        "Fish Ceviche。",
+        "Fish Ceviche.",
+        "Fish Ceviche.",
+        "Fish Ceviche.",
+        "Mon Fish Ceviche.",
+        "Fish Ceviche।",
+        "Fish Ceviche."
+      ],
       "ingredients": [
         "Fish"
       ],
@@ -533,7 +814,24 @@
     {
       "id": "theodyssey_019",
       "title": "Local Garlic prawns",
-      "description": [],
+      "description": [
+        "Local Garlic prawns.",
+        "เมนู Local Garlic prawns",
+        "Local Garlic prawns မီနူး။",
+        "Local Garlic prawns.",
+        "Local Garlic prawns。",
+        "Local Garlic prawns.",
+        "Local Garlic prawns.",
+        "Local Garlic prawns.",
+        "Local Garlic prawns.",
+        "Local Garlic prawns。",
+        "Local Garlic prawns.",
+        "Local Garlic prawns.",
+        "Local Garlic prawns.",
+        "Mon Local Garlic prawns.",
+        "Local Garlic prawns।",
+        "Local Garlic prawns."
+      ],
       "ingredients": [
         "Prawns",
         "Garlic"
@@ -550,7 +848,24 @@
     {
       "id": "theodyssey_020",
       "title": "Tuna Sashimi",
-      "description": [],
+      "description": [
+        "Tuna Sashimi.",
+        "เมนู Tuna Sashimi",
+        "Tuna Sashimi မီနူး။",
+        "Tuna Sashimi.",
+        "Tuna Sashimi。",
+        "Tuna Sashimi.",
+        "Tuna Sashimi.",
+        "Tuna Sashimi.",
+        "Tuna Sashimi.",
+        "Tuna Sashimi。",
+        "Tuna Sashimi.",
+        "Tuna Sashimi.",
+        "Tuna Sashimi.",
+        "Mon Tuna Sashimi.",
+        "Tuna Sashimi।",
+        "Tuna Sashimi."
+      ],
       "ingredients": [
         "Tuna"
       ],
@@ -566,7 +881,24 @@
     {
       "id": "theodyssey_021",
       "title": "Tuna Bruschetta",
-      "description": [],
+      "description": [
+        "Tuna Bruschetta.",
+        "เมนู Tuna Bruschetta",
+        "Tuna Bruschetta မီနူး။",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta。",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta。",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta.",
+        "Tuna Bruschetta.",
+        "Mon Tuna Bruschetta.",
+        "Tuna Bruschetta।",
+        "Tuna Bruschetta."
+      ],
       "ingredients": [
         "Tuna"
       ],
@@ -582,7 +914,24 @@
     {
       "id": "theodyssey_022",
       "title": "Calamari",
-      "description": [],
+      "description": [
+        "Calamari.",
+        "เมนู Calamari",
+        "Calamari မီနူး။",
+        "Calamari.",
+        "Calamari。",
+        "Calamari.",
+        "Calamari.",
+        "Calamari.",
+        "Calamari.",
+        "Calamari。",
+        "Calamari.",
+        "Calamari.",
+        "Calamari.",
+        "Mon Calamari.",
+        "Calamari।",
+        "Calamari."
+      ],
       "ingredients": [
         "Calamari"
       ],
@@ -598,7 +947,24 @@
     {
       "id": "theodyssey_023",
       "title": "Scallops",
-      "description": [],
+      "description": [
+        "Scallops.",
+        "เมนู Scallops",
+        "Scallops မီနူး။",
+        "Scallops.",
+        "Scallops。",
+        "Scallops.",
+        "Scallops.",
+        "Scallops.",
+        "Scallops.",
+        "Scallops。",
+        "Scallops.",
+        "Scallops.",
+        "Scallops.",
+        "Mon Scallops.",
+        "Scallops।",
+        "Scallops."
+      ],
       "ingredients": [
         "Scallops"
       ],
@@ -614,7 +980,24 @@
     {
       "id": "theodyssey_024",
       "title": "Prawns & Chorizo",
-      "description": [],
+      "description": [
+        "Prawns & Chorizo.",
+        "เมนู Prawns & Chorizo",
+        "Prawns & Chorizo မီနူး။",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo。",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo。",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo.",
+        "Prawns & Chorizo.",
+        "Mon Prawns & Chorizo.",
+        "Prawns & Chorizo।",
+        "Prawns & Chorizo."
+      ],
       "ingredients": [
         "Prawns",
         "Chorizo"
@@ -631,7 +1014,24 @@
     {
       "id": "theodyssey_025",
       "title": "Fish Fingers",
-      "description": [],
+      "description": [
+        "Fish Fingers.",
+        "เมนู Fish Fingers",
+        "Fish Fingers မီနူး။",
+        "Fish Fingers.",
+        "Fish Fingers。",
+        "Fish Fingers.",
+        "Fish Fingers.",
+        "Fish Fingers.",
+        "Fish Fingers.",
+        "Fish Fingers。",
+        "Fish Fingers.",
+        "Fish Fingers.",
+        "Fish Fingers.",
+        "Mon Fish Fingers.",
+        "Fish Fingers।",
+        "Fish Fingers."
+      ],
       "ingredients": [
         "Fish"
       ],
@@ -647,7 +1047,24 @@
     {
       "id": "theodyssey_026",
       "title": "Yan Tuna",
-      "description": [],
+      "description": [
+        "Yan Tuna.",
+        "เมนู Yan Tuna",
+        "Yan Tuna မီနူး။",
+        "Yan Tuna.",
+        "Yan Tuna。",
+        "Yan Tuna.",
+        "Yan Tuna.",
+        "Yan Tuna.",
+        "Yan Tuna.",
+        "Yan Tuna。",
+        "Yan Tuna.",
+        "Yan Tuna.",
+        "Yan Tuna.",
+        "Mon Yan Tuna.",
+        "Yan Tuna।",
+        "Yan Tuna."
+      ],
       "ingredients": [
         "Tuna"
       ],
@@ -663,7 +1080,24 @@
     {
       "id": "theodyssey_027",
       "title": "Green Curry Mussel",
-      "description": [],
+      "description": [
+        "Green Curry Mussel.",
+        "เมนู Green Curry Mussel",
+        "Green Curry Mussel မီနူး။",
+        "Green Curry Mussel.",
+        "Green Curry Mussel。",
+        "Green Curry Mussel.",
+        "Green Curry Mussel.",
+        "Green Curry Mussel.",
+        "Green Curry Mussel.",
+        "Green Curry Mussel。",
+        "Green Curry Mussel.",
+        "Green Curry Mussel.",
+        "Green Curry Mussel.",
+        "Mon Green Curry Mussel.",
+        "Green Curry Mussel।",
+        "Green Curry Mussel."
+      ],
       "ingredients": [
         "Mussel",
         "Green Curry"
@@ -680,7 +1114,24 @@
     {
       "id": "theodyssey_028",
       "title": "Chicken Ravioll",
-      "description": [],
+      "description": [
+        "Chicken Ravioll.",
+        "เมนู Chicken Ravioll",
+        "Chicken Ravioll မီနူး။",
+        "Chicken Ravioll.",
+        "Chicken Ravioll。",
+        "Chicken Ravioll.",
+        "Chicken Ravioll.",
+        "Chicken Ravioll.",
+        "Chicken Ravioll.",
+        "Chicken Ravioll。",
+        "Chicken Ravioll.",
+        "Chicken Ravioll.",
+        "Chicken Ravioll.",
+        "Mon Chicken Ravioll.",
+        "Chicken Ravioll।",
+        "Chicken Ravioll."
+      ],
       "ingredients": [
         "Chicken"
       ],
@@ -699,7 +1150,20 @@
       "description": [
         "Pick your favourite sauce.",
         "เลือกซอสที่คุณชอบ",
-        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။",
+        "Wahlen Sie Ihre Lieblingssauce.",
+        "选择你喜欢的酱汁。",
+        "Выберите любимый соус.",
+        "בחרו את הרוטב האהוב עליכם.",
+        "Elige tu salsa favorita.",
+        "좋아하는 소스를 선택하세요.",
+        "お好みのソースをお選びください。",
+        "Choisissez votre sauce preferee.",
+        "Scegli la tua salsa preferita.",
+        "Escolha o seu molho favorito.",
+        "Chon loai sot ban yeu thich.",
+        "अपनी पसंदीदा सॉस चुनें।",
+        "اختر الصلصة المفضلة لديك."
       ],
       "ingredients": [
         "Potato"
@@ -719,7 +1183,20 @@
       "description": [
         "Pick your favourite sauce.",
         "เลือกซอสที่คุณชอบ",
-        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။",
+        "Wahlen Sie Ihre Lieblingssauce.",
+        "选择你喜欢的酱汁。",
+        "Выберите любимый соус.",
+        "בחרו את הרוטב האהוב עליכם.",
+        "Elige tu salsa favorita.",
+        "좋아하는 소스를 선택하세요.",
+        "お好みのソースをお選びください。",
+        "Choisissez votre sauce preferee.",
+        "Scegli la tua salsa preferita.",
+        "Escolha o seu molho favorito.",
+        "Chon loai sot ban yeu thich.",
+        "अपनी पसंदीदा सॉस चुनें।",
+        "اختر الصلصة المفضلة لديك."
       ],
       "ingredients": [
         "Potato"
@@ -739,7 +1216,20 @@
       "description": [
         "Pick your favourite sauce.",
         "เลือกซอสที่คุณชอบ",
-        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။",
+        "Wahlen Sie Ihre Lieblingssauce.",
+        "选择你喜欢的酱汁。",
+        "Выберите любимый соус.",
+        "בחרו את הרוטב האהוב עליכם.",
+        "Elige tu salsa favorita.",
+        "좋아하는 소스를 선택하세요.",
+        "お好みのソースをお選びください。",
+        "Choisissez votre sauce preferee.",
+        "Scegli la tua salsa preferita.",
+        "Escolha o seu molho favorito.",
+        "Chon loai sot ban yeu thich.",
+        "अपनी पसंदीदा सॉस चुनें।",
+        "اختر الصلصة المفضلة لديك."
       ],
       "ingredients": [
         "Sweet Potato"
@@ -759,7 +1249,20 @@
       "description": [
         "Pick your favourite sauce.",
         "เลือกซอสที่คุณชอบ",
-        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။",
+        "Wahlen Sie Ihre Lieblingssauce.",
+        "选择你喜欢的酱汁。",
+        "Выберите любимый соус.",
+        "בחרו את הרוטב האהוב עליכם.",
+        "Elige tu salsa favorita.",
+        "좋아하는 소스를 선택하세요.",
+        "お好みのソースをお選びください。",
+        "Choisissez votre sauce preferee.",
+        "Scegli la tua salsa preferita.",
+        "Escolha o seu molho favorito.",
+        "Chon loai sot ban yeu thich.",
+        "अपनी पसंदीदा सॉस चुनें।",
+        "اختر الصلصة المفضلة لديك."
       ],
       "ingredients": [
         "Chicken"
@@ -779,7 +1282,20 @@
       "description": [
         "Pick your favourite sauce.",
         "เลือกซอสที่คุณชอบ",
-        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။"
+        "နှစ်သက်ရာ ဆော့စ်ကို ရွေးချယ်နိုင်ပါသည်။",
+        "Wahlen Sie Ihre Lieblingssauce.",
+        "选择你喜欢的酱汁。",
+        "Выберите любимый соус.",
+        "בחרו את הרוטב האהוב עליכם.",
+        "Elige tu salsa favorita.",
+        "좋아하는 소스를 선택하세요.",
+        "お好みのソースをお選びください。",
+        "Choisissez votre sauce preferee.",
+        "Scegli la tua salsa preferita.",
+        "Escolha o seu molho favorito.",
+        "Chon loai sot ban yeu thich.",
+        "अपनी पसंदीदा सॉस चुनें।",
+        "اختر الصلصة المفضلة لديك."
       ],
       "ingredients": [
         "Chicken"
@@ -799,7 +1315,20 @@
       "description": [
         "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.",
         "เนื้อวัวเลี้ยงธัญพืช 2 ชิ้น ชีส ผักดอง หัวหอม ผักกาดหอม และซอส Mak Mak",
-        "grain fed အမဲသား patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။"
+        "grain fed အမဲသား patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.。",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.。",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "Mon 2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.।",
+        "2 grain fed beef patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.."
       ],
       "ingredients": [
         "Beef Patties",
@@ -824,7 +1353,20 @@
       "description": [
         "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.",
         "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เคตชัป มัสตาร์ด ผักดอง หัวหอม และผักกาดหอม",
-        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ketchup၊ mustard၊ pickles၊ ကြက်သွန်နှင့် ဆလတ်ရွက်။"
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ketchup၊ mustard၊ pickles၊ ကြက်သွန်နှင့် ဆလတ်ရွက်။",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.。",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.。",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "Mon 1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce..",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.।",
+        "1/4LB beef, double cheese, ketchup, mustard, pickles, onion, and lettuce.."
       ],
       "ingredients": [
         "Beef",
@@ -850,7 +1392,20 @@
       "description": [
         "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.",
         "เนื้อวัว 1/4 ปอนด์ บรีชีสฝรั่งเศส เบคอน เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
-        "အမဲသား ၁/၄ ပေါင်၊ French brie၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
+        "အမဲသား ၁/၄ ပေါင်၊ French brie၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "Mon 1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.।",
+        "1/4 LB beef, French brie, bacon, ketchup, mustard, pickles, and onion.."
       ],
       "ingredients": [
         "Beef",
@@ -876,7 +1431,20 @@
       "description": [
         "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.",
         "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส ซอสบาร์บีคิว ผักดอง หอมทอดกรอบ และฮาลาเปญโญ",
-        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ BBQ ဆော့စ်၊ pickles၊ onion rings ကြွပ်ကြွပ်နှင့် ဟာလာပိန်ညို။"
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ BBQ ဆော့စ်၊ pickles၊ onion rings ကြွပ်ကြွပ်နှင့် ဟာလာပိန်ညို။",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.。",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.。",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "Mon 1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno..",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.।",
+        "1/4 LB beef, double cheese, BBQ sauce, pickles, crispy onion rings, and jalapeno.."
       ],
       "ingredients": [
         "Beef",
@@ -901,7 +1469,20 @@
       "description": [
         "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.",
         "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส มายองเนสกระเทียม เห็ดผัด และเคตชัป",
-        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ကြက်သွန်ဖြူမယောနိစ်၊ မှိုဆော့တေးနှင့် ketchup။"
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ကြက်သွန်ဖြူမယောနိစ်၊ မှိုဆော့တေးနှင့် ketchup။",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.。",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.。",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "Mon 1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup..",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.।",
+        "1/4 LB beef, double cheese, garlic mayo, sauteed mushroom, and ketchup.."
       ],
       "ingredients": [
         "Beef",
@@ -925,7 +1506,20 @@
       "description": [
         "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.",
         "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เบคอน เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
-        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "Mon 1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.।",
+        "1/4 LB beef, double cheese, bacon, ketchup, mustard, pickles, and onion.."
       ],
       "ingredients": [
         "Beef",
@@ -951,7 +1545,20 @@
       "description": [
         "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.",
         "เนื้อวัว 1/4 ปอนด์ ดับเบิลชีส เบคอน อะโวคาโด เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
-        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ အာဗိုကာဒို၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
+        "အမဲသား ၁/၄ ပေါင်၊ double cheese၊ ဘေကွန်၊ အာဗိုကာဒို၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.。",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "Mon 1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion..",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.।",
+        "1/4 LB beef, double cheese, bacon, avocado, ketchup, mustard, pickles, and onion.."
       ],
       "ingredients": [
         "Beef",
@@ -978,7 +1585,20 @@
       "description": [
         "3 dippers, double cheese, pickles, and sriracha mayo.",
         "ดิปเปอร์ 3 ชิ้น ดับเบิลชีส ผักดอง และมายองเนสศรีราชา",
-        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် sriracha mayo။"
+        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် sriracha mayo။",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo.。",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo.。",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo..",
+        "Mon 3 dippers, double cheese, pickles, and sriracha mayo..",
+        "3 dippers, double cheese, pickles, and sriracha mayo.।",
+        "3 dippers, double cheese, pickles, and sriracha mayo.."
       ],
       "ingredients": [
         "Chicken Dippers",
@@ -1001,7 +1621,20 @@
       "description": [
         "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.",
         "นักเก็ตไก่ 5 ชิ้น ดับเบิลชีส เคตชัป มัสตาร์ด ผักดอง และหัวหอม",
-        "ကြက်သား nugget ၅ ခု၊ double cheese၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။"
+        "ကြက်သား nugget ၅ ခု၊ double cheese၊ ketchup၊ mustard၊ pickles နှင့် ကြက်သွန်။",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.。",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.。",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "Mon 5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion..",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.।",
+        "5PC chicken nugget, double cheese, ketchup, mustard, pickles, and onion.."
       ],
       "ingredients": [
         "Chicken Nugget",
@@ -1026,7 +1659,20 @@
       "description": [
         "3 dippers, double cheese, pickles, and honey mustard dressing.",
         "ดิปเปอร์ 3 ชิ้น ดับเบิลชีส ผักดอง และน้ำสลัดฮันนี่มัสตาร์ด",
-        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် honey mustard dressing။"
+        "dippers ၃ ခု၊ double cheese၊ pickles နှင့် honey mustard dressing။",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing.。",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing.。",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "Mon 3 dippers, double cheese, pickles, and honey mustard dressing..",
+        "3 dippers, double cheese, pickles, and honey mustard dressing.।",
+        "3 dippers, double cheese, pickles, and honey mustard dressing.."
       ],
       "ingredients": [
         "Chicken Dippers",
@@ -1049,7 +1695,20 @@
       "description": [
         "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.",
         "แพตตี้ถั่วลูกไก่ วีแกนชีส ศรีราชา มัสตาร์ด และอะโวคาโด",
-        "ကုလားပဲ patty၊ vegan cheese၊ sriracha၊ mustard နှင့် အာဗိုကာဒို။"
+        "ကုလားပဲ patty၊ vegan cheese၊ sriracha၊ mustard နှင့် အာဗိုကာဒို။",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.。",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.。",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Mon Chickpea patty, vegan cheese, sriracha, mustard, and avocado..",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.।",
+        "Chickpea patty, vegan cheese, sriracha, mustard, and avocado.."
       ],
       "ingredients": [
         "Chickpea Patty",
@@ -1073,7 +1732,20 @@
       "description": [
         "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.",
         "แพตตี้ถั่วลูกไก่ วีแกนชีส ซอสบาร์บีคิว หอมทอด และฮาลาเปญโญ",
-        "ကုလားပဲ patty၊ vegan cheese၊ BBQ ဆော့စ်၊ onion ring နှင့် ဟာလာပိန်ညို။"
+        "ကုလားပဲ patty၊ vegan cheese၊ BBQ ဆော့စ်၊ onion ring နှင့် ဟာလာပိန်ညို။",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.。",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.。",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Mon Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos..",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.।",
+        "Chickpea patty, vegan cheese, BBQ sauce, onion ring, and jalapenos.."
       ],
       "ingredients": [
         "Chickpea Patty",
@@ -1097,7 +1769,20 @@
       "description": [
         "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.",
         "แพตตี้ถั่วลูกไก่ 2 ชิ้น ชีส ผักดอง หัวหอม ผักกาดหอม และซอส Mak Mak",
-        "ကုလားပဲ patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။"
+        "ကုလားပဲ patties ၂ ခု၊ ချိစ်၊ pickles၊ ကြက်သွန်၊ ဆလတ်ရွက်နှင့် Mak Mak ဆော့စ်။",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.。",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.。",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "Mon 2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce..",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.।",
+        "2 chickpea patties, cheese, pickles, onion, lettuce, and Mak Mak sauce.."
       ],
       "ingredients": [
         "Chickpea Patties",
@@ -1119,7 +1804,24 @@
     {
       "id": "theodyssey_047",
       "title": "Carbonara Pasta",
-      "description": [],
+      "description": [
+        "Carbonara Pasta.",
+        "เมนู Carbonara Pasta",
+        "Carbonara Pasta မီနူး။",
+        "Carbonara Pasta.",
+        "Carbonara Pasta。",
+        "Carbonara Pasta.",
+        "Carbonara Pasta.",
+        "Carbonara Pasta.",
+        "Carbonara Pasta.",
+        "Carbonara Pasta。",
+        "Carbonara Pasta.",
+        "Carbonara Pasta.",
+        "Carbonara Pasta.",
+        "Mon Carbonara Pasta.",
+        "Carbonara Pasta।",
+        "Carbonara Pasta."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "meat",
@@ -1133,7 +1835,24 @@
     {
       "id": "theodyssey_048",
       "title": "Bolognese Pasta",
-      "description": [],
+      "description": [
+        "Bolognese Pasta.",
+        "เมนู Bolognese Pasta",
+        "Bolognese Pasta မီနူး။",
+        "Bolognese Pasta.",
+        "Bolognese Pasta。",
+        "Bolognese Pasta.",
+        "Bolognese Pasta.",
+        "Bolognese Pasta.",
+        "Bolognese Pasta.",
+        "Bolognese Pasta。",
+        "Bolognese Pasta.",
+        "Bolognese Pasta.",
+        "Bolognese Pasta.",
+        "Mon Bolognese Pasta.",
+        "Bolognese Pasta।",
+        "Bolognese Pasta."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "meat",
@@ -1147,7 +1866,24 @@
     {
       "id": "theodyssey_049",
       "title": "Seafood Pasta",
-      "description": [],
+      "description": [
+        "Seafood Pasta.",
+        "เมนู Seafood Pasta",
+        "Seafood Pasta မီနူး။",
+        "Seafood Pasta.",
+        "Seafood Pasta。",
+        "Seafood Pasta.",
+        "Seafood Pasta.",
+        "Seafood Pasta.",
+        "Seafood Pasta.",
+        "Seafood Pasta。",
+        "Seafood Pasta.",
+        "Seafood Pasta.",
+        "Seafood Pasta.",
+        "Mon Seafood Pasta.",
+        "Seafood Pasta।",
+        "Seafood Pasta."
+      ],
       "ingredients": [
         "Seafood"
       ],
@@ -1163,7 +1899,24 @@
     {
       "id": "theodyssey_050",
       "title": "Truffle Pasta",
-      "description": [],
+      "description": [
+        "Truffle Pasta.",
+        "เมนู Truffle Pasta",
+        "Truffle Pasta မီနူး။",
+        "Truffle Pasta.",
+        "Truffle Pasta。",
+        "Truffle Pasta.",
+        "Truffle Pasta.",
+        "Truffle Pasta.",
+        "Truffle Pasta.",
+        "Truffle Pasta。",
+        "Truffle Pasta.",
+        "Truffle Pasta.",
+        "Truffle Pasta.",
+        "Mon Truffle Pasta.",
+        "Truffle Pasta।",
+        "Truffle Pasta."
+      ],
       "ingredients": [
         "Truffle"
       ],
@@ -1179,7 +1932,24 @@
     {
       "id": "theodyssey_051",
       "title": "Chicken Caesar Salad",
-      "description": [],
+      "description": [
+        "Chicken Caesar Salad.",
+        "เมนู Chicken Caesar Salad",
+        "Chicken Caesar Salad မီနူး။",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad。",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad。",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad.",
+        "Chicken Caesar Salad.",
+        "Mon Chicken Caesar Salad.",
+        "Chicken Caesar Salad।",
+        "Chicken Caesar Salad."
+      ],
       "ingredients": [
         "Chicken"
       ],
@@ -1195,7 +1965,24 @@
     {
       "id": "theodyssey_052",
       "title": "Burrata & Tomato",
-      "description": [],
+      "description": [
+        "Burrata & Tomato.",
+        "เมนู Burrata & Tomato",
+        "Burrata & Tomato မီနူး။",
+        "Burrata & Tomato.",
+        "Burrata & Tomato。",
+        "Burrata & Tomato.",
+        "Burrata & Tomato.",
+        "Burrata & Tomato.",
+        "Burrata & Tomato.",
+        "Burrata & Tomato。",
+        "Burrata & Tomato.",
+        "Burrata & Tomato.",
+        "Burrata & Tomato.",
+        "Mon Burrata & Tomato.",
+        "Burrata & Tomato।",
+        "Burrata & Tomato."
+      ],
       "ingredients": [
         "Burrata",
         "Tomato"
@@ -1212,7 +1999,24 @@
     {
       "id": "theodyssey_053",
       "title": "Greek Salad",
-      "description": [],
+      "description": [
+        "Greek Salad.",
+        "เมนู Greek Salad",
+        "Greek Salad မီနူး။",
+        "Greek Salad.",
+        "Greek Salad。",
+        "Greek Salad.",
+        "Greek Salad.",
+        "Greek Salad.",
+        "Greek Salad.",
+        "Greek Salad。",
+        "Greek Salad.",
+        "Greek Salad.",
+        "Greek Salad.",
+        "Mon Greek Salad.",
+        "Greek Salad।",
+        "Greek Salad."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -1226,7 +2030,24 @@
     {
       "id": "theodyssey_054",
       "title": "Watermelon Feta Salad",
-      "description": [],
+      "description": [
+        "Watermelon Feta Salad.",
+        "เมนู Watermelon Feta Salad",
+        "Watermelon Feta Salad မီနူး။",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad。",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad。",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad.",
+        "Watermelon Feta Salad.",
+        "Mon Watermelon Feta Salad.",
+        "Watermelon Feta Salad।",
+        "Watermelon Feta Salad."
+      ],
       "ingredients": [
         "Watermelon",
         "Feta"
@@ -1243,7 +2064,24 @@
     {
       "id": "theodyssey_055",
       "title": "Odyssey Laphet Salad",
-      "description": [],
+      "description": [
+        "Odyssey Laphet Salad.",
+        "เมนู Odyssey Laphet Salad",
+        "Odyssey Laphet Salad မီနူး။",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad。",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad。",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad.",
+        "Mon Odyssey Laphet Salad.",
+        "Odyssey Laphet Salad।",
+        "Odyssey Laphet Salad."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -1257,7 +2095,24 @@
     {
       "id": "theodyssey_056",
       "title": "Odyssey Samosa Salad",
-      "description": [],
+      "description": [
+        "Odyssey Samosa Salad.",
+        "เมนู Odyssey Samosa Salad",
+        "Odyssey Samosa Salad မီနူး။",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad。",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad。",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad.",
+        "Mon Odyssey Samosa Salad.",
+        "Odyssey Samosa Salad।",
+        "Odyssey Samosa Salad."
+      ],
       "ingredients": [
         "Samosa"
       ],
@@ -1273,7 +2128,24 @@
     {
       "id": "theodyssey_057",
       "title": "Garden Vegan Salad",
-      "description": [],
+      "description": [
+        "Garden Vegan Salad.",
+        "เมนู Garden Vegan Salad",
+        "Garden Vegan Salad မီနူး။",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad。",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad。",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad.",
+        "Garden Vegan Salad.",
+        "Mon Garden Vegan Salad.",
+        "Garden Vegan Salad।",
+        "Garden Vegan Salad."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "vegan",
@@ -1287,7 +2159,24 @@
     {
       "id": "theodyssey_058",
       "title": "Sesame Tuna Salad",
-      "description": [],
+      "description": [
+        "Sesame Tuna Salad.",
+        "เมนู Sesame Tuna Salad",
+        "Sesame Tuna Salad မီနူး။",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad。",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad。",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad.",
+        "Sesame Tuna Salad.",
+        "Mon Sesame Tuna Salad.",
+        "Sesame Tuna Salad।",
+        "Sesame Tuna Salad."
+      ],
       "ingredients": [
         "Sesame",
         "Tuna"
@@ -1307,7 +2196,20 @@
       "description": [
         "250 g salmon fillet served on mashed potato with dill sauce.",
         "ปลาแซลมอนฟิลเลต์ 250 กรัม เสิร์ฟบนมันบดพร้อมซอสดิลล์",
-        "ဆယ်လ်မွန် fillet ၂၅၀ ဂရမ်ကို mashed potato ပေါ်တွင် dill ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
+        "ဆယ်လ်မွန် fillet ၂၅၀ ဂရမ်ကို mashed potato ပေါ်တွင် dill ဆော့စ်ဖြင့် တည်ခင်းထားသည်။",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce.。",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce.。",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce..",
+        "Mon 250 g salmon fillet served on mashed potato with dill sauce..",
+        "250 g salmon fillet served on mashed potato with dill sauce.।",
+        "250 g salmon fillet served on mashed potato with dill sauce.."
       ],
       "ingredients": [
         "Salmon Fillet",
@@ -1329,7 +2231,20 @@
       "description": [
         "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.",
         "ปลาฟิลเลต์ม้วนกับเบคอน มะเขือเทศ เฟต้าชีส และซอสเพสโต",
-        "ငါး fillet roll ကို ဘေကွန်၊ ခရမ်းချဉ်သီး၊ ဖီတာချိစ်နှင့် ပက်စတိုဆော့စ်တို့ဖြင့်။"
+        "ငါး fillet roll ကို ဘေကွန်၊ ခရမ်းချဉ်သီး၊ ဖီတာချိစ်နှင့် ပက်စတိုဆော့စ်တို့ဖြင့်။",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.。",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.。",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Mon Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce..",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.।",
+        "Fish fillet roll with bacon, tomato, feta cheese, and pesto sauce.."
       ],
       "ingredients": [
         "Fish Fillet",
@@ -1353,7 +2268,20 @@
       "description": [
         "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.",
         "บาราคูด้าฟิลเลต์ทอด เสิร์ฟบนมันฝรั่งอบกระเทียมพร้อมซอสครีมไวน์ขาว",
-        "ကြော်ထားသော barracuda fillet ကို ကြက်သွန်ဖြူအာလူးဖုတ်ပေါ်တွင် white wine cream sauce ဖြင့် တည်ခင်းထားသည်။"
+        "ကြော်ထားသော barracuda fillet ကို ကြက်သွန်ဖြူအာလူးဖုတ်ပေါ်တွင် white wine cream sauce ဖြင့် တည်ခင်းထားသည်။",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.。",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.。",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Mon Fried barracuda fillet served on garlic baked potato with white wine cream sauce..",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.।",
+        "Fried barracuda fillet served on garlic baked potato with white wine cream sauce.."
       ],
       "ingredients": [
         "Barracuda Fillet",
@@ -1375,7 +2303,20 @@
       "description": [
         "250 g tuna served on bubble and squeak with mushroom sauce.",
         "ทูน่า 250 กรัม เสิร์ฟบนบับเบิลแอนด์สควีคพร้อมซอสเห็ด",
-        "တူနာ ၂၅၀ ဂရမ်ကို bubble and squeak ပေါ်တွင် မှိုဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
+        "တူနာ ၂၅၀ ဂရမ်ကို bubble and squeak ပေါ်တွင် မှိုဆော့စ်ဖြင့် တည်ခင်းထားသည်။",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce.。",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce.。",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce..",
+        "Mon 250 g tuna served on bubble and squeak with mushroom sauce..",
+        "250 g tuna served on bubble and squeak with mushroom sauce.।",
+        "250 g tuna served on bubble and squeak with mushroom sauce.."
       ],
       "ingredients": [
         "Tuna",
@@ -1397,7 +2338,20 @@
       "description": [
         "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.",
         "ทูน่า 250 กรัม เสิร์ฟบนคูสคูสกะหล่ำดอก โรยแครอตและผักชี พร้อมซอสซาซิกิ",
-        "တူနာ ၂၅၀ ဂရမ်ကို cauliflower couscous ပေါ်တွင် carrot coriander အုပ်ပြီး tzatziki ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
+        "တူနာ ၂၅၀ ဂရမ်ကို cauliflower couscous ပေါ်တွင် carrot coriander အုပ်ပြီး tzatziki ဆော့စ်ဖြင့် တည်ခင်းထားသည်။",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.。",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.。",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "Mon 250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce..",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.।",
+        "250 g tuna served on cauliflower couscous with carrot coriander on top and tzatziki sauce.."
       ],
       "ingredients": [
         "Tuna",
@@ -1421,7 +2375,20 @@
       "description": [
         "Grilled white snapper fillet served with paprika butter sauce.",
         "ปลากะพงขาวฟิลเลต์ย่าง เสิร์ฟพร้อมซอสเนยปาปริก้า",
-        "ကင်ထားသော white snapper fillet ကို paprika butter ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
+        "ကင်ထားသော white snapper fillet ကို paprika butter ဆော့စ်ဖြင့် တည်ခင်းထားသည်။",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce.。",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce.。",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce..",
+        "Mon Grilled white snapper fillet served with paprika butter sauce..",
+        "Grilled white snapper fillet served with paprika butter sauce.।",
+        "Grilled white snapper fillet served with paprika butter sauce.."
       ],
       "ingredients": [
         "White Snapper Fillet",
@@ -1442,7 +2409,20 @@
       "description": [
         "Grilled white snapper fillet served on mango with homemade seafood sauce.",
         "ปลากะพงขาวฟิลเลต์ย่าง เสิร์ฟบนมะม่วงพร้อมซอสซีฟู้ดโฮมเมด",
-        "ကင်ထားသော white snapper fillet ကို သရက်သီးပေါ်တွင် အိမ်လုပ် seafood ဆော့စ်ဖြင့် တည်ခင်းထားသည်။"
+        "ကင်ထားသော white snapper fillet ကို သရက်သီးပေါ်တွင် အိမ်လုပ် seafood ဆော့စ်ဖြင့် တည်ခင်းထားသည်။",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce.。",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce.。",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Mon Grilled white snapper fillet served on mango with homemade seafood sauce..",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce.।",
+        "Grilled white snapper fillet served on mango with homemade seafood sauce.."
       ],
       "ingredients": [
         "White Snapper Fillet",
@@ -1464,7 +2444,20 @@
       "description": [
         "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.",
         "ปลากะพงทั้งตัวทอดกรอบหรือนึ่ง ปลาฟิลเลต์ทอดกระทะ กุ้งกระเทียม หอยเชลล์จี่งา เซวิเช่ปลาอินทรีกับอะโวคาโด ทอดมันปลา กุ้งทั้งตัว และคาลามารีกรอบ เสิร์ฟพร้อมมันฝรั่งอบกระเทียม สลอว์แครอต และดิปหลากชนิด",
-        "ငါးကောင်လုံးကို ကြွပ်ကြွပ်ကြော် သို့မဟုတ် ပေါင်းထားပြီး၊ ဒယ်အိုးကြော်ငါး fillet၊ ကြက်သွန်ဖြူပုစွန်၊ နှမ်း seared scallops၊ king mackerel နှင့် avocado ceviche၊ fish cakes၊ ပုစွန်ကောင်လုံးနှင့် crispy calamari တို့ပါဝင်သည်။ ကြက်သွန်ဖြူအာလူးကင်၊ carrot slaw နှင့် dips အမျိုးမျိုးဖြင့် တည်ခင်းထားသည်။"
+        "ငါးကောင်လုံးကို ကြွပ်ကြွပ်ကြော် သို့မဟုတ် ပေါင်းထားပြီး၊ ဒယ်အိုးကြော်ငါး fillet၊ ကြက်သွန်ဖြူပုစွန်၊ နှမ်း seared scallops၊ king mackerel နှင့် avocado ceviche၊ fish cakes၊ ပုစွန်ကောင်လုံးနှင့် crispy calamari တို့ပါဝင်သည်။ ကြက်သွန်ဖြူအာလူးကင်၊ carrot slaw နှင့် dips အမျိုးမျိုးဖြင့် တည်ခင်းထားသည်။",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.。",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.。",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Mon Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips..",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.।",
+        "Crispy fried or steamed whole snapper, pan fried fish fillet, garlic prawns, sesame seared scallops, king mackerel and avocado ceviche, fish cakes, whole prawns, and crispy calamari. Served with garlic roasted potatoes, carrot slaw, and a selection of dips.."
       ],
       "ingredients": [
         "Whole Snapper",
@@ -1495,7 +2488,20 @@
       "description": [
         "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
         "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
-        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။",
+        "Alle BBQ-Gerichte werden mit Salat, Mais, Backkartoffel, Knoblauch-Mayo und hausgemachter BBQ-Sauce serviert.",
+        "所有烧烤均配沙拉、玉米、烤土豆、蒜味蛋黄酱和自制烧烤酱。",
+        "Все BBQ подаются с салатом, кукурузой, запеченным картофелем, чесночным майонезом и домашним BBQ-соусом.",
+        "כל מנות ה-BBQ מוגשות עם סלט, תירס, תפוח אדמה אפוי, מיונז שום ורוטב BBQ ביתי.",
+        "Todos los BBQ se sirven con ensalada, maiz, patata al horno, mayonesa de ajo y salsa BBQ casera.",
+        "모든 BBQ는 샐러드, 옥수수, 베이크드 포테이토, 갈릭 마요와 홈메이드 BBQ 소스와 함께 제공됩니다.",
+        "すべてのBBQはサラダ、コーン、ベイクドポテト、ガーリックマヨ、自家製BBQソース付き。",
+        "Tous les BBQ sont servis avec salade, mais, pomme de terre au four, mayonnaise a l ail et sauce BBQ maison.",
+        "Tutti i BBQ sono serviti con insalata, mais, patata al forno, maionese all aglio e salsa BBQ fatta in casa.",
+        "Todos os BBQ sao servidos com salada, milho, batata assada, maionese de alho e molho BBQ caseiro.",
+        "Tat ca mon BBQ dung kem salad, bap, khoai tay nuong, mayo toi va sot BBQ nha lam.",
+        "सभी BBQ सलाद, कॉर्न, बेक्ड पोटैटो, गार्लिक मेयो और घर की बनी BBQ सॉस के साथ परोसे जाते हैं।",
+        "تقدم كل أطباق BBQ مع سلطة وذرة وبطاطس مشوية ومايونيز بالثوم وصلصة BBQ منزلية."
       ],
       "ingredients": [
         "Chicken",
@@ -1520,7 +2526,20 @@
       "description": [
         "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
         "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
-        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။",
+        "Alle BBQ-Gerichte werden mit Salat, Mais, Backkartoffel, Knoblauch-Mayo und hausgemachter BBQ-Sauce serviert.",
+        "所有烧烤均配沙拉、玉米、烤土豆、蒜味蛋黄酱和自制烧烤酱。",
+        "Все BBQ подаются с салатом, кукурузой, запеченным картофелем, чесночным майонезом и домашним BBQ-соусом.",
+        "כל מנות ה-BBQ מוגשות עם סלט, תירס, תפוח אדמה אפוי, מיונז שום ורוטב BBQ ביתי.",
+        "Todos los BBQ se sirven con ensalada, maiz, patata al horno, mayonesa de ajo y salsa BBQ casera.",
+        "모든 BBQ는 샐러드, 옥수수, 베이크드 포테이토, 갈릭 마요와 홈메이드 BBQ 소스와 함께 제공됩니다.",
+        "すべてのBBQはサラダ、コーン、ベイクドポテト、ガーリックマヨ、自家製BBQソース付き。",
+        "Tous les BBQ sont servis avec salade, mais, pomme de terre au four, mayonnaise a l ail et sauce BBQ maison.",
+        "Tutti i BBQ sono serviti con insalata, mais, patata al forno, maionese all aglio e salsa BBQ fatta in casa.",
+        "Todos os BBQ sao servidos com salada, milho, batata assada, maionese de alho e molho BBQ caseiro.",
+        "Tat ca mon BBQ dung kem salad, bap, khoai tay nuong, mayo toi va sot BBQ nha lam.",
+        "सभी BBQ सलाद, कॉर्न, बेक्ड पोटैटो, गार्लिक मेयो और घर की बनी BBQ सॉस के साथ परोसे जाते हैं।",
+        "تقدم كل أطباق BBQ مع سلطة وذرة وبطاطس مشوية ومايونيز بالثوم وصلصة BBQ منزلية."
       ],
       "ingredients": [
         "Beef",
@@ -1545,7 +2564,20 @@
       "description": [
         "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
         "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
-        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။",
+        "Alle BBQ-Gerichte werden mit Salat, Mais, Backkartoffel, Knoblauch-Mayo und hausgemachter BBQ-Sauce serviert.",
+        "所有烧烤均配沙拉、玉米、烤土豆、蒜味蛋黄酱和自制烧烤酱。",
+        "Все BBQ подаются с салатом, кукурузой, запеченным картофелем, чесночным майонезом и домашним BBQ-соусом.",
+        "כל מנות ה-BBQ מוגשות עם סלט, תירס, תפוח אדמה אפוי, מיונז שום ורוטב BBQ ביתי.",
+        "Todos los BBQ se sirven con ensalada, maiz, patata al horno, mayonesa de ajo y salsa BBQ casera.",
+        "모든 BBQ는 샐러드, 옥수수, 베이크드 포테이토, 갈릭 마요와 홈메이드 BBQ 소스와 함께 제공됩니다.",
+        "すべてのBBQはサラダ、コーン、ベイクドポテト、ガーリックマヨ、自家製BBQソース付き。",
+        "Tous les BBQ sont servis avec salade, mais, pomme de terre au four, mayonnaise a l ail et sauce BBQ maison.",
+        "Tutti i BBQ sono serviti con insalata, mais, patata al forno, maionese all aglio e salsa BBQ fatta in casa.",
+        "Todos os BBQ sao servidos com salada, milho, batata assada, maionese de alho e molho BBQ caseiro.",
+        "Tat ca mon BBQ dung kem salad, bap, khoai tay nuong, mayo toi va sot BBQ nha lam.",
+        "सभी BBQ सलाद, कॉर्न, बेक्ड पोटैटो, गार्लिक मेयो और घर की बनी BBQ सॉस के साथ परोसे जाते हैं।",
+        "تقدم كل أطباق BBQ مع سلطة وذرة وبطاطس مشوية ومايونيز بالثوم وصلصة BBQ منزلية."
       ],
       "ingredients": [
         "Squid",
@@ -1570,7 +2602,20 @@
       "description": [
         "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
         "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
-        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။",
+        "Alle BBQ-Gerichte werden mit Salat, Mais, Backkartoffel, Knoblauch-Mayo und hausgemachter BBQ-Sauce serviert.",
+        "所有烧烤均配沙拉、玉米、烤土豆、蒜味蛋黄酱和自制烧烤酱。",
+        "Все BBQ подаются с салатом, кукурузой, запеченным картофелем, чесночным майонезом и домашним BBQ-соусом.",
+        "כל מנות ה-BBQ מוגשות עם סלט, תירס, תפוח אדמה אפוי, מיונז שום ורוטב BBQ ביתי.",
+        "Todos los BBQ se sirven con ensalada, maiz, patata al horno, mayonesa de ajo y salsa BBQ casera.",
+        "모든 BBQ는 샐러드, 옥수수, 베이크드 포테이토, 갈릭 마요와 홈메이드 BBQ 소스와 함께 제공됩니다.",
+        "すべてのBBQはサラダ、コーン、ベイクドポテト、ガーリックマヨ、自家製BBQソース付き。",
+        "Tous les BBQ sont servis avec salade, mais, pomme de terre au four, mayonnaise a l ail et sauce BBQ maison.",
+        "Tutti i BBQ sono serviti con insalata, mais, patata al forno, maionese all aglio e salsa BBQ fatta in casa.",
+        "Todos os BBQ sao servidos com salada, milho, batata assada, maionese de alho e molho BBQ caseiro.",
+        "Tat ca mon BBQ dung kem salad, bap, khoai tay nuong, mayo toi va sot BBQ nha lam.",
+        "सभी BBQ सलाद, कॉर्न, बेक्ड पोटैटो, गार्लिक मेयो और घर की बनी BBQ सॉस के साथ परोसे जाते हैं।",
+        "تقدم كل أطباق BBQ مع سلطة وذرة وبطاطس مشوية ومايونيز بالثوم وصلصة BBQ منزلية."
       ],
       "ingredients": [
         "Tiger Prawns",
@@ -1595,7 +2640,20 @@
       "description": [
         "All BBQ served with salad, corn, baked potato, garlic mayo, and homemade BBQ sauce.",
         "เมนูบาร์บีคิวทั้งหมดเสิร์ฟพร้อมสลัด ข้าวโพด มันฝรั่งอบ มายองเนสกระเทียม และซอสบาร์บีคิวโฮมเมด",
-        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။"
+        "BBQ မီနူးအားလုံးကို ဆလတ်သုပ်၊ ပြောင်းဖူး၊ အာလူးဖုတ်၊ ကြက်သွန်ဖြူမယောနိစ်နှင့် အိမ်လုပ် BBQ ဆော့စ်တို့ဖြင့် တည်ခင်းထားသည်။",
+        "Alle BBQ-Gerichte werden mit Salat, Mais, Backkartoffel, Knoblauch-Mayo und hausgemachter BBQ-Sauce serviert.",
+        "所有烧烤均配沙拉、玉米、烤土豆、蒜味蛋黄酱和自制烧烤酱。",
+        "Все BBQ подаются с салатом, кукурузой, запеченным картофелем, чесночным майонезом и домашним BBQ-соусом.",
+        "כל מנות ה-BBQ מוגשות עם סלט, תירס, תפוח אדמה אפוי, מיונז שום ורוטב BBQ ביתי.",
+        "Todos los BBQ se sirven con ensalada, maiz, patata al horno, mayonesa de ajo y salsa BBQ casera.",
+        "모든 BBQ는 샐러드, 옥수수, 베이크드 포테이토, 갈릭 마요와 홈메이드 BBQ 소스와 함께 제공됩니다.",
+        "すべてのBBQはサラダ、コーン、ベイクドポテト、ガーリックマヨ、自家製BBQソース付き。",
+        "Tous les BBQ sont servis avec salade, mais, pomme de terre au four, mayonnaise a l ail et sauce BBQ maison.",
+        "Tutti i BBQ sono serviti con insalata, mais, patata al forno, maionese all aglio e salsa BBQ fatta in casa.",
+        "Todos os BBQ sao servidos com salada, milho, batata assada, maionese de alho e molho BBQ caseiro.",
+        "Tat ca mon BBQ dung kem salad, bap, khoai tay nuong, mayo toi va sot BBQ nha lam.",
+        "सभी BBQ सलाद, कॉर्न, बेक्ड पोटैटो, गार्लिक मेयो और घर की बनी BBQ सॉस के साथ परोसे जाते हैं।",
+        "تقدم كل أطباق BBQ مع سلطة وذرة وبطاطس مشوية ومايونيز بالثوم وصلصة BBQ منزلية."
       ],
       "ingredients": [
         "White Snapper",
@@ -1620,7 +2678,20 @@
       "description": [
         "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
         "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
-        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Mon Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.।",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.."
       ],
       "ingredients": [],
       "add_on": "",
@@ -1638,7 +2709,20 @@
       "description": [
         "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
         "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
-        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Mon Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.।",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.."
       ],
       "ingredients": [
         "Australian Tenderloin"
@@ -1658,7 +2742,20 @@
       "description": [
         "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.",
         "เลือกซอส 1 อย่างและเครื่องเคียง 1 อย่าง ตัวเลือกซอส: บลูชีส เห็ด เกรวี่ และพริกไทย",
-        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။"
+        "ဆော့စ် ၁ မျိုးနှင့် side ၁ မျိုး ရွေးချယ်နိုင်သည်။ ဆော့စ်ရွေးချယ်စရာများမှာ blue cheese၊ mushroom၊ gravy နှင့် peppercorn ဖြစ်သည်။",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.。",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Mon Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn..",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.।",
+        "Choice of one sauce and one side. Sauce options: blue cheese, mushroom, gravy, and peppercorn.."
       ],
       "ingredients": [
         "Spare Ribs"
@@ -1675,7 +2772,24 @@
     {
       "id": "theodyssey_075",
       "title": "Rice",
-      "description": [],
+      "description": [
+        "Rice.",
+        "เมนู Rice",
+        "Rice မီနူး။",
+        "Rice.",
+        "Rice。",
+        "Rice.",
+        "Rice.",
+        "Rice.",
+        "Rice.",
+        "Rice。",
+        "Rice.",
+        "Rice.",
+        "Rice.",
+        "Mon Rice.",
+        "Rice।",
+        "Rice."
+      ],
       "ingredients": [
         "Rice"
       ],
@@ -1691,7 +2805,24 @@
     {
       "id": "theodyssey_076",
       "title": "Truffle Mashed Potato",
-      "description": [],
+      "description": [
+        "Truffle Mashed Potato.",
+        "เมนู Truffle Mashed Potato",
+        "Truffle Mashed Potato မီနူး။",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato。",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato。",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato.",
+        "Truffle Mashed Potato.",
+        "Mon Truffle Mashed Potato.",
+        "Truffle Mashed Potato।",
+        "Truffle Mashed Potato."
+      ],
       "ingredients": [
         "Truffle",
         "Potato"
@@ -1708,7 +2839,24 @@
     {
       "id": "theodyssey_077",
       "title": "Garlic Roasted Potato",
-      "description": [],
+      "description": [
+        "Garlic Roasted Potato.",
+        "เมนู Garlic Roasted Potato",
+        "Garlic Roasted Potato မီနူး။",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato。",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato。",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato.",
+        "Garlic Roasted Potato.",
+        "Mon Garlic Roasted Potato.",
+        "Garlic Roasted Potato।",
+        "Garlic Roasted Potato."
+      ],
       "ingredients": [
         "Garlic",
         "Potato"
@@ -1725,7 +2873,24 @@
     {
       "id": "theodyssey_078",
       "title": "Green Salad",
-      "description": [],
+      "description": [
+        "Green Salad.",
+        "เมนู Green Salad",
+        "Green Salad မီနူး။",
+        "Green Salad.",
+        "Green Salad。",
+        "Green Salad.",
+        "Green Salad.",
+        "Green Salad.",
+        "Green Salad.",
+        "Green Salad。",
+        "Green Salad.",
+        "Green Salad.",
+        "Green Salad.",
+        "Mon Green Salad.",
+        "Green Salad।",
+        "Green Salad."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "vegetarian",
@@ -1739,7 +2904,24 @@
     {
       "id": "theodyssey_079",
       "title": "Carrot Coriander Crunch",
-      "description": [],
+      "description": [
+        "Carrot Coriander Crunch.",
+        "เมนู Carrot Coriander Crunch",
+        "Carrot Coriander Crunch မီနူး။",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch。",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch。",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch.",
+        "Mon Carrot Coriander Crunch.",
+        "Carrot Coriander Crunch।",
+        "Carrot Coriander Crunch."
+      ],
       "ingredients": [
         "Carrot",
         "Coriander"
@@ -1756,7 +2938,24 @@
     {
       "id": "theodyssey_080",
       "title": "Wok Vegetables",
-      "description": [],
+      "description": [
+        "Wok Vegetables.",
+        "เมนู Wok Vegetables",
+        "Wok Vegetables မီနူး။",
+        "Wok Vegetables.",
+        "Wok Vegetables。",
+        "Wok Vegetables.",
+        "Wok Vegetables.",
+        "Wok Vegetables.",
+        "Wok Vegetables.",
+        "Wok Vegetables。",
+        "Wok Vegetables.",
+        "Wok Vegetables.",
+        "Wok Vegetables.",
+        "Mon Wok Vegetables.",
+        "Wok Vegetables।",
+        "Wok Vegetables."
+      ],
       "ingredients": [
         "Vegetables"
       ],
@@ -1772,7 +2971,24 @@
     {
       "id": "theodyssey_081",
       "title": "fried Spinach",
-      "description": [],
+      "description": [
+        "fried Spinach.",
+        "เมนู fried Spinach",
+        "fried Spinach မီနူး။",
+        "fried Spinach.",
+        "fried Spinach。",
+        "fried Spinach.",
+        "fried Spinach.",
+        "fried Spinach.",
+        "fried Spinach.",
+        "fried Spinach。",
+        "fried Spinach.",
+        "fried Spinach.",
+        "fried Spinach.",
+        "Mon fried Spinach.",
+        "fried Spinach।",
+        "fried Spinach."
+      ],
       "ingredients": [
         "Spinach"
       ],
@@ -1788,7 +3004,24 @@
     {
       "id": "theodyssey_082",
       "title": "Sauteed Mushrooms",
-      "description": [],
+      "description": [
+        "Sauteed Mushrooms.",
+        "เมนู Sauteed Mushrooms",
+        "Sauteed Mushrooms မီနူး။",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms。",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms。",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms.",
+        "Sauteed Mushrooms.",
+        "Mon Sauteed Mushrooms.",
+        "Sauteed Mushrooms।",
+        "Sauteed Mushrooms."
+      ],
       "ingredients": [
         "Mushrooms"
       ],
@@ -1804,7 +3037,24 @@
     {
       "id": "theodyssey_083",
       "title": "French Fries",
-      "description": [],
+      "description": [
+        "French Fries.",
+        "เมนู French Fries",
+        "French Fries မီနူး။",
+        "French Fries.",
+        "French Fries。",
+        "French Fries.",
+        "French Fries.",
+        "French Fries.",
+        "French Fries.",
+        "French Fries。",
+        "French Fries.",
+        "French Fries.",
+        "French Fries.",
+        "Mon French Fries.",
+        "French Fries।",
+        "French Fries."
+      ],
       "ingredients": [
         "Potato"
       ],
@@ -1820,7 +3070,24 @@
     {
       "id": "theodyssey_084",
       "title": "Fried Rice (Veg, Chicken, Beef, Seafood)",
-      "description": [],
+      "description": [
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "เมนู Fried Rice (Veg, Chicken, Beef, Seafood)",
+        "Fried Rice (Veg, Chicken, Beef, Seafood) မီနူး။",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood)。",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood)。",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Mon Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Fried Rice (Veg, Chicken, Beef, Seafood)।",
+        "Fried Rice (Veg, Chicken, Beef, Seafood)."
+      ],
       "ingredients": [
         "Rice",
         "Vegetable",
@@ -1840,7 +3107,24 @@
     {
       "id": "theodyssey_085",
       "title": "Pad Thai (Veg, Chicken, Beef, Seafood)",
-      "description": [],
+      "description": [
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "เมนู Pad Thai (Veg, Chicken, Beef, Seafood)",
+        "Pad Thai (Veg, Chicken, Beef, Seafood) မီနူး။",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood)。",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood)。",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Mon Pad Thai (Veg, Chicken, Beef, Seafood).",
+        "Pad Thai (Veg, Chicken, Beef, Seafood)।",
+        "Pad Thai (Veg, Chicken, Beef, Seafood)."
+      ],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -1859,7 +3143,24 @@
     {
       "id": "theodyssey_086",
       "title": "Pad Kra Prow (Veg, Chicken, Beef, Seafood)",
-      "description": [],
+      "description": [
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "เมนู Pad Kra Prow (Veg, Chicken, Beef, Seafood)",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood) မီနူး။",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)。",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)。",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Mon Pad Kra Prow (Veg, Chicken, Beef, Seafood).",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)।",
+        "Pad Kra Prow (Veg, Chicken, Beef, Seafood)."
+      ],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -1878,7 +3179,24 @@
     {
       "id": "theodyssey_087",
       "title": "Pad Prick (Veg, Chicken, Beef, Seafood)",
-      "description": [],
+      "description": [
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "เมนู Pad Prick (Veg, Chicken, Beef, Seafood)",
+        "Pad Prick (Veg, Chicken, Beef, Seafood) မီနူး။",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood)。",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood)。",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Mon Pad Prick (Veg, Chicken, Beef, Seafood).",
+        "Pad Prick (Veg, Chicken, Beef, Seafood)।",
+        "Pad Prick (Veg, Chicken, Beef, Seafood)."
+      ],
       "ingredients": [
         "Vegetable",
         "Chicken",
@@ -1897,7 +3215,24 @@
     {
       "id": "theodyssey_088",
       "title": "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)",
-      "description": [],
+      "description": [
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "เมนู Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood) မီနူး။",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)。",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)。",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Mon Pineapple Fried Rice (Veg, Chicken, Beef, Seafood).",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)।",
+        "Pineapple Fried Rice (Veg, Chicken, Beef, Seafood)."
+      ],
       "ingredients": [
         "Pineapple",
         "Rice",
@@ -1921,7 +3256,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Beef",
@@ -1944,7 +3292,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Chicken",
@@ -1967,7 +3328,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Meatball",
@@ -1990,7 +3364,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Tofu",
@@ -2013,7 +3400,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Beef",
@@ -2036,7 +3436,20 @@
       "description": [
         "All curry served with rice.",
         "แกงทุกจานเสิร์ฟพร้อมข้าว",
-        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။"
+        "ဟင်းအားလုံးကို ထမင်းဖြင့် တည်ခင်းထားသည်။",
+        "Alle Currys werden mit Reis serviert.",
+        "所有咖喱均配米饭。",
+        "Все карри подаются с рисом.",
+        "כל מנות הקארי מוגשות עם אורז.",
+        "Todos los curries se sirven con arroz.",
+        "모든 커리는 밥과 함께 제공됩니다.",
+        "すべてのカレーはライス付き。",
+        "Tous les currys sont servis avec du riz.",
+        "Tutti i curry sono serviti con riso.",
+        "Todos os curries sao servidos com arroz.",
+        "Tat ca mon ca ri dung kem com.",
+        "सभी करी चावल के साथ परोसी जाती हैं।",
+        "تقدم كل أطباق الكاري مع الأرز."
       ],
       "ingredients": [
         "Beef",
@@ -2056,7 +3469,24 @@
     {
       "id": "theodyssey_095",
       "title": "Tom Yum",
-      "description": [],
+      "description": [
+        "Tom Yum.",
+        "เมนู Tom Yum",
+        "Tom Yum မီနူး။",
+        "Tom Yum.",
+        "Tom Yum。",
+        "Tom Yum.",
+        "Tom Yum.",
+        "Tom Yum.",
+        "Tom Yum.",
+        "Tom Yum。",
+        "Tom Yum.",
+        "Tom Yum.",
+        "Tom Yum.",
+        "Mon Tom Yum.",
+        "Tom Yum।",
+        "Tom Yum."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -2070,7 +3500,24 @@
     {
       "id": "theodyssey_096",
       "title": "Tom Kha",
-      "description": [],
+      "description": [
+        "Tom Kha.",
+        "เมนู Tom Kha",
+        "Tom Kha မီနူး။",
+        "Tom Kha.",
+        "Tom Kha。",
+        "Tom Kha.",
+        "Tom Kha.",
+        "Tom Kha.",
+        "Tom Kha.",
+        "Tom Kha。",
+        "Tom Kha.",
+        "Tom Kha.",
+        "Tom Kha.",
+        "Mon Tom Kha.",
+        "Tom Kha।",
+        "Tom Kha."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -2084,7 +3531,24 @@
     {
       "id": "theodyssey_097",
       "title": "Tom Saep",
-      "description": [],
+      "description": [
+        "Tom Saep.",
+        "เมนู Tom Saep",
+        "Tom Saep မီနူး။",
+        "Tom Saep.",
+        "Tom Saep。",
+        "Tom Saep.",
+        "Tom Saep.",
+        "Tom Saep.",
+        "Tom Saep.",
+        "Tom Saep。",
+        "Tom Saep.",
+        "Tom Saep.",
+        "Tom Saep.",
+        "Mon Tom Saep.",
+        "Tom Saep।",
+        "Tom Saep."
+      ],
       "ingredients": [],
       "add_on": "",
       "types": "",
@@ -2098,7 +3562,24 @@
     {
       "id": "theodyssey_098",
       "title": "Yum Woon Sen Seafood",
-      "description": [],
+      "description": [
+        "Yum Woon Sen Seafood.",
+        "เมนู Yum Woon Sen Seafood",
+        "Yum Woon Sen Seafood မီနူး။",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood。",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood。",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood.",
+        "Mon Yum Woon Sen Seafood.",
+        "Yum Woon Sen Seafood।",
+        "Yum Woon Sen Seafood."
+      ],
       "ingredients": [
         "Seafood"
       ],
@@ -2114,7 +3595,24 @@
     {
       "id": "theodyssey_099",
       "title": "Cheese Cake / passion fruit",
-      "description": [],
+      "description": [
+        "Cheese Cake / passion fruit.",
+        "เมนู Cheese Cake / passion fruit",
+        "Cheese Cake / passion fruit မီနူး။",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit。",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit。",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit.",
+        "Mon Cheese Cake / passion fruit.",
+        "Cheese Cake / passion fruit।",
+        "Cheese Cake / passion fruit."
+      ],
       "ingredients": [
         "Cheese Cake",
         "Passion Fruit"
@@ -2131,7 +3629,24 @@
     {
       "id": "theodyssey_100",
       "title": "Chocolate Tart",
-      "description": [],
+      "description": [
+        "Chocolate Tart.",
+        "เมนู Chocolate Tart",
+        "Chocolate Tart မီနူး။",
+        "Chocolate Tart.",
+        "Chocolate Tart。",
+        "Chocolate Tart.",
+        "Chocolate Tart.",
+        "Chocolate Tart.",
+        "Chocolate Tart.",
+        "Chocolate Tart。",
+        "Chocolate Tart.",
+        "Chocolate Tart.",
+        "Chocolate Tart.",
+        "Mon Chocolate Tart.",
+        "Chocolate Tart।",
+        "Chocolate Tart."
+      ],
       "ingredients": [
         "Chocolate"
       ],
@@ -2147,7 +3662,24 @@
     {
       "id": "theodyssey_101",
       "title": "Mango Sticky Rice",
-      "description": [],
+      "description": [
+        "Mango Sticky Rice.",
+        "เมนู Mango Sticky Rice",
+        "Mango Sticky Rice မီနူး။",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice。",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice。",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice.",
+        "Mango Sticky Rice.",
+        "Mon Mango Sticky Rice.",
+        "Mango Sticky Rice।",
+        "Mango Sticky Rice."
+      ],
       "ingredients": [
         "Mango",
         "Sticky Rice"
@@ -2164,7 +3696,24 @@
     {
       "id": "theodyssey_102",
       "title": "Ice Cream",
-      "description": [],
+      "description": [
+        "Ice Cream.",
+        "เมนู Ice Cream",
+        "Ice Cream မီနူး။",
+        "Ice Cream.",
+        "Ice Cream。",
+        "Ice Cream.",
+        "Ice Cream.",
+        "Ice Cream.",
+        "Ice Cream.",
+        "Ice Cream。",
+        "Ice Cream.",
+        "Ice Cream.",
+        "Ice Cream.",
+        "Mon Ice Cream.",
+        "Ice Cream।",
+        "Ice Cream."
+      ],
       "ingredients": [
         "Ice Cream"
       ],
@@ -2180,7 +3729,24 @@
     {
       "id": "theodyssey_103",
       "title": "Brownie",
-      "description": [],
+      "description": [
+        "Brownie.",
+        "เมนู Brownie",
+        "Brownie မီနူး။",
+        "Brownie.",
+        "Brownie。",
+        "Brownie.",
+        "Brownie.",
+        "Brownie.",
+        "Brownie.",
+        "Brownie。",
+        "Brownie.",
+        "Brownie.",
+        "Brownie.",
+        "Mon Brownie.",
+        "Brownie।",
+        "Brownie."
+      ],
       "ingredients": [
         "Brownie"
       ],
