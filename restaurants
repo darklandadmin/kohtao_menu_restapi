@@ -1,8 +1,8 @@
 {
     "restaurants": [
         {
-            "username": "demo",
-            "name": "🟠YourWaiter Restaurant ",
+            "username": "default",
+            "name": "Test Restaurant ",
             "logo": "https://i.postimg.cc/cHVgVTZM/yourwaiter.png",
             "about": [
                 ""
@@ -19,6 +19,16 @@
                 "Burmese Food Restaurant"
             ],
             "cuisine": "Burmese",
+            "restaurant": true
+        },
+ {
+            "username": "theodyssey",
+            "name": "The Odyssey Phuket",
+            "logo": "",
+            "about": [
+                "Bar & Restaurant"
+            ],
+            "cuisine": "International",
             "restaurant": true
         }
 ]}
