@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome · Join Us</title>
+  <!-- Pure CSS & JS – no external libraries -->
+  <style>
+    /* ---------- GLOBAL RESET & BASE ---------- */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      background: linear-gradient(145deg, #0b0f1c 0%, #1a1f33 100%);
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.5rem;
+      color: #ffffff;
+    }
+
+    /* ---------- MAIN CARD (glassmorphism) ---------- */
+    .welcome-card {
+      max-width: 760px;
+      width: 100%;
+      background: rgba(20, 30, 50, 0.65);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-radius: 3rem 1rem 3rem 1rem;
+      border: 1px solid rgba(100, 200, 255, 0.25);
+      box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(0, 255, 255, 0.1) inset;
+      padding: 3rem 2.5rem;
+      transition: all 0.3s ease;
+      animation: cardGlow 4s infinite alternate;
+    }
+
+    @keyframes cardGlow {
+      0% { box-shadow: 0 25px 50px -10px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(0, 180, 255, 0.2) inset; }
+      100% { box-shadow: 0 25px 60px -5px rgba(0, 150, 255, 0.4), 0 0 0 2px rgba(0, 230, 250, 0.4) inset; }
+    }
+
+    /* ---------- TYPOGRAPHY ---------- */
+    .greeting {
+      font-size: 1.2rem;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      font-weight: 400;
+      color: #7fc9ff;
+      margin-bottom: 0.5rem;
+    }
+
+    .headline {
+      font-size: clamp(2.8rem, 8vw, 4.5rem);
+      font-weight: 800;
+      line-height: 1.1;
+      background: linear-gradient(135deg, #ffffff 0%, #a0e0ff 80%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      margin-bottom: 1.5rem;
+      text-shadow: 0 0 30px rgba(0, 180, 255, 0.5);
+      letter-spacing: -0.02em;
+    }
+
+    .subhead {
+      font-size: 1.3rem;
+      font-weight: 400;
+      color: #c0d0e6;
+      margin-bottom: 2.5rem;
+      border-left: 5px solid #2f8fff;
+      padding-left: 1.5rem;
+      background: linear-gradient(90deg, rgba(47, 143, 255, 0.15), transparent);
+      border-radius: 0 8px 8px 0;
+      line-height: 1.5;
+    }
+
+    /* ---------- CONTACT AREA ---------- */
+    .contact-block {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.8rem;
+      background: rgba(0, 20, 40, 0.6);
+      padding: 1.5rem 2rem;
+      border-radius: 2rem 0.8rem 2rem 0.8rem;
+      border: 1px solid rgba(64, 224, 255, 0.3);
+      box-shadow: 0 8px 20px -8px #00000080;
+      margin-bottom: 2rem;
+    }
+
+    .contact-label {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      font-size: 1.2rem;
+      font-weight: 500;
+      color: #b0e0ff;
+    }
+
+    .contact-label span[role="img"] {
+      font-size: 2rem;
+      filter: drop-shadow(0 0 8px #2f8fff);
+    }
+
+    /* phone number — clickable & copy-friendly */
+    .phone-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      background: linear-gradient(145deg, #0e1a2b, #0a121f);
+      padding: 0.9rem 2rem;
+      border-radius: 4rem;
+      text-decoration: none;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 1px;
+      border: 1px solid #2f8fff;
+      box-shadow: 0 0 20px rgba(47, 143, 255, 0.4);
+      transition: all 0.2s ease;
+      cursor: pointer;
+      user-select: all;
+      word-break: break-word;
+    }
+
+    .phone-link:hover,
+    .phone-link:focus-visible {
+      background: #122b44;
+      border-color: #7fc9ff;
+      box-shadow: 0 0 30px #2f8fff, 0 0 10px #7fc9ff inset;
+      transform: scale(1.02);
+      outline: none;
+    }
+
+    .phone-link:active {
+      transform: scale(0.98);
+      background: #091724;
+    }
+
+    .phone-link .icon {
+      font-size: 1.9rem;
+      filter: drop-shadow(0 0 6px #2f8fff);
+    }
+
+    /* ---------- ACTION BUTTONS (JOIN / COPY) ---------- */
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: flex-start;
+    }
+
+    .btn {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(100, 200, 255, 0.5);
+      color: #e0f0ff;
+      padding: 0.9rem 2rem;
+      border-radius: 3rem;
+      font-size: 1.1rem;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      backdrop-filter: blur(4px);
+      text-decoration: none;
+      letter-spacing: 0.5px;
+    }
+
+    .btn:hover {
+      background: rgba(47, 143, 255, 0.25);
+      border-color: #7fc9ff;
+      box-shadow: 0 0 20px rgba(47, 143, 255, 0.5);
+      transform: translateY(-2px);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+      background: rgba(47, 143, 255, 0.4);
+    }
+
+    .btn i {
+      font-style: normal;
+      font-size: 1.3rem;
+    }
+
+    /* ---------- COPY FEEDBACK TOAST ---------- */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%) translateY(0);
+      background: #0e1e30;
+      color: #b5e6ff;
+      padding: 0.8rem 2rem;
+      border-radius: 4rem;
+      border: 1px solid #2f8fff;
+      box-shadow: 0 10px 30px #00000080, 0 0 20px #2f8fff80;
+      font-size: 1rem;
+      font-weight: 500;
+      backdrop-filter: blur(10px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      opacity: 0;
+      pointer-events: none;
+      z-index: 9999;
+      white-space: nowrap;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(-10px);
+      pointer-events: none;
+    }
+
+    /* ---------- FOOTER NOTE ---------- */
+    .footer-note {
+      margin-top: 2.5rem;
+      text-align: center;
+      font-size: 0.95rem;
+      color: #8599b0;
+      letter-spacing: 1px;
+      border-top: 1px dashed rgba(100, 200, 255, 0.2);
+      padding-top: 1.8rem;
+    }
+
+    .footer-note .highlight {
+      color: #7fc9ff;
+      font-weight: 600;
+    }
+
+    /* ---------- RESPONSIVE ---------- */
+    @media (max-width: 550px) {
+      .welcome-card {
+        padding: 2rem 1.5rem;
+      }
+
+      .contact-block {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.5rem;
+      }
+
+      .phone-link {
+        font-size: 1.5rem;
+        padding: 0.8rem 1.5rem;
+        width: 100%;
+        justify-content: center;
+      }
+
+      .actions {
+        width: 100%;
+        justify-content: center;
+      }
+
+      .btn {
+        flex: 1 1 auto;
+        justify-content: center;
+      }
+    }
+
+    @media (max-width: 380px) {
+      .phone-link {
+        font-size: 1.3rem;
+        letter-spacing: 0;
+      }
+      .headline {
+        font-size: 2.2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- main card -->
+  <main class="welcome-card">
+    <div class="greeting">✦ WELCOME ✦</div>
+    <h1 class="headline">JOIN US</h1>
+    <div class="subhead">
+      Let’s build something great together.
+    </div>
+
+    <!-- contact & phone highlight -->
+    <div class="contact-block">
+      <div class="contact-label">
+        <span role="img" aria-label="phone">📞</span> Contact developer:
+      </div>
+      <!-- phone number as clickable link (tel:) -->
+      <a href="tel:+66627458511" class="phone-link" id="phoneLink" aria-label="Call developer at +66627458511">
+        <span class="icon">📱</span> +66 627 458 511
+      </a>
+    </div>
+
+    <!-- action row: copy number + call action -->
+    <div class="actions">
+      <button class="btn" id="copyBtn" aria-label="Copy phone number">
+        <i>📋</i> Copy number
+      </button>
+      <a href="tel:+66627458511" class="btn" id="callBtn" aria-label="Call now">
+        <i>📞</i> Call now
+      </a>
+    </div>
+
+    <!-- subtle footer -->
+    <div class="footer-note">
+      <span class="highlight">+66627458511</span> — tap to call or copy
+    </div>
+  </main>
+
+  <!-- copy toast notification -->
+  <div class="toast" id="toast">📋 Number copied!</div>
+
+  <!-- pure JS: copy to clipboard & interactive feedback -->
+  <script>
+    (function() {
+      "use strict";
+ 
+      const phoneNumber = "+66627458511";
+      const copyBtn = document.getElementById('copyBtn');
+      const toast = document.getElementById('toast');
+      const phoneLink = document.getElementById('phoneLink');
+
+     
+      function showToast(message) {
+        toast.textContent = message || '📋 Number copied!';
+        toast.classList.add('show');
+     
+        setTimeout(() => {
+          toast.classList.remove('show');
+        }, 2000);
+      }
+
+     
+      async function copyPhoneNumber() {
+        try {
+          
+          await navigator.clipboard.writeText(phoneNumber);
+          showToast('📋 Number copied!');
+        } catch (err) {
+          
+          fallbackCopy(phoneNumber);
+        }
+      }
+
+      
+      function fallbackCopy(text) {
+        const textArea = document.createElement('textarea');
+        textArea.value = text;
+        textArea.style.position = 'fixed';
+        textArea.style.top = '-9999px';
+        textArea.style.left = '-9999px';
+        document.body.appendChild(textArea);
+        textArea.select();
+        textArea.setSelectionRange(0, 99999); // for mobile
+        try {
+          const successful = document.execCommand('copy');
+          if (successful) {
+            showToast('📋 Number copied!');
+          } else {
+            showToast('❌ Copy failed, please copy manually');
+          }
+        } catch (err) {
+          showToast('❌ Copy failed, please copy manually');
+        }
+        document.body.removeChild(textArea);
+      }
+
+      // attach click to copy button
+      if (copyBtn) {
+        copyBtn.addEventListener('click', function(e) {
+          e.preventDefault();
+          copyPhoneNumber();
+        });
+      }
+      toast.setAttribute('aria-live', 'polite');
+      toast.setAttribute('role', 'status');
+      console.log('Welcome card ready — phone: +66627458511');
+
+    })();
+  </script>
+</body>
+</html>
