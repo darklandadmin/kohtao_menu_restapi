@@ -22,13 +22,13 @@
             "restaurant": true
         },
  {
-            "username": "theodyssey",
+            "username": "newodyssey",
             "name": "The Odyssey Phuket",
-            "logo": "",
+            "logo": "https://i.ibb.co/GfV5057g/FB-IMG-1793955449631.webp",
             "about": [
                 "Bar & Restaurant"
             ],
-            "cuisine": "International",
+            "cuisine": "Burmese,Thai,International",
             "restaurant": true
         }
 ]}
