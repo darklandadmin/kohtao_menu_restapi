@@ -20,6 +20,16 @@
             "cuisine": "Demo qr menu for you ",
             "restaurant": true
         },
+ {
+            "username": "newdefault2",
+            "name": "QR Menu Demo 2",
+            "logo": "https://i.postimg.cc/cHVgVTZM/yourwaiter.png",
+            "about": [
+                ""
+            ],
+            "cuisine": "Demo qr menu cafe ",
+            "restaurant": true
+        },
  
         {
             "username": "karaweik",
