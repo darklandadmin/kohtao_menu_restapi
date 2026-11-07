@@ -10,6 +10,16 @@
             "cuisine": "To Try Testing♥️",
             "restaurant": true
         },
+ {
+            "username": "newdefault",
+            "name": "QR Menu Demo 1",
+            "logo": "https://i.postimg.cc/cHVgVTZM/yourwaiter.png",
+            "about": [
+                ""
+            ],
+            "cuisine": "Demo qr menu for you ",
+            "restaurant": true
+        },
  
         {
             "username": "karaweik",
